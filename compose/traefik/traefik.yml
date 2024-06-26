@@ -28,7 +28,7 @@ certificatesResolvers:
 http:
   routers:
     web-secure-router:
-      rule: "Host(`localhost`)"
+      rule: "Host(`dash.tapflo.space`)"
       entryPoints:
         - web-secure
       middlewares:

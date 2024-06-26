@@ -33,8 +33,7 @@ st.divider()
 st.sidebar.header("SEO report date range👇")
 FILENAME = '/src/nz.csv'
 property_id = "359296335"
-with st.spinner('Loading Data from Google, Please Wait...'):
-    time.sleep(7)
+
 st.markdown("<h2><u>Form Submissions</u><h2>", unsafe_allow_html=True)
 
 # Date range input for the first date frame
@@ -47,6 +46,9 @@ end_date_1 = st.sidebar.date_input("End date of current month", pd.to_datetime("
 start_date_2 = pd.to_datetime("2023-01-01")
 end_date_2 =  pd.to_datetime("2023-12-01")
 
+with st.spinner('Loading Data from Google, Please Wait...'):
+    time.sleep(7)
+    
 placeholder = st.container()
 placeholder.empty()
 

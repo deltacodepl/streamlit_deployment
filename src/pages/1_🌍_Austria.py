@@ -35,15 +35,15 @@ st.sidebar.header("SEO report date range👇")
 FILENAME = '/src/at.csv'
 property_id = "348181553"
 
-with st.spinner('Loading Data from Google, Please Wait...'):
-    time.sleep(7)
-    
 st.markdown("<h2><u>Form Submissions</u><h2>", unsafe_allow_html=True)
 
 # Date range input for the first date frame
 start_date_1 = st.sidebar.date_input("Start date of current month", pd.to_datetime("2023-01-01"), disabled=True)
 end_date_1 = st.sidebar.date_input("End date of current month", pd.to_datetime("today"), disabled=True)
 
+with st.spinner('Loading Data from Google, Please Wait...'):
+    time.sleep(7)
+    
 # Date range input for the second date frame
 #start_date_2 = st.sidebar.date_input("Start date of month to compare", pd.to_datetime("2024-01-18"))
 #end_date_2 = st.sidebar.date_input("End date of month to compare", pd.to_datetime("today"))
