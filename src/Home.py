@@ -14,7 +14,7 @@ logo = "https://i.imgur.com/UbOXYAU.png"
 st.sidebar.image(logo)
 
 # Customize page title
-st.title("Tapflo Web Analytics Dashboard")
+st.title("Tapflo Global Web Analytics Dashboard")
 
 # st.markdown(
 #     """
