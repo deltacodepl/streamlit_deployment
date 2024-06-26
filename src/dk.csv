@@ -1,0 +1,93 @@
+﻿id,created,state,name,firma,email1,phone,how,sprog,message
+2,"2023-05-29 20:19:02",1,Sebastian,"Tapflo Sp. z o.o.",it@tapflo.pl,"xxx yyy zzz",Array,Array,"//test02
+formularz duży"
+3,"2023-05-29 20:20:09",1,Sebastian,"Tapflo Sp. z o.o.",it@tapflo.pl,"xxx yyy zzz",Array,Array,"//test03
+duży formularz - produkt"
+4,"2023-05-29 20:21:24",1,Sebastian,"Tapflo Sp. z o.o.",it@tapflo.pl,"xxx yyy zzz",Array,Array,"//test04
+duży formularz - dykpumper"
+5,"2023-05-29 20:22:37",1,Sebastian,"Tapflo Sp. z o.o.",it@tapflo.pl,"xxx yyy zzz",Array,Array,"//test05
+duży formularz - ibc mixer"
+6,"2023-05-31 06:49:13",1,"Marius Olsen","NIOS AS",marius.olsen@nios.no,"+47 41659351",Array,Array,"Hei, er på utsikk etter 4 stk slange pumper som kan passe inn i 2 stk dosering systemer som vi produserer. for prosses industri. vennlgst ta kontakt pr.mail slik at jeg får sendt over datablader pumper."
+7,"2023-06-25 11:16:08",1,"Einar T Lervik","JAKO AS",etl@jako.no,+4795800805,Array,Array,"Hei,
+Jeg er på jakt etter en pumpe som kan pumpe vann med akrylmaling. Vi har en kunde der vi har en vaskemaskin som kunde bruker til å vaske malingsruller, men jeg må ha en pumpe for å pumpe ut vaskevannet av vaskemaskinen.
+
+Ta gjerne kontakt for mer info:)
+
+Ha en riktig fin dag!
+
+//Einar
+JAKO AS"
+10,"2023-07-06 09:24:24",1,"Martin Jakobsen","Hoejmark Group a/s",mj@hoejmarkgroup.dk,+4523402450,Array,Array,
+11,"2023-07-07 08:33:39",1,"Jan Rosborg","Odense Maritime Technology A/S",jaro@odensemaritime.com,"+45 2194 3852",Array,Array,"Jeg har brug for en tegning af et AQE-4/6M anlæg til et værft tender design.
+
+Jeg kan bruge både 2D eller 3D.
+
+mvh.
+
+Jan Rosborg"
+14,"2023-08-18 10:20:15",1,"Peter Hertz","Abeo A/S (IBF)",ph@abeo.dk,61686548,Array,Array,"Hej Topflo
+
+Jeg kunne godt tænkte mig et tilbud på en IBC tank mixer, vi har kig på disse to: 1 - 250	LBC-037	Kraftig	Gearmotor	236	Folde	30 kg
+250 - 1.000	LBC-037	Mild - Medium	Gearmotor	236	Folde	30 kg
+
+Kan i være behjælpelige med det?
+
+Mvh.
+Peter Hertz
+Direktør"
+20,"2023-09-27 07:13:33",1,"Anton Houen","Steeper Energy",ahouen@steeperenergy.com,22158560,Array,Array,"Jeg vil gerne modtage mere information om jeres tøndemixer og en eventuel pris. Tøndemixeren skal være modellen med eget låg og ATEX godkendt"
+21,"2023-10-04 10:09:32",1,"Erik Pedersen",FL-tech,fredlykke@gamil.com,,Array,,"Hej 
+kan jeres CTV 32-12,5 erstatte en Grundfos MTR 10-12/12?
+
+Med venlig hilsen
+Erik Pedersen
+FL-tech
+Lykkebjergvej 40
+6800 Varde"
+22,"2023-10-06 09:42:28",1,"Poul Mortensen","Nordcoll A/S",pm@nordcoll.com,40255577,,Array,"Forespørgsel på mixer LBC-037, kraftig.
+Skal kunne håndtere asfalt lignende blandinger"
+24,"2023-10-30 09:47:53",1,Tobias,BWSC,toox@bwsc.dk,+4548125188,Array,Array,"Jeg skal bruge"
+25,"2023-10-30 10:04:50",1,Tobias,BWSC,toox@bwsc.dk,+4548125188,Array,Array,"Hej Tapflo
+
+Vi har et kraftværk som kunde, hvor vi kigger på deres olieslamsbehandling. I den forbindelse skal vi bruge nogle luftdrevne membranpumper, som kan pumpe både olieslam og oily water. I den nuværende applikation, har de et par Tapflo TX70, som de er godt tilfredse med. Jeg søger derfor priser på TX25, TX70 og TX120 leveret i Danmark, så vi kan sammensætte et tilbud til dem.
+
+Venlig hilsen
+Tobias, BWSC"
+29,"2023-12-15 09:57:13",1,Stephan,"COBOD International A/S",sz@cobod.com,,Array,Array,"Good day,
+
+Can you send me more information/experience on using this type of hose pump for pumping slurries, foam concretes, mortars and concretes? Including pricing of such systems. Important to have demonstration of this type of pump to transport concrete on site. Sufficient pumping pressure to pump 10m. 
+
+Thank you and kind regards."
+38,"2024-03-19 09:22:04",1,"Christian Fangel","NNE A/S",cifg@nne.com,+4530793100,Array,Array,"I need information on price and lead time for a sanitary ATEX rated diaphragm pump able to pump approx 7000 l/h@ 7 Bar
+Best regards
+Christian Fangel Senior Specialist Active products NNE Denmark "
+39,"2024-03-27 09:25:11",1,"Britt Wærp","drammen industriservice as",bw@drammenindustriservice.no,94849316,Array,Array,"Jeg søker 2 stk membranpumper til ett av våre prosjekter, modell T800 (KAPASITET 820 l/min) inn- og utløp flens DIN PN 10/16. Vi har tidligere erfaring med denne pumpen i en PTT kvalitet. Etterspør underlag og tilbud samt beste leveringstid. Vi kan fint dele opp leveransen hvis det gjør at leveransen av første pumpe går raskere. Vi ser ikke at vi har behov for spesiell sertifisering. 
+"
+41,"2024-04-02 05:25:01",1,"Lauritz bærentzen","Toptagrens ApS",Info@toptagrens.dk,50522811,Array,Array,
+42,"2024-04-04 07:58:48",1,"Juan Medina","Kaffe Bueno",juan@kaffebueno.com,71339759,,,"Hi
+Im looking for hygienic centrifugal pumps with flow control.#
+Can you help?
+
+Thanks
+
+Juan"
+43,"2024-04-22 05:44:23",1,"Emil Kirk","Eltronic Fueltech A/S",ehk@eltronicfueltech.com,+4528450167,Array,Array,
+45,"2024-04-30 12:04:30",1,"Christian Ingvorsen","DESMI Ro-Clean",coi@desmi.com,"+45 20160026",Array,Array,"Kan man få jeres membranpumper som eldrevne pumper? Eventuelt også hydraulisk drevne? På forhånd tak.Primært har jeg brug for nogle små pumper - 2 - 5 m³/h med en god løftehøjde (3-5 meter). "
+46,"2024-05-06 06:21:46",1,"Peter R. Winther","Danish Crown A/S",prw@danishcrown.com,21451148,Array,Array,"Pris og leveringstid ønskes oplyst på Tapflo TR20PET membranpumpe"
+50,"2024-05-30 17:32:12",1,"Chelsey D","WebsiteVisitr, Inc.",chelsey@websitevisitr.com,3058546144,Array,Array,"Hi, I am trying to get in touch with Joakim Eriksson but the email I sent bounced.
+
+Can you forward this email so we can connect? I can be reached at chelsey@websitevisitr.com
+
+Regards,
+Chelsey D."
+51,"2024-05-31 11:15:05",1,"Hans Sonnicksen","Jutlandia Terminalen",hbs@jut.dk,61653991,Array,Array,"Hej.
+Mit navn er Hans, og jeg er Chemical Supervisor ved Jutlandia Terminalen.
+
+ Jeg har brug for en mindre Membranpumpe som drives elektrisk. Den skal kunne tåle kemikalier. 
+
+Kan i sende mig et pat forslag, med tilhørende pris kalsse.
+
+Mvh. Hans Sonnicksen
+"
+52,"2024-06-17 12:36:38",1,"Jens Andersen",Daniatech,jna@daniatech.com,40588600,Array,,"Jeg brug for en pris for 2 stk membran pumper som skal bruges til at pumpe smagsemulsion og  juice koncentrat.
+Størrelser DN40 eller DN50 "

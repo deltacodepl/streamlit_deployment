@@ -1,0 +1,101 @@
+﻿id,created,state,name,company,email1,phone,message
+2,"2023-06-06 18:09:15",1,"Marcin Grzywiński",WEBSOLUTIONS,grzywa.mg@wp.pl,511688734,"test 3"
+3,"2023-06-06 18:10:39",1,"Marcin Grzywiński",WEBSOLUTIONS,grzywa.mg@wp.pl,511688734,"123123 test"
+5,"2023-06-07 05:56:22",1,Sebastian,"Tapflo Sp. z o.o.",it@tapflo.pl,"xxx yyy zzz","//test04
+Sebastian"
+6,"2023-06-07 05:56:59",1,Sebastian,"Tapflo Sp. z o.o.",it@tapflo.pl,"xxx yyy zzz","//test05
+Sebastian"
+9,"2023-06-27 07:19:01",1,test,test,test@test.lv,22222222,test
+12,"2023-06-28 19:01:16",1,"Marcin Grzywiński","Websolutions - usługi informatyczne Marcin Grzywiński",grzywa.mg@wp.pl,511688734,"test KZ form BIG"
+13,"2023-07-06 04:47:15",1,"Judy Tiu","SC AUTONET IMPORT SRL",purchase@autonet-ro.com,"    +40737326071","Dear Sir,
+ 
+I hope all is well with you.
+
+I am Judy Tiu, from SC AUTONET IMPORT SRL. We at AUTONET IMPORT are Supporting our customer in Purchasing PE & PTFE SERIES PUMPS products considering the present Contract we are working on.
+Please provide your best possible quote for a start, and CIF.
+
+Kindly provide your company catalog so we can review thereafter revert with our requirements to inform the quote.
+
+Please let me know if you would be able to assist and if you are not the persons in charge, kindly provide me with the contact details and email address of the right person, so that we can follow up immediately for the purchase of this.
+Your prompt feedback in this regard would be highly appreciated.
+
+Cu stimă/Best Regards/Tisztelettel,
+
+ 
+
+Judy Tiu
+
+Category Manager
+
+www.autonet-group.ro
+
+-----------------------------------
+
+SC AUTONET IMPORT SRL
+
+440122 Satu Mare, România
+str. Aurel Vlaicu, nr.78
+
+tel: +40 737 326 071
+
+interior: 3238
+
+fax: 0040 0261 807900
+
+e-mail: purchase@autonet-ro.com
+
+web: www.autonet.ro
+-----------------------------------"
+14,"2023-07-06 08:11:35",1,"Намазалы Эльдар ","ТОО ""TEMMER"" ",eldar_namazaly@bk.ru,87071806628,"Хотели бы узнать цену насоса и доставляете ли вы в Казахстан, город Тараз? Нам нужен пластиковый насос СТР"
+15,"2023-07-11 08:49:43",1,"Икласов Дияс",БГП,iklassov.diyas@gmail.com,"    +77056864216","комплект воздушного клапана 6-400-61"
+16,"2023-07-17 10:33:56",1,Анастасия,ALPCOM.KZ,alpstoy.com@mail.ru,"    +77022320451","Здравствуйте! нужен мембранный пневматический насос двухдиафрагменный  с мощностью 570 литров/мин."
+17,"2023-07-18 04:31:02",1,"Каппасулы Алишер","НПЦ ЭиПБ",kappasuly@mail.ru,87075450131,"Хотел узнать цены на дозирующие насосы, если можно получить кп на почту "
+18,"2023-07-21 02:54:07",1,"Пак Владимир Ильич","RG Gold",vladimir.pak@rggold.kz,"    +77058110679","Вышлете тех.хар-ки и чертеж с базовыми размерами(для уст-ки насоса и соединение всаса/нагнетание резьба/отверстие)"
+20,"2023-08-16 10:57:16",1,"Макаров Станислав Александрович","ООО Русская Купоросная Компания",gl.ing@ru-cu.ru,89876094085,"Здравствуйте. Нужно подобрать моноблочный химический насос с механическим уплотнением для перекачивания 25% раствора серной кислоты, используемой при производстве нашей продукции. Насос типа SEALPRO."
+22,"2023-09-18 14:59:03",1,"Саттаров Казыбек","ИП КУКА",kazy_bek@mail.ru,"    +77007260295","Нужна информация по плунжерным насосам"
+24,"2023-10-25 10:03:58",1,Бекжан,Масло,mr.bek-93@mail.ru,"    +77071339393","Бочковый насос"
+28,"2023-12-19 05:23:30",1,"Мейржан ","Алматы су ",miks.kz.arp@gmail.com,87074734433,"Плунжерный насос "
+31,"2024-02-05 08:54:57",1,"Асад Гашимов","RBE GROUP COMPANY LLC",office@rbegroupcompany.az,"    +994 99 777 06 06","Здравствуйте уважаемый коллегa,
+
+
+Меня зовут Асад, и я обращаюсь от имени ООО «RBE GROUP COMPANY», расположенного в Баку, Азербайджан.Нас интерисуют ваши продукты.
+
+
+На данный момент нам нужны насосы. Отпишите пожалуйста мне в почту , я скину Excel файл в котором можете посмотреть подробнее.
+
+
+С нетерпением ждем вашего быстрого ответа.
+С наилучшими пожеланиями,
+
+
+Асад Гашимов
+WhatsApp:+994 99 777 0606
+RBE GROUP COMPANY LLC"
+32,"2024-02-08 23:09:56",1,Сахиб,Buildmaster,info@buildmaster.kz,87082888486,"Здравствуйте, нужна консультация по дозирующим насосам, для жидкого мыла. Высоковязких жидкостей. "
+33,"2024-02-15 11:29:04",1,Алтай,ASP,deputy@altynstroy.kz,87715659669,"Хотим у вас заказать насос дозирования метанола. Рабочие параметры: расход- 25л, давление 400 bar. Прошу вас позвонить мне по указанному номеру."
+34,"2024-02-15 12:46:18",1,"Lauren Knight",n/c,notification@domainsystems.co,00188969333,"Disclaimer: We are not accountable for any financial losses, information loss, decline in search engine rankings, missed customers, undeliverable email or any other detriments that you may suffer after the expiry of tapflo.kz. For more information please consult section 89.b.1a of our User Agreement.
+This represents your final notice to renew tapflo.kz:
+https://domainsystems.co/renew/VEFQRkxPLkta
+In the scenario that tapflo.kz expires, we reserve the privilege to provide your spot to rival businesses in the equivalent sector and area after 3 business days on an auction basis.
+This constitutes the final notification that we are obliged to send out concerning the expiration of tapflo.kz
+Safe Online Payment:
+https://domainsystems.co/renew/VEFQRkxPLkta
+All functions will be immediately reinstated on tapflo.kz if payment is received in full before termination. Thanks for  your understanding."
+37,"2024-03-06 05:27:28",1,"Оспанов Ильяс Ерланович","Caravan Resources",Ilyas.Ospanov@caravanresources.com,87053305252,"Добрый день, меня зовут Ильяс. Я являюсь технологом в компании Caravan Resources  является горнодобывающей компанией и в данный момент мы ищем техническое решение по подаче пероксида водорода в технологический процесс. В поисках более быстрого решения для закупа "
+39,"2024-03-18 09:33:46",1,"Артур Процман","ИП ARTEX",kz.artex@gmail.com,"    +77076980788","Нужен дозирующий химический насос"
+41,"2024-03-29 06:20:09",1,Мурод,UZKIP,m.baysarov@uzkip.com,"    +998952340202","Добрый ден!
+Мы хотели у вас уточнить по насосам, а так же условие доставки (отправки) товаров в Республику Узбекистан"
+42,"2024-04-01 13:52:52",1,"Джумабаев Даурен Айткалиевич ","Алтын групп Казахстан ",dauren.dzhumabaev@bk.ru,87009609962,"Насос для пресс фильтра "
+43,"2024-04-03 05:20:42",1,Алмат,"ТОО ""КазМетСервис""",82@kzmc.kz,87777781013,"Насос центробежный одноступенчатый CPm 25/150-0,75/3"
+44,"2024-04-03 05:51:37",1,"Есенов Манас ","ИП олжа ",yssenovmanas@gmail.com,"    +7765262813","Сколько стоит оббуровдовня для производства бытовой химии "
+45,"2024-04-05 06:59:41",1,Олег,"АО Баян Сулу",oleg.engineer.bs@gmail.com,87717637896,"Добрый день.
+
+Хотелось бы узнать имеются ли у вас в наличии Плунжерный насос НД 1000/16"
+46,"2024-04-16 04:07:45",1,Олег,"АО Баян Сулу",oleg.engineer.bs@gmail.com,87717637896,"Добрый день.
+
+Требуется мембранный насос для вязких жидкостей"
+49,"2024-05-10 14:47:42",1,Сергей,Рррррр,porn@gmail.com,87087677887,"Каталоги оборудования для агрессивных сред"
+50,"2024-05-20 02:38:54",1,"Евгений ","АО Сибкабель",Vasilyev_E@sibkabel.ru,9138281534,"Добрый день!
+А какая предполагается мощность привода для шестеренчатого насоса TG G/H 15-50?"
+51,"2024-05-24 10:47:01",1,MATTEW,"ООО «PROMTOVAR»",promtovaruz@gmail.com,8934314565,"HELLO TEAM I NEED TO PURCHASE Уплотнение к механическому корпусу насоса перекачивающего технологическую жидкость "
+54,"2024-06-17 04:14:11",1,"Otepkaliyev Nauryzbek","""RauanNTech"" LLP",n.otepkaliyev@rauanntech.kz,87015671410,"Шнековый насос для высоковязких жидкостей"

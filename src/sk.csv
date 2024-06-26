@@ -1,0 +1,46 @@
+﻿id,created,state,fullname,company,email1,phone,message
+4,"2023-09-11 07:46:07",1,,tapflo,logistika@tapflo.cz,734449010,123
+5,"2023-09-11 08:28:47",1,test,Tapflo,test@test.com,"+48 123 456 789",test
+7,"2023-09-11 08:46:52",1,test,test,test@test.com,"+12 34 45 67 89",test
+10,"2023-09-11 08:50:00",1,test,test,test@test.com,+345345345,test
+11,"2023-09-11 08:54:40",1,,tapflo,logistika@tapflo.cz,123,123
+13,"2023-09-11 08:55:35",1,tesrt,test,test@test.com,"+364 3762 726",test
+14,"2023-09-11 08:57:09",1,test,test,test@test.com,+9043827832,test
+15,"2023-09-11 08:58:04",1,,tapflo,logistika@tapflo.cz,123,test
+19,"2023-09-11 09:33:51",1,test,test,test@test.com,"=67854 345635",test
+20,"2023-09-11 09:34:17",1,test,test,test@test.com,"+453 3453 33",test
+23,"2023-09-14 06:17:08",1,test,test,test@test.com,"+34523 45252",test
+24,"2023-09-14 06:22:26",1,test,tes,test@test.com,"+655673563 ",test
+27,"2023-09-15 10:11:28",1,Test,Vivantina,belak@vivantina.com,0917555258,"Je to len test konverzií. Ďakujem. "
+28,"2023-09-15 10:37:59",1,Test,Vivantina,belak@vivantina.com,0917555258,TEST.
+29,"2023-09-19 05:24:52",1,"Ing. Michaela Knapiková","TATRAVAGÓNKA a.s.",michaela.knapikova@tatravagonka.sk," +421 918 130 748 ","Dobrý deň prajem, 
+poprosila by som vás cenu na elektrické čerpadlo. Používať sa bude na riedidlo C6000, čerpanie z  200 litrových sudov. 
+Ďakujem veľmi pekne "
+30,"2023-09-22 10:22:26",1,"Gabriel Horvath","HOFITECH s.r.o.",horvath@hofitech.com,0905140109,"Dobry den,
+
+chcel by som Vas poprosit o zaslanie cenovej ponuky na elektricky pohanane membranove cerpadlo typu TE200T.
+Za Vasu skoru odpoved vopred dakujem.
+
+s pozdravom
+Horvath
+"
+34,"2023-12-04 09:41:58",1,Test,Vivantina,belak@vivantina.com,0917555258,TEST
+36,"2024-01-13 06:57:18",1,"Vladimír ","K.M .studne",vladokrausko12@gmail.com,"0915 724 724 ","Dobrý deň potrebujem kalové čerpadlo ktoré bude mať vytlak 50m.a prietok cca 800 l/min.Mate niečo také v ponuke?
+S pozdravom Krausko "
+38,"2024-01-18 11:32:12",1,,tapflo,logistika@tapflo.cz,734449010,test
+42,"2024-03-07 10:49:09",1,"Ivan Martinček","Žilinská univerzita",ivan.martincek@fstroj.uniza.sk,+421949129864,"Dobrý deň, mali by sme záujem o zubové čerpadlo (do 180 °C) pre alkoholy/glykoly s prietokom do 10l/min. Vedeli by ste nám takéto čerpadlo ponúknuť?
+
+Ďakujem za odpoveď."
+43,"2024-03-27 12:20:09",1,"Tomaš Frťala","Kroslak sro",samot009@azet.sk,0908718641,"Dobry den 
+prosim o cenovu ponuku na sudove miesadlo elektricke, ktore sa da pripevnit priamo k sudu 
+dakujem"
+45,"2024-04-05 08:41:22",1,"Tomaš Frťala","Kroslak sro",tomas.frtala@kroslak.sk,0908718641,"prosim o info o dostupnosti  na miesadlo
+dakujem"
+46,"2024-04-16 18:56:11",1,"ĹUBOMÍR GARAI","SAUNA LUBO",lubomirgarai@gmail.com,0903935250,"MÁM ZÁUJEM "
+47,"2024-04-25 10:40:29",1,"Pavel Kyselica","LEVICKÉ MLIEKÁRNE a.s",pavel.kyselica@levmilk.sk,0903821518,"V prevádzke potrebujeme prečerpávať čistiaci prostriedok s obchodným názvom HOROLITH OXY. Je to prostriedok na čistenie(CIP) v potravinárskom priemysle. Na tento účel potrebujem vhodne čerpadlo.
+ Parametre čerpadla: Q=3l/s, T média 80st C, tlak p=0,5MPa, motor vhodný na ovládanie FM.
+KARTA BEZPEČNOSTNÝCH ÚDAJOV chemikálie HOROLITH OXY vám bude zaslaná ak dostanem váš e mailový kontakt(hlavná zložka je 1,5% roztok kyselina
+trihydrogénfosforečnej). Čakám na odpoveď."
+50,"2024-05-20 08:36:59",1,"Pavol Matolek",P-MAT,pmat@pmat.sk,0903240280,"dobry den , zhanam johnsom pumpu na lodny motor oznacenie F4B-903 , 10-24509-01 ...vedli by ste mi pomoct ? dakujem"
+52,"2024-06-06 20:16:34",1,"Roman Hruška","RH Stavmont.sro",romanhruska2727@gmail.com,0951472697,"Dobry vecer prajem zháňam čerpadlo na lepidlo ktoré sa pouziva na výrobu sip panelov ,,je také niečo u vás zohnať, poprípade ma kontaktujte na tel č+421951472697 "
+53,"2024-06-19 11:26:24",1,"Sojka Michal ","Tauris a.s.",sojkam@tauris.sk,0910254781,"Dobrý deň ,mali by sme záujem o CP na čerpadlo FIP20 1400ot/min. Ďakujem Sojka,"

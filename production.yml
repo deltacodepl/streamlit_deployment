@@ -13,7 +13,7 @@ services:
     restart: always
     expose:
       - "8501"
-    command: streamlit run src/app.py
+    command: streamlit run src/Home.py
 
   traefik:
     build:
