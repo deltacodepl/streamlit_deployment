@@ -10,7 +10,7 @@ services:
       dockerfile: ./compose/streamlit/Dockerfile
     image: streamlit_production
     container_name: streamlit_app
-    restart: always
+    restart: unless-stopped
     expose:
       - "8501"
     command: streamlit run src/Home.py
