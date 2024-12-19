@@ -1,785 +1,54 @@
 ﻿id,created,state,name,firma,kodpocztowy,telefon,email1,wiadomosc
-13,2023-05-31 06:48:47,1,Adrian Praczyk,Maronex,61-315,502040100,maronex@maronex.com,"Dzień Dobry
-
-Chciałbym zapytać o koszt pompy"
-14,2023-06-01 11:34:26,1,Iryna Didushko,CP Trade,30-733,48122558566,iryna.didushko@cptrade.pl,"Dzień dobry
-
-Proszę uprzejmie o przedstawienie oferty cenowej wraz z terminem realizacji na CN 50-160 7.5 HP. 
-Ilość: 1 szt.
-
-"
-15,2023-06-02 07:03:17,1,Konstanty Kowalczyk,PESA MIŃSK MAZOWIECKI SA,05-300 Mińsk Mazowiecki,724990060,konstanty.kowalczyk@mm.pesa.pl,"Witam, jesteśmy zainteresowani zakupem pompy typ T100 PEE. Proszę o przesłanie oferty"
-16,2023-06-05 07:39:33,1,Przemysław Zdyb,Pepe,86-050,534-242-907,p.zdyb@pepesolec.pl,"Dzień dobry,
-Proszę o ofertę na mieszadło do standardowych beczek z tworzywa sztucznego. Klient wymaga aby mieszadło było w wersji ATEX oraz dobrze gdyby posiadało dokumentację FDA. Będę wdzięczny za kontakt zwrotny.
-Pozdrawiam 
-Przemysław Zdyb"
-17,2023-06-05 13:22:20,1,Marianna Sowińska,Water Serwis Sowińscy sp. j.,62-030,509950805,biuro@waterserwis.pl,"Dzień dobry,
-poproszę o ofertę podwójnego filtra firmy Airpel Filtration, stal nierdzewna, DN80 EN1092-1 PN16, numer katalogowy OWWB-300F-A-V.
-
-Pozdrawiam
-Marianna Sowińska"
-19,2023-06-06 10:41:22,1,Wojciech Łuszczak,Biowatt S.A,61-006 Poznań,609321842,wojciech.luszczak@biowatt.pl,"Dzień dobry , prośba o ofertę na 2 pompy w stadardzie EX do studni z kondensatem minimalna wysokość podneszenia to 20 metrów .
-"
-20,2023-06-07 06:47:20,1,Paweł Waszczuk,Sokołów Service Sp. z o.o.,08-300,48539035124,pawa@sokolow.pl,"Dzień dobry,
-potrzebuję pompy CTBB 1SSV-02. Proszę o przesłanie oferty.
-
-Pozdrawiam serdecznie,
-Paweł Waszczuk."
-21,2023-06-07 09:46:18,1,Karolina Kostera,JJPM,04-844,534251365,karolina.kostera@adbl.eu,Dzień dobry. Mogę prosić o wycenę układu mieszania i rozcieńczania SLESU?
-22,2023-06-08 09:38:14,1,Tomasz Gąsiorowski,Heating Systems,91-222,723706156,tomek@heatingcooling.pl,"Proszę o wycenę pompy do plynnej czekolady, bez podgrzewu. Q max 20m3/h, H max 2,2 bar  "
-23,2023-06-12 06:22:59,1,Adam Rubin,Spółdzielnia Mleczarska ROSPUDA w Filipowie,16-424 Filipów,500 564 562,produkcja@smrospuda.pl,"Dzień dobry,
-
-Spółdzielnia Mleczarska ROSPUDA w Filipowie składa zapytanie na uszczelki do pasteryzatora APV DK-6000, PHE typ H17 RKS-10/5
-
-Pozdrawiam
-Adam Rubin"
-24,2023-06-16 08:45:13,1,Nikos Kacprzak,Zasada Fabryka Maszyn Sp. z o.o.,41-902,733121099,techniczny@zfm-online.com,"Witam,
-proszę o wysłanie oferty na pompę membranową TR09.
-Z góry dziękuje."
-25,2023-06-16 08:58:32,1,Adrian Czernicki,Airex Poland,72-200,661933942,adrian.czernicki@3acomposites.com,"Proszę o ofertę, albo wskazanie partnera gdzie mógłbym dostać ofertę na elektryczną pompę membranową model: TE100P oraz drugą ofertę na T120S."
-26,2023-06-19 05:06:36,1,Kzysztof Jurczenko,DR Schumacher,59-800,793712989,krzysztof.jurczenko@schumacher-online.com,"proszę o ofertę na 1 sztukę CTM 40-12.5, materiał całość PP. przyłącza kołnierzowe, "
-28,2023-06-21 07:20:44,1,Dariusz Czyżewski ,Grupa Azoty Zakłady Chemiczne Police ,72-010,519501594,dariusz.czyzewski@grupaazoty.com,"Proszę o przesłanie oferty na zakup pompki membranowej T 50 z PTFE oraz zestawu naprawczego /membrany .
-Zestaw naprawczy do usprawnienia pompki którą posiadam a która zakupiłem u państwa kilka lat wstecz."
-29,2023-06-21 17:25:53,1,Pawlak Bartosz,PPHU EURO-SERWIS PAWLAK BARTOSZ,46-146,601668701,pphu.euro.serwis@gmail.com,"Poszukuję pompy mogącej pracować w strefie zagrożenia wybuchem do przesyłu paliw, oleju przepracowanego oraz rozpuszczalników.  wydajnośc w zakresie 150-200 litrów/ min posiadam sprężarkę o ciśnieniu do 10 bar wydajność powietrza 600l/min 
-Prosze o przedstawienie oferty "
-30,2023-06-22 06:40:42,1,Piotr Kamiński,TechTrend Piotr Kamiński,35-082,506542070,biuro@techtrend.com.pl,"Zapytanie 5928
-Proszę o ofertę na odsprzedaż klientowi następującego produktu:
-
-Dmuchawa RBS_65/SP ROBUSCHI,  1 sztuka
-
-W odpowiedzi istotne jest podanie :
-ceny / terminu realizacji /kosztów ewentualnego transportu "
-31,2023-06-22 13:08:13,1,Cezary Mróz,BMG Goworowski Sp. z o.o,81-537,606376573,cezary.mroz@bmg.mercedes-benz.pl,"Dzień dobry, zwracam się z prośbą o przesłanie oferty (cena i termin realizacji) na pompę beczkową z zasilaniem 220V, która będzie służyć do przepompowania płynu hamulcowego z beczki 60-litrowej do pojemnika 10-litrowego. Proszę o wytypowanie odpowiedniej rury ssącej oraz pistoletu dozującego. Preferujemy wersje najtańsze z uwagi na brak konieczności pracy w trybie ciągłym. Z góry dziękuję i pozdrawiam, Cezary Mróz"
-32,2023-06-22 13:50:41,1,Szymon Wachowicz,Medica Herbs,30-812,796228582,info@medicaherbs.com,"Dzień dobry, 
-Jesteśmy zainteresowani zakupem pompy membranowej tapflo T30. Maszyna będzie dostarczać surowce spożywcze do zbiornika maszyny saszetkującej.
-Proszę o przedstawienie oferty.
-
-W razie wątpliwości pozostaję do dyspozycji.
-
-Z pozdrowieniami.
-
-Szymon Wachowicz
-tel: 796228582
-.....
-http://www.medicaherbs.pl
-
-Medica Herbs S.C.
-ul. Bieżanowska 23e
-30-812 Kraków
-
-NIP: 6751496387
-REGON: 123036675"
-33,2023-06-23 06:25:59,1,Łukasz Janicki,Farm-MPartner,63-000,505 726 896,lj@farmpartner.eu,"Witam,
-
-Poszukuje zaworu higienicznego do instalacji mleczarskiej firmy SPX.
-Niestety nie mam nr katalogowy, jedyne co posiadam to informacje.
-Zawór trójdrożny wyjścia na 20mm DN20 do mleka z stali kwasoodpornej.
-
-Proszę o kontakt w kwesti nawiązania współpracy wtedy prześle zdj któr pomogą w ustaleniu nr kat
-
-Pozdrawiam
-
-Łukasz Janicki"
-34,2023-06-23 08:06:37,1,Justyna Sulima,Krosglass,38-400,605565357,j.sulima@krosglass.com.pl,"Dzień dobry, 
-piszę z zapytaniem o pompę  WIROWĄ CTV, w wersji stal 316L. Zależy nam na przedłużeniu głębokości zanurzenia do 80cm oraz na wydajności od 0,05 m3/h do 10m3/h przy podnoszeniu  na około 5-7m. Pompa do przesytu substancji zawierających części stałe, dyspersje polimerowe. Gęstość przenoszonej cieczy od 1003 kg/m3 - 1010kg/m3"
-35,2023-06-26 13:33:57,1,Michał Opałka,DCR SP Z O.O.,97-371,600047299,michal.opalka@dcr.com.pl,"Witam.
-Proszę o ofertę na pompę Taplflo CTI ER-55"
-36,2023-06-27 10:32:29,1,Paweł Płaczek,Nawrocki Maszyny,88-400 Żnin,660702121,pawel.placzek@granulatory.com,"Dzień dobry,
-Potrzebuję dobrać pompę do substancji przypominającej szlam/błoto i wydaję mi się, że pompy wirowe z Państwa oferty były by odpowiednie jednak nie mogę dokładnie określić parametrów tej cieczy a potrzebuję wydajność w okolicy 500l/min.
-Proszę o kontakt i pomoc w doborze, 
-Pozdrawiam Paweł Płaczek
-tel. 660702121"
-37,2023-06-27 11:03:05,1,Katarzyna Pięta,ELION SP. Z O.O.,44-100,604409523,katarzyna.pieta@elion-circular.com,"Dzień dobry; 
-zwracam się do Państwa z prośbą o ofertę cenową na pompy membranowe ze wzmacniaczem ciśnienia TF100. 
-Proszę również o informację, czy taka pompa jest dostępna w połączeniu kołnierzowym, czy jedynie gwintowanym? 
-
-Pozdrawiam, 
-Katarzyna Pięta"
-39,2023-06-27 12:54:38,1,Marcin Grzywiński,Websolutions - usługi informatyczne Marcin Grzywiński,80-890,511688734,grzywa.mg@wp.pl,TEST COM.PL duży form
-40,2023-06-27 23:00:21,1,Daniel B Klosowski,Eko-Chemia,87-148,518933943,d.klosowski@eko-chemia.pl,"Jestem zainteresowany mieszadłem do IBC do mieszania cieczy o wysokiej lepkości (emulsje, poliaminy).
-Proszę o kontakt w sprawie oferty handlowej."
-41,2023-06-28 05:42:41,1,Edward Nowobilski,Van Pur,41 - 800,785080055,e.nowobilski@vanpur.com,Proszę o przesłanie oferty na pompę membranową pneumatyczną T50. PE - dozowanie silnie utleniającego kwasu nadoctowego /woda utleniona
-42,2023-06-28 07:13:40,1,Kacper Koteras,FLC Industries Sp. z o.o.,47-225,723223314,kacper.koteras@flci.pl,Zwracam się z prośbą o przygotowanie oferty na pompę membranową TR09 z PTFE. Wysyłka w Polsce.
-43,2023-07-03 16:02:57,1,Marcin Herba,DuSart Pharma b.v.,2222 AV ,653409678,marcin.herba85@gmail.com,"Witam bardzo serdecznie. Moje pytanie jest następujące. Czy jest dostępny cennik dla pomp krzywkowych? 
-Z wyrazami szacunku Marcin Herba"
-44,2023-07-05 09:48:16,1,Arkadiusz Taramas,T&T Pumps,87-162,664474014,biuro@ttpumps.pl,"Witam,
-Proszę o przedstawienie oferty na dostawę pomp Someflu:
-
-Typ M150/20P/SP wydajność max 20 m3/h, ciśnienie 1-3 bar, moc 3 kW, 2850 rpm
-Typ DB22, wydajność 20 m3/h, moc 5,5 kW, 2900 rpm.
-
-Medium to kwas solny o stężeniu 40%
-Z poważaniem/Best regards/Mit freundlichen grüßen
-
-Arkadiusz Taramas
-Specjalista d/s. sprzedaży
- 
-T&T Pumps Sp. z o.o.
-ul. Piaskowa 20
-87-162 Lubicz Górny
-NIP: 879 267 45 85
-
-Oddział Sulnowo:
-Sulnowo, ul. Brzozowa 2
-86-100 Świecie
-
-tel.: +48 664 474 014
-e-mail: Arkadiusz.taramas@ttpumps.pl 
-
-"
-45,2023-07-05 11:00:44,1,Monika Kotłowska,Jacques Battini Cosmetics Sp. z o.o.,14-200,+48 89 679 72 55,m.kotlowska@jbattini.com,"Uprzejmie proszę o ofertę na pompę membranową TXR20 PTT (w wykonaniu EX ATEX)
-Przyłącze gwintowane w rozmiarze 3/8""x1/2"" 
-Jaki jest aktualnie czas realizacji ewentualnego zamówienia? "
-46,2023-07-07 07:44:31,1,Marek Gul,Spółdzielnia Mleczarska Mlekovita Oddział w Trzebownisku,36-001,48691550976,mgul@mlekovita.com.pl,Proszę o ofertę na kule do zaworu zwrotnego fi 47 Model T225 - ilość 4szt
-47,2023-07-07 10:55:15,1,MARCIN MACH,FAROUK SYSTEMS POLSKA,60-446,667999877,M.MACH@FAROUK.PL,"Dzień dobry,
-jestem zainteresowany 
-1. Stacją mieszania i pompowania. Jaki rodzaj mieszadła jest przewidziany w konstrukcji? Jak wygląda kwestia mycia zbiornika?
-2. Stacją mieszania - zarówno w wersji stacjonarnej, jak i mobilnej - proszę o przedstawienie oferty.
-
-Pozdrawiam 
-Marcin Mach"
-48,2023-07-10 08:07:44,1,Przemysław Wałtosz,Mega Nysa,48-303,535006473,p.waltosz@mega-nysa.pl,"Dzień dobry, 
-
-Kontaktuję się z państwem ponieważ szukam pompy lub najlepiej kompleksowego stworzenia takiego systemu który pozwoli przepompować 60m3 wody ze zbiornika do drugiego zbiornika w 40 minut a następnie wypompowanie wody do pierwszego zbiornika.
-Pozdrawiam"
-49,2023-07-12 06:20:40,1,Piotr Moruś,FF Marka własna Sp. z o.o. Torowa 13 Chechło Pierwsze,90-105,512462326,Piotr.Morus@ffmw.pl,"Dzień dobry.
-Posiadamy w zakładzie nowa instalacje oparta na pompach TAPFLO typ CTX H 50-200/200-1SGV2D-75M
-Proszę o ofertę na zestaw uszczelnień do tej pompy"
-50,2023-07-19 05:55:11,1,Łukasz Puniewski,"Silcare, Gorzów Wlkp",66-400,784144837,lukasz.puniewski@silcare.com,"Dzień dobry, 
-
-Szukam pompy membranowej do transportu materiałów sypkich, widzę posiadacie Państwo pompę model TXP120, myślę, że spełniłaby ona nasze oczekiwania, jaki jest koszt takiej pompy? I czy jest możliwość ew. wypożyczenia pompy do testów? Zainteresowani jesteśmy kupnem dwóch takich pomp. 
-
-Pozdrawiam"
-51,2023-07-19 14:23:17,1,Maciej,kratki.pl,26-600,792658488,m.boniecki@kratki.com,"Witam
-
-Poproszę o ofertę na pompę 
-
-T25 	26 	1/2"""
-52,2023-07-20 11:51:52,1,Grzegorz Kornatowski,Termoizolacja i Antykorozja TERBUD Bogdan Jonkwisz,09-400,601069374,grzegorz.kornatowski@terbud.pl,"Dzień dobry,
-zwracam się do Państwa z prośbą o dobór, wykonanie i dostawę mieszadła do zbiornika (reaktora) według poniższych danych:
-1. Zbiornik
-   1.1 średnica wewnętrzna fi766mm
-   1.2 wysokość zbiornika (od przylgi kołnierza do dna) 862mm
-   1.3 sposób mocowania kołnierz średnica zewnętrzna fi200mm
-   1.4 materiał zbiornika stal kwasoodporna 304/304L
-2. Medium
-   2.1 nazwa medium: żel + zasada 50% + szkło wodne
-   2.2 temperatura robocza +55stC
-   2.3 gęstość w temp. +20stC: 1,45g/cm3
-   2.4 lepkość w temp. +20stC: 200mPa*s
-3. Mieszadło
-   3.1 środowisko pracy normalne (brak stref Ex)
-   3.2 konstrukcja mieszadła: dwie duże łopaty zgarniające przy dnie i ścianie zbiornika + dwie łopaty mieszające małe (wewnątrz dużych łopat)
-   3.3 obroty mieszadła; 1-87 obr/min (silnik z falownikiem umożliwiającym płynną regulację obrotów)
-   3.4 typ przekładni (reduktora) według producenta
-   3.5 silnik: moc 2,2 kW (do sprawdzenia), zasilanie 3x 400V, wykonanie normalne (nie Ex).
-W przypadku jakichkolwiek pytań proszę o kontakt. Na Państwa ofert ę oczekujemy do dnia 27.07.2023 roku."
-53,2023-07-21 12:39:39,1,Jarosław Kupiec,PFTechnology sp. z o.o. ,26-680 ,+48 607 192 854,j.kupiec@pftechnology.eu,"Dzień dobry,
-Czy mógłbym poprosić o dobranie dozującej pompy membranowej o maksymalnej wydajności 15 l/h (w zakresie 0 - 15 l/h), która posiada możliwość sterowania jej wydajnością na podstawie sygnału zewnętrznego z naszego sterowania (4-20 mA)?
-Medium: koagulant nieorganiczny
-Temperatura: 5 – 30 °C
-Materiał pomp: tworzywo 
-Ciśnienie tłoczenia: na max 5 m słupa wody – ok. 1 bar
-Czy mógłbym również poprosić o propozycje pomp membranowych o maksymalnym przepływie 30 l/h i 60 l/h (najlepiej zakresy 0-30 i 0-60) do wspomnianego medium?
-Czy takie pompy będą odporne też na roztwór NaOH?
-Jaka jest minimalna wydajność proponowanej pompy/pomp?
-Do oferty prosiłbym dołączyć ssak (koszyk) z filtrem, zawór wyrównujący (za pompą), zawór stałego ciśnienia, jeśli są niezbędne.
-Pozdrawiam,
-Jarosław Kupiec"
-54,2023-07-25 06:15:43,1,Michal Maciej Sliwa,Mike&Mike,44119,4793844664,michalsliwa@yahoo.com,"Witam Serdecznie 
-Szukam pompy wodu spx johnson pump 10-24515-11bronse _F6b-9 .
-Czy jestescie Panstwo mi ja sprowadzic i jaki bylby koszt tekiego produktu ?
-Z powazaniem 
-MichalSliwa "
-55,2023-07-25 06:57:43,1,Maciej Jagodziński,Biofaktor Sp. z o.o.,96-100 Skierniewice ul. Czysta 4,532 752 980,maciej.jagodzinski@biofakor.pl,"Dzień dobry 
-Jesteśmy zainteresowanie zakupem pompy. 
-Moc ok. 2,2 kw 
-Pompa pracowała by z cieczami zarówno gęstymi jak syropy jak i rzadkimi, czasem z chemikaliami. Temperatura cieczy do ok.90°C 
-Proszę o zaproponowanie jakiegoś produktu. 
-Z poważaniem 
-Maciej Jagodziński "
-57,2023-07-31 12:54:25,1,Krzysztof Liput,Victoria Cymes Sp. z o. o.,78-600,693431845,k.liput@cymes.pl,Proszę o adres email w celu wysłania zapytania o homogenizator wysokociśnieniowy
-58,2023-08-03 07:25:59,1,Grzegorz Goszczyński,Sieper SP. Z o.o.,59-500,883844440,grzegorz.goszczynski@sieper.pl,"dzień dobry,
-
-Proszę o ofertę cenową na pompę TR09.."
-59,2023-08-04 08:13:04,1,Adrian Zapolski,Bendex,16-010,506504767,adrian.zapolski@bendex.pl,"Witam, proszę o ofertę cenową na pompę membranową   t50  PTT     // serial number -  1903 - 1789      "
-60,2023-08-05 08:20:45,1,Sebastian Tomkowiak,AQUASENS - Sebastian Tomkowiak,64-010,607503975,tomkowiak.s@wp.pl,"Proszę o ofertę terminową i cenową na pompy beczkowe. Medium podchloryn sodu 14,5%"
-61,2023-08-07 08:36:02,1,Mateusz Dyrdaś,ZACH METALCHEM Sp. z o.o,44-103,697178729,mateusz.dyrdas@metalchem.pl,"Dzień dobry 
-Proszę o przedstawienie oferty na: 
-TE50P	48l/min	1/2""BSP     - 8 sztuk. 
-
-Z poważaniem
-Mateusz Dyrdaś"
-62,2023-08-09 10:55:20,1,Michał Skotarski,Probit Sp z o.o. ,16-020,530 703 941,m.skotarski@probit-wmb.pl,"Dzień dobry,
-proszę o przygotowanie oferty na pompę do rozładunku bitumu z cystern samochodowych."
-63,2023-08-09 11:56:13,1,Rafał Gawęda,Grupa Kęty SA,32-650,501560189,rgaweda@grupakety.com,"Witam 
-Proszę o ofertę na części zamiene do pompy membranowej Typ  T100.
-Części podaję według pozycji na liście części.
-
-1. Poz 61. Zestaw dystrybutora powietrza szt. 4
-2. Poz.13. Króciec  szt. 4
-3. Poz.36. Uszczelnienie centerbloku  szt. 10
-4. Poz.47. O-ring (za oringiem 36)  szt. 16
-5.Poz.18. Komplet o-ringów na króćce kpl. 10 
-
-Pozdrawiam Rafał Gawęda  Grupa Kęty"
-64,2023-08-09 19:59:37,1,Marcin Dybowski,Hydrogeotechnika Sp. z o.o. ,25-634 Kielce,791176655,mdybowski@hydrogeotechnika.pl,"Dzień dobry, bardzo bym prosił o przedstawienie oferty cenowej na następujące pompy: TE200P, TE220S i TE100P, TE120S. Pompy wyposażone we wzmacniane membrany z możliwością pompowania substancji ropopochodnych rozcieńczonych.
-Z góry dziękuję za odpowiedz."
-65,2023-08-10 05:49:41,1,Remigiusz Dąbrowski,Zakład Drobiarski Lech-Drób,14-230,797335230,remigiuszdabrowski@lechdrob.pl,"Witam,
-Chciałem zamówić dwie pompy CB 40C-200 G1 (średnica 203, no.22-079654)
-Bardzo proszę o ofertę"
-66,2023-08-10 12:30:52,1,Igor Steuer,FLC IndustriesPoland,47-225,727533378,igor.steuer@fluorochemika.pl,"Dzień dobry, proszę o wycenę pompy POMPY WIROWE COMBITHERM (ODŚRODKOWE) PRZEMYSŁOWE"
-67,2023-08-14 10:03:20,1,Paulina Wojciechowicz ,P.W.Trading Company Spółka z o.o.,80-208,506314207,office@pwtrading.pl,"Dzień dobry, proszę o wycenę: 
-Pompa membranowa Tapflo T50-PEE, 1 sztuka.
-
-Będę wdzięczna za szybką wycenę."
-68,2023-08-17 08:56:06,1,Szymon Mrozek,Enki,31-589,607572409,szymon.mrozek@enkipolska.com,"Dzień dobry,
-
-Proszę o informacje oraz ofertę na pompę ET 80-50-160 z napędem 11kW 2900obr/min z systemem cieczy zaporowej, wirnik 4225/23300/    /000."
-69,2023-08-17 09:12:25,1,Patryk Walkowski,Bioentech tworzywa sztuczne,83-110 Tczew,733 556 555,patryk.walkowski@bioentech.pl,"Dzień dobry,
-
-poszukuję pompy próżniowej do wytłaczarki tworzywa sztucznego do układu odgazowania.
-Obecna pompa posiada 180m3/h wydajności a moc jej silnika to 5,5kW.
-Posiadam tabliczkę znamionową obecnej pompy i mogę ją podesłać aby doprecyzować parametry.
-Proszę o kontakt aby ustalić szczegóły do przegotowania dla nas oferty. 
-
-Pozdrawiam
-Patryk Walkowski
-"
-70,2023-08-21 11:45:45,1,Andrzej Kowalczyk,ANTIKOR Kowalczyk i Wspólnicy Spółka Cywilna,58-100,606441734,a.kowalczyk@antikor.pl,"Zainteresowany jestem pompą membranową T200, cena, termin realizacji? Pompa będzie wykorzystywana do pompowania odpadów kwasowych (HCl). Proszę o informację. 
-"
-71,2023-08-21 12:55:48,1,Oliwer Rakiel,MM Tech s.c.,10-409,501923473,oliwer.rakiel@mmtechsc.pl,"Dzień dobry, 
-Proszę o ofertę na pompę membranową TR09 z PTFE. 1 szt. 
-Pozdrawiam"
-72,2023-08-22 07:49:42,1,Artur Sawicki,viessmann legnica,59-220,735328329,swck@viessmann.com,"Dzień dobry, proszę o ofertę na pompę beczkową do transportu poniższych mediów
--KOH 50%
--H2SO4 37%"
-73,2023-08-22 08:50:18,1,Agnieszka Krząkała,IZOBLOK S.A.,41-503 Chorzów ,663635353,agnieszka.krzakala@izoblok.pl,"Dzień dobry, 
-proszę o przesłanie oferty na pompę SFA2F-05P. Potrzebujemy pompy do odpompowania wody znad drobnoziarnistego osadu (gliny)"
-74,2023-08-25 08:58:13,1,Grzegorz Łaszewski,Przedsiębiorstwo Handlowe GAMBID Wiesław Jutrzenka i Hanna Jutrzenka  NIP 593 19 08 974,83-110 Tczew,502350625,grzegorz@gambid.com.pl,"Dzień dobry,
-
-Proszę o ofertę na:
-
-- elektryczna pompa do beczki (przepływ 49 dm3/minutę, 1 barg, medium woda demineralizowana)
-
-Pozdrawiam,
-Grzegorz Łaszewski
-"
-75,2023-08-25 11:21:45,1,Adam Mazgaj,Browar Welders Sp. z o.o.,44-151,603957659,kontakt@browarwelders.pl,"Dzień dobry, poszukujemy wymiennika ciepła dla przemysły browarniczego, wykonanie nierdzewne. Ilość brzeczki do schłodzenia 500l , temperatura wejściowa 95st, oczekiwana ok.20st lub mniej (10st)"
-76,2023-08-25 13:32:45,1,Paweł Tchórznicki,Saint-Gobain CPP Weber,05-530,572 771 118,pawel.tchorznicki@saint-gobain.com,"Dzień dobry,
-
-Proszę o przedstawienie oferty na pompę  model T420.
-
-Pozdrawiam
-Paweł Tchórznicki."
-77,2023-08-28 06:23:41,1,Andrzej Kohler,MULTIMET Sp. z o. o.,59-170,509043730,Andrzej.Kohler@multimet.com.pl,"Dzień dobry, potrzebuję ofertę na pompę typ T50 PEE"
-78,2023-08-28 08:59:07,1,Witold Barczak,PZM Technology,39-200,607443150,w.barczak@p-zm.com,"Dzień dobry, 
-Prosiłbym o przesłanie oferty cenowej na pompę membranową o oznaczeniu: TXR9-PTT-6-050-178
-Pozdrawiam Witold Barczak"
-80,2023-08-30 07:48:54,1,Adam Czekalski,Terra Trade Sp. z o.o.,32-540,578 207 500,a.c@terratrade.pl,"Dzień dobry
-Szukamy pompy Atex , która spełniała by następujące wymogi:
-medium do pompowania : mieszanina heksanu i ziemi okrzemkowej po ekstrakcji, temp. robocza ok 60 st.C, wysokość podnoszenia ok.10m, stałe dozowanie na poziomie 6-8 ltr /min.
-W tej chwili w procesie używany pompy membranowej lecz mamy problem aby precyzyjnie odmierzać ilość pompowanego materiału a jest to istotne dla prawidłowego procesu.
-Widzę ,że mają Państwo w ofercie pompy membranowe elektryczne , lecz mam obawy związane z wysokością podawania oraz medium (w przybliżeniu nasz produkt ma konsystencję ""błota"" czy też rzadkiego betonu)"
-81,2023-08-30 14:08:58,1,Bogusław Kotarba ,Thermex Sp. z o.o.,30-009 Kraków ,666-01-44-55,bk@thermex.com.pl,"Proszę o złożenie oferty na dostawę pomp typ: CTV - seria ze stali nierdzewnej.
-Trzy sztuki pompa typu CTV 20-9 
-Zakładana wydajność 5m3/h
-Hpod.=10m
-Czynnik: 3-5% roztwór NaOH"
-82,2023-09-01 07:21:09,1,Dawid Juszczyk,Stena Recycling Sp. z.o.o.,85-758,600293831,juszczyk.dawid@gmail.com,"Dzień Dobry,
-
-Jestem zainteresowany zakupem pompy membranowej do przepompowywania różnego rodzaju substancji chemicznych. Ineteresuje mnie pompa TE50P lub TE70S. Proszę o ofertę cenową. 
-
-Dawid Juszczyk"
-83,2023-09-01 07:31:34,1,Jakub Ślicner,MMR GROUP,81-036,605033504,jakub.slicner@mmrgroup.com,"Dzień dobry.
-Czy w Państwa ofercie znajdzie się produkt spełniający poniższe wymagania:
-Membranowa pompa dozująca o napędzie silnikowym, przeznaczona do tłoczenia koagulantu PIX 113.
-Wymagane parametry:
-1) Wydajność przy maksymalnym przeciwciśnieniu Q=22 l/h i 3,1 ml/suw
-2) Maksymalne ciśnienie tłoczenia p=12 bar
-3) Maksymalna częstotliwość suwu 120 min-1
-4) Maksymalna wysokość zasysania H=9 m sł. wody
-5) Maksymalne ciśnienie wlotowe p=500 mbar
-6) Regulacja zakresu dozowania 0-100%
-7) Głowica wykonana z PVC, uszczelnienie z FPM
-Dane silnika elektrycznego:
-1) moc P=0,25 kW
-2) liczba obrotów n=1500 min-1
-3) prąd znamionowy I=1,8 A
-4) napięcie zasilania U=230 V
-5) częstotliwość f=50 Hz
-6) chłodzenie IC 411
-7) ochrona IP55
-8) klasa izolacji F
-9) sprawność nie mniejsza niż 90%, klasa IE4
-10) silnik z kablem zasilającym zakończony wtyczką
-Właściwości pompy:
-1) powtarzalna dokładność dozowania ± 2%
-2) tryby pracy: tryb ręczny, wejście analogowe, wejście impulsowe, tryb wsadowy
-3) wyświetlacz graficzny: 128 x 64 px, 1.9"", monochromatyczny, podświetlany
-4) możliwość kalibracji
-5) Pompa musi posiadać takie same przyłącza przewodów ssawnego i tłocznego oraz takie same gniazda sygnałowe, jak obecnie pracująca.
-
-Pozdrawiam
-Jakub Ślicner"
-84,2023-09-04 06:31:02,1,Krzysztof Ciecierski,Lubri Company sp zoo ,Tusiaclecia 4 06-400 Ciechanów ,508700509,k.ciecierski@lubricompany.pl,Witam prosze o wycenę zestawu naprawczego do pompy membranowej tapflo tx120. Pompa nie zasysa cieczy.
-85,2023-09-04 11:27:04,1,,Spomasz Zamość S.A.,22-400,48609346656,kostrubiec@spomasz.biz.pl,"czy dostanę Wirnik elastyczny  WE95.63NF Neoprene spożywczy FDA(11,WP)"
-86,2023-09-06 04:39:43,1,Łukasz Świerk,R&S ,39-300,668094504,l.swierk@ris.com.pl,"Dzień dobry,
-
-poszukuję zamiennika do pompy CDX/A 70/05 EBARA . Szukam zamiennika którt lepiej dopasował by się do naszych potrzeb kąpieli elementów metalowych przed malowaniem proszkowym. Mamy pompę do wody czystej ale jednak nam ją zapycha. Tutaj widzę seria CTI ze stali kwasoodpornej 316L mnie interesuje. Nasz silnik 3 - fazowy ma moc 0,68kW. Proszę zaoferować odpowiednik."
-87,2023-09-06 11:30:31,1,Robert Pypłacz,Pasek Europe Sp. z o.o.,41-303,538153320,robert.pyplacz@pasek.group,"Dzień dobry,
-W firmie Pasek Europe posiadamy pompę firmy DOSEURO S.R.L. typu D-100N-70/I-12DVTN, ze względu na specyfikę pracy oraz użytkowanie pompy zostały uszkodzone końcówki kulowe wychodzące z głowicy pompy hydraulicznej. W imieniu Pasek Europe Sp. z o.o., chciałbym zapytać czy możliwe są do kupienia u was podane wcześniej części lub całości jako głowicy pompy hydraulicznej razem z tymi końcówkami. W razie pytań, potrzebnych informacji lub zdjęć danej pompy pozostaję do państwa dyspozycji poprzez adres mailowy podany w zapytaniu.
-
-Pozdrawiam,
-Robert Pypłacz"
-88,2023-09-06 12:50:02,1,Paweł Rachwalski ,Mitsui High-Tec Europe Sp. z o.o.,49-305,69032220,pawel-rachwalski@mitsui-high-tec.com,Dzień dobry. Proszę o przesłanie oferty cenowej na mieszadło pneumatyczne do beczek 200l. Dziękuję i pozdrawiam. 
-89,2023-09-06 15:59:52,1,GRZEGORZ CYGANEK,GRZEGORZ CYGANEK,62-200 GNIEZNO,695855111,grzegorz.cyganek@interia.pl,proszę o ofertę cenową z terminem realizacji pompy CTI CC-15 - 2 szt.
-90,2023-09-08 06:24:32,1,Karol Ochman,Fortino Sp. z o.o.,44-335,730282288,karol@fortino.pl,"Dzień dobry,
-proszę o pomoc w doborze oraz ofertę na mieszadło okrągłego zbiornika polipropylenowego (średnicy 95 cm, wysokość 100 cm, grubość ścianki 12 mm). Wewnątrz zbiornika będzie znajdowała się mieszanina wody oraz ziemi okrzemkowej. Prędkość obrotów mieszadła +/- 100 rpm. Dziękuję."
-91,2023-09-13 14:08:27,1,Łukasz Werner,"Wydział Inżynierii Chemicznej i Procesowej, Politechnika Warszawska",00-645,516123477,lukasz.werner@pw.edu.pl,"Szanowni Państwo,
-Potrzebuję zakupić jedną z pomp membranowych z Państwa oferty. Pompa będzie pracowała głównie z wodnymi roztworami alkoholi (metanol, etanol, izopropanol, ewentualnie glicerol). Chciałbym prosić pomoc w doborze odpowiedniej pompy charakteryzującej się dobrą odpornością chemiczną oraz szczelnością. Zależy mi również na możliwości sterowania przepływem oraz zadania konkretnej jego wartości z zakresu 0,5-3 l/min (30-180 l/h), oczywiście zakres ten może być szerszy.
-
-Chciałbym prosić pomoc w doborze pompy oraz przygotowanie oferty zawierającej wszystkie niezbędne akcesoria, które to umożliwią.
- 
-
-Pozdrawiam serdecznie
-Dr inż. Łukasz Werner
-tel. 516 1234 77
-
-Wydział Inżynierii Chemicznej i Procesowej
-Politechnika Warszawska
-ul. Waryńskiego 1, 00-645 Warszawa"
-92,2023-09-15 08:19:05,1,Damian Becmer,Balluff Sp z o.o.,54-516,48728871969,damian.becmer@balluff.pl,"Dzień dobry,
-Szukam prostej pompy perystaltycznej umożliwiającej zmianę kierunku obrotów przepływu za pomocą sygnału pochodzącego z zewnętrznego sterownika (może być po prostu za pomocą zmiany biegunowości). Przepływ koło 2l/min, pompowana jest woda przez rurki grubości 3.2mm x 1.6WT.
-Pozdrawiam"
-93,2023-09-15 10:55:39,1,Krystian,BatEko sp. z o.o.,59-101,729100321,krystian.kruhlik@bateko.com.pl,"Poproszę o ofertę na T50, wykonanie PE, dwie opcje membran PTFE lub EPDM ,zasilanie sprężone powietrze. Pompa będzie działać na węźle neutralizacji i utleniania (AOP). Dziękuje"
-94,2023-09-15 11:28:15,1,Łukasz Kokot,Pro-Mill,05-820,531408900,kokot@pro-mill.pl,"Dzień dobry, 
-uprzejmie proszę o wycenę oraz przewidywany czas dostawy.
-Pompa membranowa higieniczna T30.
-
-Pozdrawiam
-Łukasz Kokot"
-95,2023-09-15 11:35:27,1,,Rolmix,08-200,782808777,p.zubkowicz.rolmix@wp.pl,"Witam,
-Potrzebujemy pompy do szlamu o dużej mocy ok 5KW 400V.
-Ma ona pracować w firmie kamieniarskiej, która produkuje nagrobki i są one szlifowane na mokro, skąd gromadzi się dużo wody z drobnymi kamyczkami, oraz pyłem i różnego rodzaju zabrudzeniami tego typu. Głębokość zbiornika to ok 3m.
-Proszę o zaproponowanie pompy, która by się sprawdziła w tej branży."
-96,2023-09-18 09:20:13,1,Bartosz Gościłowicz,WILK 2 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,20-111,502623889,bartosz.goscilowicz@wilkgroup.eu,"Witam, proszę o ofertę wraz z dokumentacją techniczną pompy CTI CE-22."
-97,2023-09-18 11:47:52,1,Grzegorz Łuczków,LIS Polska,59-220,767441327,g.luczkow@lis.lesaffre.com,"Dzień dobry, 
-jestem zainteresowany mieszadłem do zbiorników IBC, które będzie wykonane ze tali nierdzewnej, dopuszczone do kontaktu z żywnością, z płynną regulacją obrotów oraz do trudnych cieczy (sedymentujących, lepkich - max 10 000cp, gęstych 1,3kg/l)
-Czy mogą Państwo coś zaproponować? 
-W przypadku dodatkowych pytań pozostaję do dyspozycji.
-
-Pozdrawiam
-Grzegorz Łuczków"
-98,2023-09-19 06:36:03,1,Krzysztof Felisiak,Krzysztof Felisiak,91-473 Polska,601338031,figall@wp.pl,104200-51100 sekcja do pompy wtryskowej do silnika yanmar yse8.cena i czas dostawy
-99,2023-09-19 10:33:02,1,Robert Dzwonnik,Termo Organika Sp. z o.o.,74-200 Pyrzyce,605602105,rdzwonnik@termoorganika.pl,"Dzień dobry, potrzebuję propozycję zawierającą dwa mieszadła do mauzera celem ujednolicenia, rozmieszania produktu przed użyciem.
-( FOAMASTER MO NXZ – 226Mpas przy ostatnim odbiorze, akceptowalny zakres 100-800 przy 25st C.
-BYK 012 w labo nie sprawdzamy lepkości a w KCH: 1.775,000 mPa.s (20,00 °C) Metoda: 11 (NV, 20°C))
-Proszę o przesłanie propozycji dla podanych wyżej lepkości.
-"
-100,2023-09-21 11:15:43,1,Krzysztof Matusiak,Orlen SA,09-402,609192843,krzysztof.matusiak@orlen.pl,Dzień dobry. Czy mogę otrzymać cennik pomp beczkowych? Interesuje mnie głównie cena modelu JP-700SR
-101,2023-09-22 08:41:05,1,Paweł Ptaszek ,Uniwersytet Rolniczyw Krakowie,30-149,501737238,pawel.ptaszek@urk.edu.pl,"Dzień dobry,
-Jesteśmy zainteresowani zakupem pompy sinusoidalnej SCN20 z przyłączem Clamp i zasilaniem 400V
-Pompa będzie  zainstalowane na stanowisku badawczym do przetłaczania płynów spożywczych.
-Bardzo proszę o wycenę pompy.
-Ofertę proszę skierować:
-Paweł Ptaszek 
-Wydział Technologii Żywności, Uniwersytet Rolniczy w Krakowie 
-ul. Balicka 122
-30-149 Kraków
-
-Pozdrawiam
-Paweł Ptaszek 
-"
-102,2023-09-22 11:43:56,1,Mariusz Mekke,"Ubojnia Drobiu ""GOMAK""",96-126,504840627,serwis@gomakgodzianow.pl,"Witam, proszę o wycenę uszczelnienia wirnika i wałka do pompy tłoczącej model CTIDG numer seryjny1405-3915. Pilna sprawa. "
-103,2023-09-23 11:07:29,1,Mateusz Zarzycki,RZECZOZNAWCA MAJĄTKOWY Mateusz Zarzycki,91-444,728849784,MateuszZarz@gmail.com,"Dzień dobry,
-jaka jest aktualna cena netto pompy membranowej T120?
-
-pozdrawiam
-Mateusz Zarzycki
-"
-104,2023-09-24 08:18:22,1,Mateusz Zarzycki,RZECZOZNAWCA MAJĄTKOWY Mateusz Zarzycki,90-049,728849784,MateuszZarz@gmail.com,"Dzień dobry,
-proszę o podanie aktualnej ceny pompy membranowej T225.
-
-pozdrawiam
-Mateusz Zarzycki"
-106,2023-09-26 12:21:38,1,Krzysztof Golabek,Laktiserv,80-209,603-772-077,krzysztof.golabek@laktiserv.pl,Poproszę o ofertę pompy do dalszej odsprzedaży Wilden P1/KKPPP/TNU/TF/KTF
-108,2023-09-29 07:17:58,1,Jacek Kondera,Miejskie Przedsiębiorstwo Energetyki Cieplnej,22-100,793393253,jacek.kondera@mpecchelm.pl,"Jednostopniowa pompa wirowa, z silnikiem i  sprzęgłem, montowana na wspólnej płycie podstawy, do ustawienia na fundamencie.
-Z osiowym króćcem ssawnym i promieniowym przyłączem ciśnieniowym. Mieszkowe uszczelnienie mechaniczne. Korpus z żeliwa szarego, wał ze stali nierdzewnej, wirnik z żeliwa szarego. Powłoka kataforetyczna wszelkich elementów żeliwnych, stykających się z medium. Sprzęgło demontowalne (z elementem dystansowym).
-
-Dane eksploatacyjne:
-Przetłaczane medium: woda kotłowa 100 %Przepływ: ok. 160,00 m³/h
-Wysokość podnoszenia: 50 m
-Maks. temperatura przetłaczanej cieczy: 140 °C
-Maks. ciśnienie robocze: 16 bar
-Maks. temperatura otoczenia: 40 °C
-Dane silnika;
-Silnik IEC przystosowany do zasilania z przemiennika częstotliwości
-Zasilanie: 3~400V/50 Hz
-Klasa sprawności energetycznej silnika: IE3 lub wyższa
-Stopień ochrony: IP55
-Znak CE"
-109,2023-09-29 12:47:17,1,Tomasz Wójcik,Toyota Motor Manufacturing Poland,58-306,604756280,twojcik@toyotapl.com,"Chcę używać pompy do zbierania zanieczyszczeń (bardzo drobny szlam) z powierzchni chłodziwa wodnego używanego do obróbki żeliwa. Pompy z jakich materiałów powinienem użyć. Czy zasilania dla silnika TE50 (silnik 0,25kW) z falownikiem jest realizowane przez wtyczkę 230V?"
-110,2023-10-10 05:42:43,1,Arkadiusz Gołecki,Mueller Fabryka Świec SA,86-302,564514571,arkadiusz.golecki@mueller-swiece.pl,"POMPY WIROWE HD TWORZYWOWE 
-Witam, 
-Czy takiego rodzaju pompy sprawdzaliście Państwo przy pracy z parafiną ciekłą ?"
-111,2023-10-12 05:06:52,1,Mateusz Skoczylas,Łęczyńska Energetyka ,21-013,814431126,mskoczylas@gmail.com,"Dzień dobry,
-Poszukuje pompy o oznaczeniu B250N-90/B-43. Aktualnie mamy z firmy Doseuro, ale może być innego producenta. Proszę o ofertę cenową. Pompa będzie pompowała 15-18% podchloryn sodu.
-"
-112,2023-10-13 07:31:21,1,,Ovopol,67-100,690471991,d.pyszkiewicz@ovopol.pl,Potrzebuję oferty na olej do pompy Hydra-Cell  model WI 00908PMPG04-01   ser.nr383400   i uszczelkę wału (54).
-113,2023-10-13 12:59:47,1,Bartłomiej Sybilski,Piekarnia Oskroba S.A.,"05-340 Kołbiel, Człekówka 90",48539952520,Bartlomiej.Sybilski@oskroba.pl,"Proszę o ofertę na: pompy TX30 STT,  TX125 STT, oraz tłumiki pulsacji  DTX30 ST, DTX125 ST"
-114,2023-10-16 07:16:09,1,Oskar Fąk,Rotisol-Est,11-700,722 310 444,o.fak@rotisol.com.pl,"Witam serdecznie.
-Czy posiadają Państwo pompę perystaltyczną o symbolu PPE001HA1009?
-"
-115,2023-10-16 08:10:37,1,Piotr Grzegorz Sykut,Innox sp. z o. o.,15-540,690153727,produkcja@innoxpharma.com,"Witam,
-Szukamy pompy do clean roomu - głównym wymaganiem jest aby taka pompa była odporna na rozpuszczalniki organiczne (heptan, octan etylu, aceton, metanol) ale także inne chemikalia. Potrzebujemy również aby taka pompa miała odpowiednie certyfikaty, które dopuszczają ją do zastosowania w clean roomie. Co do prędkości przepływu - zakładamy że 50L/min będzie w zupełności wystarczające.
-Prosiłbym o przesłanie Państwa oferty w trybie pilnym - najlepiej do jutra (17.10) do godz. 10:00.
-Z góry dziękuję i pozdrawiam,
-Piotr Grzegorz Sykut"
-116,2023-10-17 08:04:38,1,Łukasz Tymiński,GAWAPOL s.c.,01-016 Warszawa,228375786,biuro@gawapol.pl,"Prosimy o ofertę na pompę membranową z PTFE Tapflo T50 - 1szt
-Pozdrawiam"
-117,2023-10-17 10:33:42,1,Robert Obremski,Projprzem Eko,89-200,511361673,r.obremski@projprzemeko.pl,Witam. Potrzebuje ofertę cenową na pompy dozujące do chemi o wydajności około 50 l/h i więcej
-118,2023-10-17 12:36:30,1,Jarosław Kupiec,PFTechnology sp. z o.o.,26-680,607192854,j.kupiec@pftechnology.eu,"Dzień dobry,
-Czy mógłbym poprosić o propozycję pompy do tłoczenia roztworu polimeru (stężenie około 1%) o wydajności około 1500-1600 l/h, która posiada możliwość sterowania wydajnością na podstawie sygnału zewnętrznego z naszego sterowania (4-20 mA). Czy mają Państwo taki produkt w swojej ofercie?
-Pozdrawiam,
-Jarosław Kupiec"
-119,2023-10-18 10:03:11,1,Dariusz Bucki,Stockmeier Chemia Sp. z o.o. i S.S.K.,60-691,48609333328,d.bucki@stockmeier.pl,"Dzień dobry,
-chcielibyśmy rozważyć zakup instalacji do rozcieńczania SLES'u 70 do 25-27%.
-Proszę o ofertę cenową.
-
-
-Pozdrawiam serdecznie / Best regards
-                 
-Dariusz Bucki              
-M: +48 609 333 328 I T: +48 61 666 10 66 
-
-Stockmeier Chemia Sp. z o.o. i S.S.K.
-ul. Obornicka 277 I 60-691 Poznań     
-NIP PL 9542534903                  
-https://pl.stockmeier.com/
-
-"
-120,2023-10-18 11:41:57,1,Albert Jałocha,Multy Home Europe,05-480,607404420,albert.jalocha@multyhome.eu,"Dzień dobry,
-Czy istnieje możliwość dokładniejszego dozowania np. do 10ml ?"
-121,2023-10-19 07:49:14,1,,MEGA,23-100,512652551,marcin.babula@gmail.com,"Dzień dobry,
-Potrzebuję pompę perystaltyczną do przepompowywania ciasta (konsystencja: gęste ciasto naleśnikowe) pomiędzy zbiornikami.
-Jednorazowo do przepompowania jest ok. 180 kg na odległość ok. 5 m. Wydajność ok. 20 l/min.
-Uprzejmie proszę o zaproponowanie urządzenia oraz podanie kosztów zakupu.
-
-Marcin Babula"
-122,2023-10-19 07:50:10,1,PIOTR JURECKI,MARCIN KRZEMIEŃ,34-100,790318214,ur@krzemien.com.pl,Witam mamy wasze pompy CTI CC 1SSV-22.  Potrzebuję komplet uszczelniaczy do tej pompy. Proszę o przesłanie oferty na adres mailowy dostępności i ceny. Pozdrawiam
-123,2023-10-19 10:50:38,1,Krystian Bober,Upthermo,11-041,791597333,oferty@upthermo.com,"Dzień dobry
-
-Proszę o przygotowanie oferty na pompę czynnika chłodniczego (R245fa w fazie ciekłej)
-
-Parametry
-
-- czynnik chłodniczy: R245fa
-
-- różnica ciśnienia między ssaniem a tłoczeniem: 14 bar (ssanie 1,5 barów, tłoczenie 15,5 barów)
-
-- wydajność pompy: do 240 l/min
-
-- temperatura czynnika pompowanego: 20-40°C
-
-- temperatura otoczenia: -20 do 40 °C (zima, lato)
-
- 
-
-Jeżeli nie macie Państwo w ofercie pomp zmienno wydatkowych do takiego zastosowania to proszę o potwierdzenie możliwości oraz dopuszczalny zakres regulacji wydatku za pomocą obrotów silnika (stosując falownik).
-
- 
-
-Prosze aby oferta zawierała gotowy do użycia zestaw pompa-silnik elektryczny.
-
- 
-
-Proszę aby oferta zawierała specyfikację techniczna proponowanego urządzenia,cenę oraz termin realizacji.
-
-"
-124,2023-10-19 18:38:48,1,Bogdan Adamusiak,PERN S.A.,95-040,694285023,bogdan.adamusiak@pern.pl,"Dzień dobry.
-Proszę o ofertę cenową pomp SK2F.
-Z góry dziękuję za odpowiedź.
-Bogdan Adamusiak"
-125,2023-10-20 06:29:43,1,Grzegorz Abramczyk,Galwanotechnika Mrągowo Sp. Z o. o.,11-700,882 948 673,grzegorz.abramczyk@galwanotechnika.eu,"Dzień dobry,
-
-Potrzebuję oferty cenowej na zakup:
-1.	Ventilkugel EPDM (6-200-23)---4szt + gniazda 4szt
-2.	O-ring 6-200-43 ---4szt
-3.	O-ring 6-200-30 ---3szt
-4.	O-ring 6-200-18 ---4szt
-5.	Mittelblockdichtung ---2szt
-6.	O-ring 6-200-47 ---4szt
-
-do pompy STEINLE TAPFLO   TFA 200 PEE, Seria-Nr 05/25037
-"
-126,2023-10-24 12:14:54,1,Zbigniew Bałbatun,Faserplast,76-200,598486878,zbigniew.balbatun@faserplast.pl,Proszę o ofertę cenową na zakup 1 szt. Pneumixera.
-127,2023-10-25 08:10:35,1,Radoslaw Weglorz,PPG CIESZYN S.A.,43-400,48338517206,Weglorz@ppg.com,"Dzień dobry,
-
-Chciałem prosić o ofertę na układ dozujący do skali laboratoryjnej.
-
-Układ będzie pracował z różnymi mediami.
-Do tej pory sprawdzają się pompy wykonane z PTFE dla naszych rozpuszczalników.
-
-Zakresy lepkości cieczy jest podany w zakresie, dodatkowo pompy muszą mieć zdolność do mycia z rozpuszczalnikiem o niskiej lepkości.
-Interesuje mnie rozwiązanie w którym będzie możliwe zredukowanie chwilowych wahań pomiędzy proporcjami poszczególnych składników w rurociągu.
-Układ ma za zadanie dostarczyć surowce do produkcji ciągłej. Wyrób finalny nie będzie homogenizowany w zbiorniku po zakończeniu produkcji.
-
- 
-
-W tabeli powyżej są zakresy które by najbardziej mi odpowiadały, czy jesteśmy w stanie dobrać odpowiednie rozmiary pomp?
-Urządzenia muszą być w wykonanie ATEX II 2G T3.
-
-Serdecznie pozdrawiam
-Będę wdzięczny za szybką odpowiedź.
-
-Dane odnośnie przepływów oraz lepkości prześle osobą wiadomością email."
-128,2023-10-25 10:57:38,1,Krzysztof Tafelski,"OPEC Sp. z o.o. w Gdyni, Dział Chemiczny",81-214,510195306,k.tafelski@opecgdy.com.pl,"Dzień dobry,
-Zwracam się z prośbą o przedstawienie oferty na zestaw złożony z dwóch  identycznych pomp wirowych w konfiguracjach:
-- CTP 32-12.5 PP;
-- CTP 32-12.5 PVDF;
-- CTP 50-12.5 PP;
-- CTP 50-12.5 PVDF.
-Pompy wykorzystywane będą do czyszczeń chemicznych wymienników, podczas których używane są kwasy: HNO3, H3PO4, HCl ; oraz zasady: NaOH, Na3PO4.
-Z poważaniem
-Krzysztof Tafelski
-Technik Pomiarów Środowiskowych
-Dział Chemiczny
-OPEC Sp. z o.o."
-129,2023-10-25 12:00:49,1,Bartłomiej Mariasz,Orlen Centrum Serwisowe,65-119,693310037,bartlomiej.mariasz@orlencs.pl,"Dzień dobry,
-Zwracam się z prośbą o przesłanie  oferty cenowej dotyczącej  pomp: T120 oraz T220 - w wykonaniu ATEX do przepompowywania brudnej wody wraz z mieszaniną paliw. Proszę o podanie parametrów  ciśnienia i przepływu powietrza w celu napędu pomp."
-131,2023-10-31 05:24:33,1,Piotr Nowopolski,Miody z kociewia,83-130,605831844,piotrnowopolski@wp.pl,"Witam.
-Posiadam pasiekie, czy pompa z wirnikiem elastycznym posluzy do pompowania miodu, i jezeli tak to jaka jest mozliwosc zakupu oraz cena"
-132,2023-11-02 13:00:02,1,Aleksandra Zielińska,Instytut Włókien Naturalnych i Roślin Zielarskich Państwowy Instytut Badawczy,60-630 ,693281324,aleksandra.zielinska@iwnirz.pl,"Dzień dobry,
-
-Otrzymałam grant na wyposażenie nowego laboratorium i chciałabym zakupić u Państwa homogenizator.
-Czy mogłabym uprzejmie prosić o pomoc w otrzymaniu specyfikacji i ofert na homogenizator wysokociśnieniowy do celów kosmetyczno-farmaceutycznych?
-
-Dane do oferty:
-Instytut Włókien Naturalnych i Roślin Zielarskich Państwowy Instytut Badawczy
-ul. Wojska Polskiego 71b, 60-630 Poznań
-
-Potrzebowałabym także następujące informacje:
-1. Nazwa
-2. Specyfikacja techniczna
-3. Dodatkowe wyposażenie
-4. Zestaw startowy
-5. Przewidywany koszt (PLN)
-6. Termin dostawy (od momentu podpisania umowy)
-7. Gwarancja
-8. Serwis
-9. Szkolenia
-10. Rekomendacje (Polska)
-
-Z wyrazami szacunku,
-dr Aleksandra Zielińska
-kom: 693-281-324"
-133,2023-11-05 17:43:54,1,Waldemar toczek,Eko-rol,33-131 łęg tarnowski ,607082059,aldi2@interia.pl,Cena pompy membranowe 2 cale
-134,2023-11-06 11:17:52,1,,ZEC SERVICE,50-220,735912199,rafal.paczula@zec-service.com.pl,"Dzień dobry,
-Zapraszam do złożenia oferty na dostawę pomp zgodnie z załączoną specyfikacją przetargową.
-
-1.	Dostawa pomp membranowych typu G03BDSGSNEMA (Pompy na układzie instalacji dozowania mocznika w kotłowej instalacji SNCR) – 2 szt. 
-Moc silnika 1,1 kW, wydajność pompy Q=0,37 m3/h, wysokość podnoszenia H=24 m.
-
-Termin realizacji prac obiektowych:
-Część III – K7 Gdynia od 11.07.2024 do 13.09.2024 r.
-
-Wymagany termin przedstawienia oferty max. do 08.11.2023 r. 
-"
-135,2023-11-06 14:59:19,1,Adam Olszewski,Politechnika Gdańska,80-233,512963662,adam.olszewski@pg.edu.pl,"Szanowni Państwo,
-
-jestem doktorantem na Politechnice Gdańskiej w Katedrze Technologii Polimerów. Mój promotor jest zainteresowany zakupem pompy próżniowej laboratoryjnej wraz z doposażeniem umożliwiającej prowadzenie reakcji chemicznych pod obniżonym ciśnieniem (aparatura szklana). 
-Bardzo proszę o przedstawienie mi oferty Państwa pomp. W razie pytań jestem dostępny pod wskazanym numerem telefonu.
-
-Z poważaniem
-Adam Olszewski"
-136,2023-11-08 15:07:34,1,Mirosław Nabiałek ,Filter ,40-018 Katowice,+48 664 469 170,miroslaw.nabialek@filter.eu,"Repair kits G10K52JHFEH 2 pieces
-
-WT40 oil A01-114-3440 2 pieces.
-
-Pump model G10 EKSJHFEHB S/N 277839,"
-137,2023-11-09 09:25:23,1,Kajetan Wojciechowski,brak,83-110,693009427,sheeperp@gmail.com,"Dzień dobry, 
-jestem zainteresowany pracą w Państwa firmie. Aplikowałem na stanowisko młodszego specjalisty IT. Jeżeli bylibyście Państwo zainteresowani moja ofertą, pozostaję w kontakcie.
-Z wyrazami szacunku.
-Kajetan Wojciechowski"
-138,2023-11-13 09:23:33,1,Andrzej Jurkiewicz,Aluprof,45-593,662026360,ajurkiewicz@grupakety.com,Dzień dobry. Proszę o podanie cen na pompy T70. Około 4 sztuki
-139,2023-11-15 20:04:00,1,Szymon Bach,KRDS Sp. z o.o.,80-396,531949494,bach.szymon@gmail.com,"Dzień dobry, 
-czy posiadają Państwo w ofercie pompę membranową o parametrach zbliżonych do tej: 
-GRUNDFOS Pompa dozująca DME 60-10 AR-PP/E/C-S-31QQF (wersja B) 
-https://www.skleparmatura.pl/grundfos/pompy-dozujace/50512.html 
-Jeżeli tak to poproszę o ofertę oraz dostępność."
-140,2023-11-16 09:58:08,1,Jan Marciniak,Levi Strauss Poland sp. z o.o.,09-407 Płock,24 2679437     kom.609571506,jmarciniak@levi.com,Poproszę o ofertę na pompkę membranowa T50 PEE
-141,2023-11-18 06:09:43,1,Przemysław Lisiak,CPF Culinar,95-080,885 441 962 ,Przemyslaw.lisiak@cpfpoland.pl,"Dzień dobry
-Użytkujemy obecnie pompę TR20 PTT. Chciałbym poprosić o ofertę na pompę T50 w takim samym wykonaniu jak obecnie używana. Medium- ocet."
-142,2023-11-18 06:10:10,1,Przemysław Lisiak,CPF Culinar,95-080,885 441 962 ,Przemyslaw.lisiak@cpfpoland.pl,"Dzień dobry
-Użytkujemy obecnie pompę TR20 PTT. Chciałbym poprosić o ofertę na pompę T50 w takim samym wykonaniu jak obecnie używana. Medium- ocet."
-143,2023-11-20 11:13:23,1,Tomasz Piechota,Werner Janikowo Sp.zo.o,66-300,48509313070,tomasz.piechota@wernerpapa.pl,"Witam serdecznie poszukuje pompy do przesyłu asfaltu o wydajności około 400l/min, grzanej olejem. Temperatura  pracy 220 stopni C. Jesli była by tak możliwość aby pracownik Państwa firmy podjechał do nas i na miejscu doradził jaką pompe zastosować i przedstawił ofertę cenową byli byśmy wdzieczni. Pozdrawiam Tomasz Piechota"
-144,2023-11-20 12:29:27,1,Łukasz Chodkowski,Leadec,76-200,538384487,lukasz.chodkowski@leadec-services.com,"Witam serdecznie. Posiadamy pompę firmy Wilden P1/PPPPP/WFS/WF/KWF, która służy nam do transportu AdBlue, czy w Państwa ofercie znajdzie się podobna pompa membranowa?"
-145,2023-11-22 14:12:48,1,JAKUB PIEKARZ,SPAW S.KOŁODZIEJ SPÓŁKA JAWNA,32-500,608007132,kuba@swiatnarzedzi.com,"Witam interesuje mnie zakup Membrany  do pompy TAPFLO TF200PEU-50195 
-PROSZĘ O WYCENĘ DO DALSZEJ ODSPRZEDAŻY I KOSZTY DOSTAWY ORAZ DOSTĘPNOŚCI."
-146,2023-11-22 16:32:39,1,Stas Ivanov,Polymemtech,00-103,512608346,s.ivanou@polymemtech.pl,"Dzień dobry, mógłbym prosić o przesłanie 3D modelu pompy cad - 
-""tapflo cti ce-22"" do projektowania potrzebną mi instalację. 
-Dziękuję."
-147,2023-11-23 09:20:50,1,Bartłomiej Mariasz,Orlen Centrum Serwisowe,65-119,693310037,bartlomiej.mariasz@orlencs.pl,"dzień dobry,
-Zwracam się z prośbą o przesłanie oferty cenowej dla pompy:  pompa odśrodkowa CTI AA-05X2eT 0,55kW/2900rpm."
-148,2023-11-23 12:44:50,1,BIOFEED Sp. z o.o. Daniel Skrzypczak,BIOFEED,97-505,887070092,d.skrzypczak@biofeed.pl,"Witam.
-Proszę o przygotowanie oferty cenowej na pompę do pojemników typu mauzer.
-Ciecz pompowana to gliceryna. Wydajność  około 1m3/h. Długość instalacji około 23mb, wysokość pompowania 8m.
-Temat bardzo pilny.
-Z góry dziękuję.
-"
-149,2023-11-24 09:28:03,1,Szymon Falender,PCO GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,76-020,662606896,sz.falender@pco-group.pl,"Witam, szukam pompy zdolnej wytworzyć ciśnienie ok 2,5 - 4 bar oleju jadalnego. Moc ok 1kW, przyłącze gwintowe 1 cal. przepływność niewielka 1-2 l/m. "
-150,2023-11-26 09:51:24,1,Matthias Gail,Gail Biogas GbR,"86685 Huisheim, Deutschland",491708309194,matthiasgail@gmx.de,"Szanowni Państwo.
-Jestem sprzedawcą w Niemczech maszyn do obornika i akcesoriów. Szukam dostawcy specjalnie mimośrodowych pomp śrubowych do sprzedaży w Niemczech.Potrzebuję listy postępowych pomp komorowych, które sprzedajesz. Pompy są przeznaczone do obornika bydlęcego i obornika biogazowego i powinny mieć wydajność od 15 do 30 cbm/h. Wlot i wylot powinny mieć średnicę od 125 do 150 mm.
-Z góry dziękuję. Zapraszam do kontaktu ze mną poprzez WhatsApp.
-Dzięki
-Maciej Gail
-"
-151,2023-11-27 05:21:12,1,Jan Siekirka ,PUHP „ JAŚ I MAŁGOSIA „,55-110 SKOKOWA,695981674,jim.piek@gmail.com,"Witam, 
-Posiadamy pompę
-CTI BB 1CGV4J - 07
-No. 1212-2064
-Proszę o ofertę na taką pompę, oraz ofertę na uszczelki do tej pompy "
-152,2023-11-28 08:46:54,1,Robert Szymański,Heiche Polska sp. z o. o. ,ul. Jarzębinowa 2  PL 55-200 Stanowice ,780 588 505 ,Robert.Szymanski@pl.heichegroup.com,"Proszę o ofertę na pompy membranowe PTFE TR20, T50, T100 po jednej sztuce. I drugą ofertę na zestawy naprawcze to tych pomp plus zestaw naprawczy do pompy T400. Proszę o komplety z membranami gumowymi oraz z osłoną teflonową."
-154,2023-12-01 12:16:44,1,Mateusz Łączyński,Angel Bio Sp. z o.o.,05-806,48223784988,mateusz.laczynski@angelbio.net,"Szanowni Państwo
-Posiadamy na wyposażeniu zakładu pompę membranową TXF125 STT-19S.
-Jest to nasza jedyna pompa membranowa i nie posiadamy żądnych części zamiennych.
-Ze względu na zwiększoną ilość zamówień realizowanych przez linię wykorzystującą tę pompę zwracam się z prośbą o przedstawienie oferty na podstawową preferowaną apteczkę części zamiennych zapewniającą utrzymanie ciągłości pracy urządzenia."
-155,2023-12-01 12:20:39,1,Mikołaj Maciołek,Axis Group Company,62010,517249554,mikolaj.maciolek@axisgroupcompany.com,"Dzień dobry, Potrzebowałbym doradztwa w sprawie doboru mieszadła wznoszącego do IBC. Zakładam, że to będzie typ mieszadła ślimakowego. Przeznaczeniem mieszadła będzie mieszanie żywicy poliestrowej z pigmentem w zbiorniku IBC. Pigment ma tendencję do osiadania na dnie zbiornika, lepkość żywicy niewielka, można założyć, że do 10 centipuazów. Pozdrawiam, Mikołaj Maciołek"
-156,2023-12-02 11:28:12,1,Jarosław Raczyński,Heinen do. z o o.,67-321,697620355,mechanicy@heinen-leather.pl,Proszę o ofertę na pompę petystaltyczną do mediów agresywnych z zawartością materiałów ściernych. Potrzebuję przepływ w granicach 10m3/h i ciśnieniu tłoczenia do 10 bar. Pompa z napędem falownikowym fo regulacji prędkości tłoczenia.
-157,2023-12-04 07:04:03,1,Mateusz Łączyński,Angel Bio Sp. z o.o.,05-806,48223784988,mateusz.laczynski@angelbio.net,"Szanowni Państwo
-Posiadamy w zakładzie pompę Tapflo txf125 stt-19s 
-Jesteśmy zainteresowani zakupem apteczki części zamiennych, oraz jeszcze jednego egzemplarza pompy.
-Pompa taka sama, bądź aktualnie dostępny odpowiednik.
-Proszę o przesłanie oferty cenowej.
-
-Z poważaniem
-Mateusz Łączyński"
-158,2023-12-05 13:25:54,1,Jarosław Korycki ,Bovicors.c.,96130,736671926,jaroslawkorycki@bovicor.pl,Dzień dobry. Poszukuję mieszadła stacjonarnego do cieczy lepkich. Widziałem u Państwa na stronie takie o nazwie STACJA MIESZANIA IBC. Czy mogę dostać ofertę na taką stację?
-159,2023-12-08 10:54:05,1,Krzysztof Rogala,ZUOP,05-400 Otwock,729362671,krzysztof.rogala@zuop.gov.pl,"Proszę o ofertę na pompę o parametrach pracy podanych poniżej. Pompa powinna być zasilana przez silnik trójfazowy. Proszę o ofertę na wykonanie  w  wersji przeciwwybuchowej EX.
- 
-Wydajność pompy  0,40 m3/h
-Min. Dopuszczalna wydajność pompy  0,20 m3/h
-Wysokość podnoszenia  13 m
-Instalacja NPSH  15 m
-Medium tłoczone woda radioaktywna pH7
-Zawartość ciał stałych   obecne 
-Temperatura medium  30oC
-Gęstość medium 0,995 kg/dm3
-Lepkość medium 0,79 mm2/s
-Króciec ssawny  DN 40 osiowo
-Króciec tłoczny DN 25 ku górze
-
-"
-160,2023-12-13 00:28:31,1,Kacper Włodarek,Syntegre s.c.,21-400,535888897,kacper.wlodarek@syntegre.com,"Dzień dobry, 
- 
-Poszukuję mieszadła do zamocowania na standardową, metalową beczkę 200L lub innego zbiornika o podobnej pojemności: - elektrycznego albo pneumatycznego pozwalającą na mieszanie fotoutwardzalnej (wrażliwej na światło) żywicy akrylowej składającej się z oligomerów - ok 50-60% o lepkości 10 000 mPa*s (lepkość miodu) oraz monomerów o lepkości ok 5-10 mPa*s. Finalna lepkość mieszaniny to 200-500mPa*s a jej gęstość to 1,15 – 1,19 g/cm3. 
- 
-Prędkość obrotowa mieszadła powinna być nie mniejsza nić ok. 400 RPM – taka prędkość pozwala na w miarę szybkie przeprowadzenie procesu. Zadaniem mieszalnika jest tylko i wyłączni wymieszanie ze sobą poszczególnych składników. Zarówno monomery jak i oligomery bardzo dobrze się ze sobą mieszają, jest to tak naprawdę rozcieńczenie lepkiego oligomeru. Nic nie będzie tam homogenizowane ani dyspergowane.
- 
-Ponadto, nie jest wymagany żaden certyfikat - składniki nie są palne ani przeznaczone do spożycia. 
- 
-Proszę o informację, czy jakiekolwiek z Państwa rozwiązań nadawałoby się do powyższego zastosowania?"
-161,2023-12-13 10:01:19,1,KMR INSTAL KAROLINA MOSKAL-ROKOJŻO ,KMR INSTAL KAROLINA MOSKAL-ROKOJŻO ,12-100,48881350538,karolina.moskal1@gmail.com,"Proszę o wycenę pompy RGV - do 360 m3/h długość minimalna 0,4 m "
-162,2023-12-13 13:59:17,1,Konrad Sołtysek,VetAgro,20-234 Lublin,607692353,konrad.soltysek@polpharmabiologics.com,"Współpracując z Państwa firmą w ubiegłych latach, spotkałem się z możliwością wypożyczenia homogenizatora laboratoryjnego 1000 do 2000 bar z przpływem 10 do 15 litrów na godzinę. Czy mogę liczyć na ofertę takiego wypożyczenia w najbliższym styczniowo Lutowym terminie?"
-163,2023-12-14 15:34:37,1,,PPU Systemy i Urządzenia Komputerowe TELDREAM,80-171,583485695,teldream@teldream.com,"Mamy zapytanie od klienta w sprawie dozowania wody w ilościach około 50 litrów z bardzo dużą dokładnością rzędu 0.2%. W Państwa ofercie znajdują się pompy krzywkowe z pełnym uszczelnieniem. Nie mamy doświadczenia w zakresie pomp krzywkowych dlatego zwracamy się z pytaniem, czy na pompie krzywkowej jest możliwe uzyskanie takich dokładności w oparciu o pomiar liczby obrotów. Czy dawka zamykana w pompie jest stała na każdy obrót? Wydajność dozowania to około 7 litrów na minutę.
-W przypadku możliwości zastosowania pompy krzywkowej w takiej aplikacji prosimy o informację cenową najmniejszych pomp krzywkowych z Waszej oferty. 
-"
-164,2023-12-15 09:51:54,1,janusz frąckowiak,osm włoszczowa,29-100,509 791 008,jfrackowiak@osmwloszczowa.com.pl,"Proszę o ofertę na pompę do serka homogenizowanego, która nie będzie niszczyć struktury produktu. Preferujemy pompę dwuśrubowa, ale jesteśmy otwarci na inne rozwiązania. Urządzenie musi być przystosowane do mycia w systemie CIP. Wydajność 7m3/h, rurociąg po stronie tłocznej DIN70 ok. 45 m, 10 łuków 90o, jedna redukcja DIN 50 przed maszyną, po stronie ssawnej ok 2 m DIN70. Ciśnienie po stronie ssawnej ok. 0,1 - 0,7 bar (poziom masy w zbiorniku – grawitacja), wysokość podnoszenia po stronie tłocznej 5 m (ok 0,6 bar), lepkość serka ok 900 Pa*s. 
-"
-165,2023-12-15 12:26:32,1,Paweł Sikora,Box Logistics,43-100,601967488,pawel.sikora@boxlogistics.pl,"Dzień dobry,
-
-Kontaktuję się Państwem, z ramienia firmy Box Logistics, zajmującej się transportem morskim. Nasza firma jest zainteresowana kupnem pompy mobilnej, którą moglibyśmy przepompować zawartość kontenera typu „flexitank” do cysterny oraz w drugą stronę, a także z jednego flexitanka, do drugiego. Przepompowywane towary to oleje spożywcze (rzepak, słonecznik, soja) lub techniczne (np. oleje bazowe), koncentrat soku jabłkowego."
-166,2023-12-15 14:21:53,1,Dzbik Radosław,Grek Trade,95-200,668689282,r.dzbik@grektrade.com.pl, 
-167,2023-12-17 16:56:42,1,Mariusz Kuczmierczyk,Zakład Budowy Maszyn I Systemów Sterowania,43-330,606964057,biuro@budowamaszyn.ig.pl,"zień dobry
-
-Proszę o ofertę na wymiennik o parametrach poniżej .
-
-
-Płytowy wymiennik ciepła
-
- 
-
-Ilość płyt 40  - proponowana
-
- 
-
-Grubość płyt 0,4mm - kiedyś taki kupiłem tylko innej firmy wiec w tym przypadku zdaje się na państwa .
-
- 
-
-Ciecz do schłodzenia woda
-
- 
-
-Wydajność 12 m^3/h
-
- 
-
-Temperatura na wlocie 15 stopni
-
- 
-
-Temperatura na wylocie 7 stopni
-
- 
-
-Ilość wymienianego ciepła 85,6 kW
-
- 
-
-Medium do chłodzenia wymiennika: woda z chilera 15C z przepływem 15,5 m3/h"
-168,2023-12-19 12:32:11,1,WLADYSLAW ,CARBOLINE PLSKA ,83-021,502239312,wgierej@carbolinepolska.pl,proszę o ofertę na pompę 24l/min  sprawa pilna
-175,2024-01-08 12:34:08,1,Test,Test,80-900,+48 700 200 333,test@test.com,wiadomość testowa 1
-176,2024-01-08 13:51:40,1,Zbigniew Kowalewski,AGH University of Science and Technology,30-059,507657051,kowalew@agh.edu.pl,"Dzień Dobry 
+175,"2024-01-08 12:34:08",1,Test,Test,80-900,"+48 700 200 333",test@test.com,"wiadomość testowa 1"
+176,"2024-01-08 13:51:40",1,"Zbigniew Kowalewski","AGH University of Science and Technology",30-059,507657051,kowalew@agh.edu.pl,"Dzień Dobry 
 prosze o ofertę cenową na pompę
 https://www.tapflo.com.pl/pompy-membranowe/seria-pe-i-ptfe
 w wersji 9l na minutę
 Pozdrawiam"
-177,2024-01-10 07:41:02,1,Krystian Lankauf,Politechnika Gdańska ,80-233,666-666-666,krystian.lankauf@pg.edu.pl,"Dzień dobry,
+177,"2024-01-10 07:41:02",1,"Krystian Lankauf","Politechnika Gdańska ",80-233,666-666-666,krystian.lankauf@pg.edu.pl,"Dzień dobry,
 
 Mam pytanie o orientacyjną cenę pompy Tapflo TR09 PTFE.
 
 Z wyrazami szacunku
 Krystian Lankauf"
-178,2024-01-10 08:14:47,1,Tomasz Dyrcz,INTER GLOBAL Sp. z o .o.,43-378,503 085 731,dyrcz@interglobal.pl,"Dzień dobry, 
+178,"2024-01-10 08:14:47",1,"Tomasz Dyrcz","INTER GLOBAL Sp. z o .o.",43-378,"503 085 731",dyrcz@interglobal.pl,"Dzień dobry, 
 Jestem zainteresowany zakupem filtrów wyrzutu powietrza w pompkach TX25 ANN. Czy mogę prosić o ofertę na 10 szt takich filtrów?
 Z góry bardzo dziękuję za informację zwrotną.
 Z poważaniem
 Tomasz Dyrcz"
-179,2024-01-10 13:04:38,1,Michał Wojtkowiak,KOSS – SERVICE Sp. Z o.o,"05-830 nadarzyn, Komorowska 30",690443510,m.h.wojtkowiak@gmail.com,"Dzień dobry, Poproszę o ofertę na samo mieszadło do beczki i komplet mieszadło razem z beczką i najlepiej wylewką( kranikiem w beczce). Czy produkt jest odporny na śroki żrące typu wodorotlenek sodu. Pozdrawiam"
-180,2024-01-12 08:44:40,1,Adam Błażewicz,Stokota sp z o o  w Elblągu,82-300,603301409,blazewiczadam@gmail.com,"Dzień dobry!
+179,"2024-01-10 13:04:38",1,"Michał Wojtkowiak","KOSS – SERVICE Sp. Z o.o","05-830 nadarzyn, Komorowska 30",690443510,m.h.wojtkowiak@gmail.com,"Dzień dobry, Poproszę o ofertę na samo mieszadło do beczki i komplet mieszadło razem z beczką i najlepiej wylewką( kranikiem w beczce). Czy produkt jest odporny na śroki żrące typu wodorotlenek sodu. Pozdrawiam"
+180,"2024-01-12 08:44:40",1,"Adam Błażewicz","Stokota sp z o o  w Elblągu",82-300,603301409,blazewiczadam@gmail.com,"Dzień dobry!
 Poproszę o dobór pompy i przesłanie karty katalogowej:
 -olej napędowy
 -600-800 L/min
 -3 cale
 -napęd silnikiem hydraulicznym"
-181,2024-01-15 12:22:34,1,Grzegorz Walczak,Ekos Poznań sp. z o.o.,61-022,697990071,g.walczak@ekos.poznan.pl,"Dzień dobry. Czy mogę prosić o ofertę na mieszadło do pojemników IBC z silnikiem elektrycznym z wirnikiem i wałem ze stali nierdzewnej. Potrzebujemy przygotować flokulant polimerowy lub mleko wapienne. Dziękuję pozdrawiam
+181,"2024-01-15 12:22:34",1,"Grzegorz Walczak","Ekos Poznań sp. z o.o.",61-022,697990071,g.walczak@ekos.poznan.pl,"Dzień dobry. Czy mogę prosić o ofertę na mieszadło do pojemników IBC z silnikiem elektrycznym z wirnikiem i wałem ze stali nierdzewnej. Potrzebujemy przygotować flokulant polimerowy lub mleko wapienne. Dziękuję pozdrawiam
 Grzegorz Walczak"
-182,2024-01-15 13:40:18,1,Paweł Kuszewski,Acti-med Polska,05-825,512868178,pkuszewski@acti-med.de,"Witam Serdecznie
+182,"2024-01-15 13:40:18",1,"Paweł Kuszewski","Acti-med Polska",05-825,512868178,pkuszewski@acti-med.de,"Witam Serdecznie
 
 Interesuje mnie zakup pompy wirowej magnetycznej o przepustowości ok. 100l/min. Obecna pompa jaką mieliśmy to Jessberger NH200PS-F. 
 Uprzejmie proszę o przedstawienie oferty na pompę o podobnych parametrach. Pompa będzie służyła do mieszania roztworu 40% kwasu fosforowego
 
 Dziękuję i Pozdrawiam
 "
-183,2024-01-16 07:19:01,1,Stanisław Cwigoń,ELMEN,97-427,603568748,stanislaw.cwigon@elmen.pl,"Proszę o przesłanie oferty z ceną i możliwym terminem realizacji dostawy, na; pompa śrubową 6C12s z napędem 1,1kW	TAPFLO	CTI DD-1CGF4F-40.
+183,"2024-01-16 07:19:01",1,"Stanisław Cwigoń",ELMEN,97-427,603568748,stanislaw.cwigon@elmen.pl,"Proszę o przesłanie oferty z ceną i możliwym terminem realizacji dostawy, na; pompa śrubową 6C12s z napędem 1,1kW	TAPFLO	CTI DD-1CGF4F-40.
 Pozdrawiam
 Stanisław Ćwigoń"
-184,2024-01-20 11:53:33,1,Cezary Kondracki,Transimpex M.Kondracka C.Kondracki Sp.J.,08-300 Sokołów Podlaski ul. Lipowa 80,605 206 661,transimpex@vp.pl,"Dzień dobry
+184,"2024-01-20 11:53:33",1,"Cezary Kondracki","Transimpex M.Kondracka C.Kondracki Sp.J.","08-300 Sokołów Podlaski ul. Lipowa 80","605 206 661",transimpex@vp.pl,"Dzień dobry
 Poszukujemy 2-ch szt samozasysających pomp do płynu AdBlue, pracujących w zakresie ciśnień 1,4-3,5BAR ze średnicą przyłącza 1""
 Pozdrawiam
 Cezary Kondracki"
-185,2024-01-23 05:27:48,1,Piotr Sosnowski,BIOMEX,"69123 Heidelberg, Germany",4962214166192,piotr.sosnowski@biomex.de,"Witam,
+185,"2024-01-23 05:27:48",1,"Piotr Sosnowski",BIOMEX,"69123 Heidelberg, Germany",+4962214166192,piotr.sosnowski@biomex.de,"Witam,
 Chcialbym spytac sie czy wysylaja Panstwo produkty do Niemiec?
 Jesli tak, to jestem zainteresowany nastepujacym produktem:
 CTI AA-05.
 Czy moga Panstwo przygotowac fakture razem z kosztami wysylki?
 Pozdrawiam,
 Piotr Sosnowski"
-186,2024-01-23 06:05:12,1,Tomasz Jędraszczak,PERN S.A,09-410,608592474,tomasz.jedraszczak@pern.pl,"Dzień dobry.
+186,"2024-01-23 06:05:12",1,"Tomasz Jędraszczak","PERN S.A",09-410,608592474,tomasz.jedraszczak@pern.pl,"Dzień dobry.
 Proszę o przedstawienie oferty na pompę TX120 ATT-3N"
-187,2024-01-23 15:57:02,1,Dariusz Walo,FHPU WALO Bożena Walo,83-200,48533838319,walodar@poczta.fm,"Witam !
+187,"2024-01-23 15:57:02",1,"Dariusz Walo","FHPU WALO Bożena Walo",83-200,+48533838319,walodar@poczta.fm,"Witam !
 Pompa membranowa DOSEURO z napędem elektrycznym  :0,55kW
 
                Doseuro  PVC    TYP :  B-250N-75/C-43                        sztuk 1,00
@@ -801,9 +70,9 @@ Proszę o dobrą  ofertę cenowo-terminową dla w/w pompy DOSEURO
 Pozdrawiam Dariusz Walo
 
 "
-188,2024-01-24 09:50:12,1,adam kozłowski,adam kozłowski nip 6191014179,98-400 wieruszów,606645191,adamkoz@gazeta.pl,"075M6F PCM 
+188,"2024-01-24 09:50:12",1,"adam kozłowski","adam kozłowski nip 6191014179","98-400 wieruszów",606645191,adamkoz@gazeta.pl,"075M6F PCM 
 cena termin dostawy warunki płatności"
-189,2024-01-24 18:49:19,1,Marek Lisik,MARION Sp.z o. o.,81-571 Gdynia ul. Chwaszczyńska 131a,501019851,marek.lisik@marionkosmetyki.pl,"Dzień dobry,
+189,"2024-01-24 18:49:19",1,"Marek Lisik","MARION Sp.z o. o.","81-571 Gdynia ul. Chwaszczyńska 131a",501019851,marek.lisik@marionkosmetyki.pl,"Dzień dobry,
 
 Proszę o przesłanie oferty i karty technicznej pompy ślimakowej w wykonaniu higienicznym. Wymagane parametry:
 - stal 304 lub 316L
@@ -823,75 +92,75 @@ Mieszalnik wyposażony jest w wodny płaszcz grzewczy z grzałkmi elektrycznymi
 pozdrawiam
 
 Marek Lisik"
-190,2024-01-25 10:52:06,1,Mateusz Krzemiński,NIRAS SP Z.O.O,54-429,694610995,mkrz@niras.com,"Dzień dobry,
+190,"2024-01-25 10:52:06",1,"Mateusz Krzemiński","NIRAS SP Z.O.O",54-429,694610995,mkrz@niras.com,"Dzień dobry,
 Zwracam się z prośbą o przygotwanie zapytania ofertowego na pompę membranową w wykonaniu higienicznym. Medium: ciecze o dużej lepkości, Wydajność: 2-5m3/h.
 Proszę również o udostępnienie modelu 3D w celu przymiarki do instalacji.  "
-191,2024-01-25 11:16:14,1,Roman Hancharou,SANEL ZAWISTOWSKI Sp. J,05-480,+48 572720107,r.hancharou@sanel.eu,"Dzień dobry, 
+191,"2024-01-25 11:16:14",1,"Roman Hancharou","SANEL ZAWISTOWSKI Sp. J",05-480,"+48 572720107",r.hancharou@sanel.eu,"Dzień dobry, 
 Proszę o ofertę na: Pompa TAPFLO w rozmiarze CTHCE 1SSE-22M w wykonaniu Eex d IIB T4"
-192,2024-01-26 13:57:10,1,GRZEGORZ SZROMEK,"SZROMEK GRZEGORZ P.H.U.""DOM-MAT ELEKTRONIK""",43-155,515104530,dommat1@wp.pl,"PROSZĘ O WYCENĘ POMP DOZUJĄCEJ  SZT 2 DLA BASENU ILOŚĆ PŁYNU DOZUJĄCEGO TO OKOŁO 0,5 L/H CIŚNIENIE OKOŁO 3 BAR"
-193,2024-01-29 11:58:17,1,Piotr Domagalski,V8 process sp zoo,91-011,48668669898,p.domagalski@v8process.pl,"Dzień dobry, proszę o ofertę na pompę dla:
+192,"2024-01-26 13:57:10",1,"GRZEGORZ SZROMEK","SZROMEK GRZEGORZ P.H.U.""DOM-MAT ELEKTRONIK""",43-155,515104530,dommat1@wp.pl,"PROSZĘ O WYCENĘ POMP DOZUJĄCEJ  SZT 2 DLA BASENU ILOŚĆ PŁYNU DOZUJĄCEGO TO OKOŁO 0,5 L/H CIŚNIENIE OKOŁO 3 BAR"
+193,"2024-01-29 11:58:17",1,"Piotr Domagalski","V8 process sp zoo",91-011,+48668669898,p.domagalski@v8process.pl,"Dzień dobry, proszę o ofertę na pompę dla:
 a) 30-50 % HBr, 2 % H2S, 2% H2SO4 (roztwór wodny), 50-100 kg/h, 10-30 deg C, 1-2 Bar
 b) to samo, ale 120 deg C
 W wersji standart i ATEX
 c) przepływomierz do tego
 Pozdrawiam,
 Piotr Domagalski"
-195,2024-01-29 12:27:18,1,GRZEGORZ SZROMEK,"SZROMEK GRZEGORZ P.H.U.""DOM-MAT ELEKTRONIK""",43-155,515104530,dommat1@wp.pl,"PROSZĘ O WYCENĘ POMP DOZUJĄCEJ  SZT 2 DLA BASENU ILOŚĆ PŁYNU DOZUJĄCEGO TO OKOŁO 0,5 L/H CIŚNIENIE OKOŁO 3 BAR"
-196,2024-01-30 10:38:44,1,Vladyslav Snizhko,SMF Technology Poland Sp. z o.o.,Lubelskie,793911603,v.snizhko@smfgmbh.com,"Dzień dobry,
+195,"2024-01-29 12:27:18",1,"GRZEGORZ SZROMEK","SZROMEK GRZEGORZ P.H.U.""DOM-MAT ELEKTRONIK""",43-155,515104530,dommat1@wp.pl,"PROSZĘ O WYCENĘ POMP DOZUJĄCEJ  SZT 2 DLA BASENU ILOŚĆ PŁYNU DOZUJĄCEGO TO OKOŁO 0,5 L/H CIŚNIENIE OKOŁO 3 BAR"
+196,"2024-01-30 10:38:44",1,"Vladyslav Snizhko","SMF Technology Poland Sp. z o.o.",Lubelskie,793911603,v.snizhko@smfgmbh.com,"Dzień dobry,
 Poszukujemy pompy do podawania mleka
 z wydajnością 14m^3/h oraz mocą 4 kW 
 Ciśnienia do 4 bar
 Proszę o wysłanie oferty
 Dziękuję"
-197,2024-02-03 12:32:17,1,KOSS-SERVICE Sp. zo.o. WALTER KACZOROWSKI,KOSS-SERVICE Sp. z o.o.,05-830,515035955,prezes@koss-service.pl,"Czy dozownik wchodzi razem z pompą podające?
+197,"2024-02-03 12:32:17",1,"KOSS-SERVICE Sp. zo.o. WALTER KACZOROWSKI","KOSS-SERVICE Sp. z o.o.",05-830,515035955,prezes@koss-service.pl,"Czy dozownik wchodzi razem z pompą podające?
 Oraz czy macie dozownik do chemii w postaci proszku/granulatu"
-198,2024-02-06 09:57:11,1,Magdalena WinderickxOleszczyk ,Igniss Energy Sp. z o. o.,07-120,606740928,magdalena@igniss.com,"Dzień dobry, szukam pompy ze sprzęgłem magnetycznym wykonaną z PP lub EPDM do pompowania wody o pH sporadycznie 11 (zwykle 8 - 9). Przepływ 25 m3/h. Wysokość podnoszenia 20 - 25 m. W razie dodatkowych pytań, proszę o kontakt. 
+198,"2024-02-06 09:57:11",1,"Magdalena WinderickxOleszczyk ","Igniss Energy Sp. z o. o.",07-120,606740928,magdalena@igniss.com,"Dzień dobry, szukam pompy ze sprzęgłem magnetycznym wykonaną z PP lub EPDM do pompowania wody o pH sporadycznie 11 (zwykle 8 - 9). Przepływ 25 m3/h. Wysokość podnoszenia 20 - 25 m. W razie dodatkowych pytań, proszę o kontakt. 
 Pozdrawiam
 Magdalena Oleszczyk Winderickx"
-199,2024-02-06 10:49:00,1,Zbigniew Rzentała,PAK-TREND,05-250,515245487,zr@pak-trend.pl,"Dzień dobry, szukam pompy do przepompowania ciasta lejącego o temp. 40st.C. Kontakt z żywnością. Pompa powinna być samozasysająca. Wydajność ok. 10 m3/h. 
+199,"2024-02-06 10:49:00",1,"Zbigniew Rzentała",PAK-TREND,05-250,515245487,zr@pak-trend.pl,"Dzień dobry, szukam pompy do przepompowania ciasta lejącego o temp. 40st.C. Kontakt z żywnością. Pompa powinna być samozasysająca. Wydajność ok. 10 m3/h. 
 "
-200,2024-02-06 11:01:25,1,Zbigniew Rzentała,PAK-TREND,05-250,515 245 487,zr@pak-trend.pl,Czy są pompy o mniejszej wydajności?
-201,2024-02-07 11:23:30,1,Maciej Dudek,Renergi Sp. z o.o.,80-414,608 451 372,maciej.dudek@mergi.eu,"Dzień dobry,
+200,"2024-02-06 11:01:25",1,"Zbigniew Rzentała",PAK-TREND,05-250,"515 245 487",zr@pak-trend.pl,"Czy są pompy o mniejszej wydajności?"
+201,"2024-02-07 11:23:30",1,"Maciej Dudek","Renergi Sp. z o.o.",80-414,"608 451 372",maciej.dudek@mergi.eu,"Dzień dobry,
 Czy mogliby Państwo zaproponować pompę, która będzie w stanie przepompować/mieszać 30% roztwór tiosiarczany sodu z wodą destylowaną? Wydajność pompy w okolicach 50-100l będzie wystarczająca.
 Dziękuję.
 Z pozdrowieniami,"
-202,2024-02-08 18:12:37,1,,P&H Systems,57-200,733456188,o.vasylechko@phsys.com.pl,"Przemysł farb i lakierów
+202,"2024-02-08 18:12:37",1,,"P&H Systems",57-200,733456188,o.vasylechko@phsys.com.pl,"Przemysł farb i lakierów
 Maksymalna wydajność  - 110 (l/min)
 Przyłącza gwintowane - 1"" BSP"
-203,2024-02-09 12:17:35,1,Sebastian Góralski,Sky-Net,74-110,695311088,seb77ban@gmail.com,"Witam, szukam części zamiennych do pompy flygt 3085 172-0240079 253"
-204,2024-02-10 20:54:17,1,Artur Witkowski,FAMILY LINE INVESTMENTS Sp z o.o.,05-500,507332214,arturw@family-line.eu,Prosze o oferte na mieszalnik do Mauzera
-205,2024-02-10 20:59:54,1,Artur Witkowski,FAMILY LINE INVESTMENTS Sp z o.o.,05-500,507332214,arturw@family-line.eu,"Poszukuje prostej pompu aby przepompowac np. mydlo w plynie z mauzera do zbiornika ktory podaje na maszyne nalewajaca , prosze o oferte"
-206,2024-02-11 12:43:40,1,Przemysław Kussy,Czysta Panda Group sp z o.o,01-267,530999944,Mycieczystapanda@gmail.com,"Dzień dobry.
+203,"2024-02-09 12:17:35",1,"Sebastian Góralski",Sky-Net,74-110,695311088,seb77ban@gmail.com,"Witam, szukam części zamiennych do pompy flygt 3085 172-0240079 253"
+204,"2024-02-10 20:54:17",1,"Artur Witkowski","FAMILY LINE INVESTMENTS Sp z o.o.",05-500,507332214,arturw@family-line.eu,"Prosze o oferte na mieszalnik do Mauzera"
+205,"2024-02-10 20:59:54",1,"Artur Witkowski","FAMILY LINE INVESTMENTS Sp z o.o.",05-500,507332214,arturw@family-line.eu,"Poszukuje prostej pompu aby przepompowac np. mydlo w plynie z mauzera do zbiornika ktory podaje na maszyne nalewajaca , prosze o oferte"
+206,"2024-02-11 12:43:40",1,"Przemysław Kussy","Czysta Panda Group sp z o.o",01-267,530999944,Mycieczystapanda@gmail.com,"Dzień dobry.
 Poszukuje Pompy membranowej która bedzie mozna wykorzystać do podawani chemii.
 Pompa musi być odporna na podchloryn sodu.
 orientacyjne parametry to ok 30l/minuta i cisnienie min. 11bar 24v
 Link który pokaze o co dokładnie chodzi. 
 https://southeastsoftwash.com/products/super8-softwash-pump?pr_prod_strat=e5_desc&pr_rec_id=5862365dd&pr_rec_pid=9064560918844&pr_ref_pid=8675909140796&pr_seq=uniform"
-207,2024-02-12 11:13:32,1,Wojciech Żołnierczyk,Aircom PCT BIS sp. z o.o. ,55-080 Pietrzykowice 20B,605501164,w.zolnierczyk@aircom.ag,"Dzień dobry, 
+207,"2024-02-12 11:13:32",1,"Wojciech Żołnierczyk","Aircom PCT BIS sp. z o.o. ","55-080 Pietrzykowice 20B",605501164,w.zolnierczyk@aircom.ag,"Dzień dobry, 
 proszę o wycenę 4 zabezpieczeń przed wzrostem ciśnienia w pompie. Proszę o wersję PDHS. Pompy są używane wraz z tłumikami pulsacji. Wersje pomp o jakich mowa 2x T200 PTT-3b2, oraz 2x T125 STT. Czy mogę uzyskać informację na temat montażu i przyłączy jakie są niezbędne? "
-208,2024-02-14 08:33:06,1,Norbert Szubert,ZUO KONIN,62-510 ,730-866-600,szubert@zuokonin.pl,"WItam, jestem zainteresowany Państwa pompa beczkowa. Interesuje mnie moc silnika, średnica zewnętrzna rury, do jakich chemii można jej użyć oraz cena i czas realizacji. Prosiłbym o wszelkie informacje drogą mailowa."
-209,2024-02-14 12:54:42,1,Ireneusz Zygier,IBUD,42-300,504016630,irekzy@poczta.onet.pl,jaka jest cena modelu T120 i T220? Czy nadaje sie do pracy ze skroplonym gazem orioan-butan (temp -20 st.C)?
-210,2024-02-15 10:20:18,1,Krzysztof Popiołek,SAMDEX Sp. z o. o.,39-300,509025989,krzysztof.popiolek@samdex.pl,"Jesteśmy zainteresowani zakupem pompy zębatej do przepompowywania wodnego kleju akrylowego o wydajności do 0,3 m3/h. Własności kleju: gęstość względna 1,03; lepkość 250 - 300 mPa.s (25stopniC). Proszę o ofertę opcjonalnie w wykonaniu zwykłym i przeciwwybuchowym. Pompa powinna pobierać klej ze zbiornika i przekazywać do maszyny - swobodny wypływ - co dla mnie oznacza nie za wysokie ciśnienie na wyjściu pompy."
-211,2024-02-19 10:17:33,1,Maciej Kaszuba,Frosta Sp. z o.o.,"85-778 Bydgoszcz, Witebska 63",tel.: 509525009,maciej.kaszuba@frosta.com,"Prosze o ofertę na pompę membranową T125 przystosowana do tłoczenia oleju jadalnego, wykonanie nierdzewne, atesty higieniczne dla przemysłu spożywczego, połączenia clampowe"
-212,2024-02-19 21:07:08,1,piotr,KAPADORA,47-220,605313011,p.paprot@kapadora.com,"interesuje nie mieszadło do Polielektrolitu w stacji dozowania, mieszadło zamontowane będzie w palet pojemniku o pojemności  1000l  "
-213,2024-02-20 06:24:48,1,Mirosław,Bowi sp. z o.o.,62-006,519136889,miroslaw.lukaszewski@bowitworzywa.pl,"Interesuje mnie pompa beczkowa o wydajności 20-40 l/moin dla cieczy o lepkości 5000 mPa*s w temp. 20. Gęstość cieczy 1,2 g/ml. Pompowana ciecz to mieszanina polieteroli z napełniaczami uniepaniającymi. pozdrawiam
+208,"2024-02-14 08:33:06",1,"Norbert Szubert","ZUO KONIN","62-510 ",730-866-600,szubert@zuokonin.pl,"WItam, jestem zainteresowany Państwa pompa beczkowa. Interesuje mnie moc silnika, średnica zewnętrzna rury, do jakich chemii można jej użyć oraz cena i czas realizacji. Prosiłbym o wszelkie informacje drogą mailowa."
+209,"2024-02-14 12:54:42",1,"Ireneusz Zygier",IBUD,42-300,504016630,irekzy@poczta.onet.pl,"jaka jest cena modelu T120 i T220? Czy nadaje sie do pracy ze skroplonym gazem orioan-butan (temp -20 st.C)?"
+210,"2024-02-15 10:20:18",1,"Krzysztof Popiołek","SAMDEX Sp. z o. o.",39-300,509025989,krzysztof.popiolek@samdex.pl,"Jesteśmy zainteresowani zakupem pompy zębatej do przepompowywania wodnego kleju akrylowego o wydajności do 0,3 m3/h. Własności kleju: gęstość względna 1,03; lepkość 250 - 300 mPa.s (25stopniC). Proszę o ofertę opcjonalnie w wykonaniu zwykłym i przeciwwybuchowym. Pompa powinna pobierać klej ze zbiornika i przekazywać do maszyny - swobodny wypływ - co dla mnie oznacza nie za wysokie ciśnienie na wyjściu pompy."
+211,"2024-02-19 10:17:33",1,"Maciej Kaszuba","Frosta Sp. z o.o.","85-778 Bydgoszcz, Witebska 63","tel.: 509525009",maciej.kaszuba@frosta.com,"Prosze o ofertę na pompę membranową T125 przystosowana do tłoczenia oleju jadalnego, wykonanie nierdzewne, atesty higieniczne dla przemysłu spożywczego, połączenia clampowe"
+212,"2024-02-19 21:07:08",1,piotr,KAPADORA,47-220,605313011,p.paprot@kapadora.com,"interesuje nie mieszadło do Polielektrolitu w stacji dozowania, mieszadło zamontowane będzie w palet pojemniku o pojemności  1000l  "
+213,"2024-02-20 06:24:48",1,Mirosław,"Bowi sp. z o.o.",62-006,519136889,miroslaw.lukaszewski@bowitworzywa.pl,"Interesuje mnie pompa beczkowa o wydajności 20-40 l/moin dla cieczy o lepkości 5000 mPa*s w temp. 20. Gęstość cieczy 1,2 g/ml. Pompowana ciecz to mieszanina polieteroli z napełniaczami uniepaniającymi. pozdrawiam
 Mirosław Łukaszewski"
-214,2024-02-20 09:13:26,1,Andrzej Stokłosa,"ALICJA Spółka Cywilna H. Studencki, A. Stokłosa, M. Studencka-Kachel",34-300,669444468,info@krowkialicja.pl,wycenę CTH - POMPY WIROWE HIGIENICZNE
-215,2024-02-20 10:32:55,1,Rafał Rawłuszko,FERMA DROBIU INDO,13-200 Działdowo,888742363,rawluszkor@gmail.com,"Dzień dobry,
+214,"2024-02-20 09:13:26",1,"Andrzej Stokłosa","ALICJA Spółka Cywilna H. Studencki, A. Stokłosa, M. Studencka-Kachel",34-300,669444468,info@krowkialicja.pl,"wycenę CTH - POMPY WIROWE HIGIENICZNE"
+215,"2024-02-20 10:32:55",1,"Rafał Rawłuszko","FERMA DROBIU INDO","13-200 Działdowo",888742363,rawluszkor@gmail.com,"Dzień dobry,
 Poproszę cenę mieszadła elektrycznego i pneumatycznego do 200l beczki. Potrzebuję 1 sztukę. 
 
 Z góry dziękuję i pozdrawiam,
 
 Rafał Rawłuszko
 888742363"
-216,2024-02-20 13:22:46,1,Marian Zielonka,Benda-Lutz Skawina,32-050,691021727,Marian.Zielonka@sunchemical.com,"Proszę o ofertę na ręczną pompę akumulatorową przeznaczoną do cieczy o lepkościach od 200 do 800 mPa.s (20 °C).
+216,"2024-02-20 13:22:46",1,"Marian Zielonka","Benda-Lutz Skawina",32-050,691021727,Marian.Zielonka@sunchemical.com,"Proszę o ofertę na ręczną pompę akumulatorową przeznaczoną do cieczy o lepkościach od 200 do 800 mPa.s (20 °C).
 Pozdrawiam
 Marian Zielonka
 "
-217,2024-02-23 11:51:10,1,Paweł Slendak,SP ZOZ CSK UM W ŁODZI,92-213,606720098,p.slendak@csk.umed.pl,Dzień dobry potrzebny zawór kulowy nypel-mufa 3/4 parowy powyżej 150stopni C
-218,2024-02-23 18:16:48,1,Krzysztof chajec,Spoinox,56-200,697595713,krzysztof-chajec@wp.pl,"Dzień dobry proszę o ofertę na pompę membranową zasilaną powietrzem model T50
+217,"2024-02-23 11:51:10",1,"Paweł Slendak","SP ZOZ CSK UM W ŁODZI",92-213,606720098,p.slendak@csk.umed.pl,"Dzień dobry potrzebny zawór kulowy nypel-mufa 3/4 parowy powyżej 150stopni C"
+218,"2024-02-23 18:16:48",1,"Krzysztof chajec",Spoinox,56-200,697595713,krzysztof-chajec@wp.pl,"Dzień dobry proszę o ofertę na pompę membranową zasilaną powietrzem model T50
 Pozdrawiam"
-219,2024-02-26 10:18:15,1,Andrzej Dzienisz,DOE Sp. z o.o.,84-207,500442326,ad@doe.pl,"Dzień dobry,
+219,"2024-02-26 10:18:15",1,"Andrzej Dzienisz","DOE Sp. z o.o.",84-207,500442326,ad@doe.pl,"Dzień dobry,
 Szukam pompy membranowej lub odśrodkowej: 24V DC
 1m3/h @ 3 bar.
 Ważne aby podsiadała IEEE - 841 klasę H, a terminal przyłączeniowy klasę F.
@@ -900,8 +169,8 @@ Jesteśmy firmą projektującą oraz produkującą urządzenia do przemysłu mor
 
 Pozdrawiam
 Andrzej Dzienisz"
-220,2024-02-27 14:40:23,1,Michał Barejko,Dakoma,05-462,725868538,mbarejko@dakoma.com.pl,"Poszukuję pompy do układu nalewającego preparaty chemiczne do czyszczenia obuwia i skór. Dokładnie jest to pasta i tłuszcz do obuwia, nalewa są w przedziale temperatur 50 - 85 st. C. prędkość nalewania wynosi 1200 opakowań x 100 ml / godzinę. Mogę przesłać karty charakterystyki nalewanych produktów. Podczas tłoczenia media są w formie płynnej (są rozgrzewane do temperatury 85 st.C), pompa pobiera medium ze zbiornika posadowionego na posadzce, długość rurociągu w poziomego wynosi 4 mb, medium tłoczone pionie do wysokości 2,7 m. Po produkcji instalacja wraz z pompą czyszczona naftą. Aktualnie zastosowana pompa tłokowa ma kilkanaście lat, jest dość awaryjna, problem dostępnością części zamiennych, problem z uszczelnieniami. Proszę o zaproponowanie rozwiązania i przedstawienia oferty cenowej. Jednocześnie chciałbym zapytać czy przed zakupem jest możliwość wykonania testów."
-222,2024-02-28 11:32:52,1,Dawid Miechowicz,Seco/Warwick S.A.,66-200,505284331,Dawid.Miechowicz@secowarwick.com,"Dzień dobry 
+220,"2024-02-27 14:40:23",1,"Michał Barejko",Dakoma,05-462,725868538,mbarejko@dakoma.com.pl,"Poszukuję pompy do układu nalewającego preparaty chemiczne do czyszczenia obuwia i skór. Dokładnie jest to pasta i tłuszcz do obuwia, nalewa są w przedziale temperatur 50 - 85 st. C. prędkość nalewania wynosi 1200 opakowań x 100 ml / godzinę. Mogę przesłać karty charakterystyki nalewanych produktów. Podczas tłoczenia media są w formie płynnej (są rozgrzewane do temperatury 85 st.C), pompa pobiera medium ze zbiornika posadowionego na posadzce, długość rurociągu w poziomego wynosi 4 mb, medium tłoczone pionie do wysokości 2,7 m. Po produkcji instalacja wraz z pompą czyszczona naftą. Aktualnie zastosowana pompa tłokowa ma kilkanaście lat, jest dość awaryjna, problem dostępnością części zamiennych, problem z uszczelnieniami. Proszę o zaproponowanie rozwiązania i przedstawienia oferty cenowej. Jednocześnie chciałbym zapytać czy przed zakupem jest możliwość wykonania testów."
+222,"2024-02-28 11:32:52",1,"Dawid Miechowicz","Seco/Warwick S.A.",66-200,505284331,Dawid.Miechowicz@secowarwick.com,"Dzień dobry 
 Poproszę o dobór oraz ofertę cenowo/terminową na wymiennik ciepła dla medium woda – olej hartowniczy.
 Parametry jakie mam narzucone to : 
 •	Moc : 105kW
@@ -918,32 +187,32 @@ Wymiennik płytowy z możliwością odpompowania (próżni) po stronie olejowej.
 Jeżeli potrzebne są jeszcze jakieś parametry to proszę o informację.
 Proszę o przesłanie karty katalogowej z dobranym wymiennikiem oraz model 3d
 "
-223,2024-02-29 11:34:09,1,Tomasz Zapiór,Pasek Europe Sp. z o.o.,41-303,604553754,tomasz.zapior@pasek.group,"Dzień dobry, 
+223,"2024-02-29 11:34:09",1,"Tomasz Zapiór","Pasek Europe Sp. z o.o.",41-303,604553754,tomasz.zapior@pasek.group,"Dzień dobry, 
 
 W 2020 roku zakupiliśmy u Państwa pompę dozującą model: D-100N-70/I-12 DVTN, chciałbym zapytać czy nadal posiadacie Pańswo ten model w ofercie. Jeżeli tak to czy mogę prosić o wycenę? 
 
 Z góry dziękuję i pozdrawiam
 Tomasz Zapiór"
-224,2024-03-05 06:16:16,1,Rafał Stępień,PPH CERKAMED Wojciech Pawłowski,37-450,158400847,rafal.stepien@cerkamed.pl,"Witam,
+224,"2024-03-05 06:16:16",1,"Rafał Stępień","PPH CERKAMED Wojciech Pawłowski",37-450,158400847,rafal.stepien@cerkamed.pl,"Witam,
 Proszę o przesłanie ofert na pompy z PEHD model T50 i T100.
 Pozdrawiam"
-225,2024-03-05 12:04:08,1,Diana Haidaienko,BSH Sprzęt Gospodarstwa Domowego sp. z o o,93-232,+48 574 947 747,Diana.Haidaienko-ext@bshg.com,"Dzień dobry,
+225,"2024-03-05 12:04:08",1,"Diana Haidaienko","BSH Sprzęt Gospodarstwa Domowego sp. z o o",93-232,"+48 574 947 747",Diana.Haidaienko-ext@bshg.com,"Dzień dobry,
 uprzejmie proszę o wycenę i oferty pomp PE TR9, PE TR20 oraz pompy beczkowej TRD20. Wzystkie pompy potrzebowalibyśmy wykonane w normie Ex. 
 Będę bardzo wdzięczna za odpowiedź"
-226,2024-03-05 12:31:40,1,Maciej Królik,PPG Cieszyn S.A.,43-400,608513317,krolik@ppg.com,"Poproszę o dwie oferty cenowe, jedną  na pompkę T 50 oraz drugą na T100"
-227,2024-03-06 09:16:25,1,Andrzej Elias,HYDROS Andrzej Elias,83-200,501661256,hydros@hydros.gda.pl,Proszę o podanie warunków handlowych na zakup pompy CombiBlock CB 40c-200.
-228,2024-03-11 05:08:28,1,krzysztof czarny,osoba prywatna,05-500,501827939,czarnyk29@gmail.com,"Witam poszukuje pompy beczkowej ktora bedzie odporna na dzialanie kwasu i zasad, oraz odporna na dichlorometan( chlorek metylenu)
+226,"2024-03-05 12:31:40",1,"Maciej Królik","PPG Cieszyn S.A.",43-400,608513317,krolik@ppg.com,"Poproszę o dwie oferty cenowe, jedną  na pompkę T 50 oraz drugą na T100"
+227,"2024-03-06 09:16:25",1,"Andrzej Elias","HYDROS Andrzej Elias",83-200,501661256,hydros@hydros.gda.pl,"Proszę o podanie warunków handlowych na zakup pompy CombiBlock CB 40c-200."
+228,"2024-03-11 05:08:28",1,"krzysztof czarny","osoba prywatna",05-500,501827939,czarnyk29@gmail.com,"Witam poszukuje pompy beczkowej ktora bedzie odporna na dzialanie kwasu i zasad, oraz odporna na dichlorometan( chlorek metylenu)
 
 Prosze o wycene wersji atex i bez tej dyrektywy
 Prosze o kontakt mailowy.
 
 Pozdrawiam Czarnek"
-229,2024-03-13 10:19:54,1,DARIUSZ IDZIK,NERO S.C.,95-100,794490111,biuro@nerosc.pl,"Dzień dobry,
+229,"2024-03-13 10:19:54",1,"DARIUSZ IDZIK","NERO S.C.",95-100,794490111,biuro@nerosc.pl,"Dzień dobry,
 Poszukujemy pompy do opróżniania kadzi 1 tona medium (folia w płynie lepkość 50 000 MPAS i gładzi polimerowej lepkość 60 000 MPAS)
 Proszę o ofertę 
 Pozdrawiam
 Dariusz Idzik"
-230,2024-03-13 12:04:27,1,Sawiusz Oracz,PUH „Chemirol” Sp. z o.o.,88-300,609798932,sawiusz.oracz@chemirol.com,"Dzień dobry,
+230,"2024-03-13 12:04:27",1,"Sawiusz Oracz","PUH „Chemirol” Sp. z o.o.",88-300,609798932,sawiusz.oracz@chemirol.com,"Dzień dobry,
 
 Proszę o informacje czy jest możliwość zrobienia u was mieszalnika na wymiar o następujących parametrach,
 
@@ -957,12 +226,12 @@ Proszę o informacje czy jest możliwość zrobienia u was mieszalnika na wymiar
 •	ciężar mieszalnika 40 kg ok.
 •	Deklaracja zgodności CE
 "
-231,2024-03-13 14:01:07,1,,Arktech,Francja,33682340560,anita.nowak@arktech.fr,"Dzien dobry. Na zlecenie francuskiej firmy, szukam przedsiębiorstwa zdolnego do wyprodukowania wymiennika ciepła, który byłby kompatybilny z systemem ORC (Organiczny Cykl Rankine’a), dostosowny do projektu. Jesli zagadnienie to wchodzi w zakres Panstwa kompetencji, uprzejmie prosze o kontakt."
-232,2024-03-14 12:49:26,1,Joanna Dobrzyńska ,Pemes Produkcja Kochanowski i Wspólnicy Sp.Jawna ,05-155,+48 22 382 96 01,joanna.dobrzynska@pemes-produkcja.pl,"Dzień dobry,
+231,"2024-03-13 14:01:07",1,,Arktech,Francja,+33682340560,anita.nowak@arktech.fr,"Dzien dobry. Na zlecenie francuskiej firmy, szukam przedsiębiorstwa zdolnego do wyprodukowania wymiennika ciepła, który byłby kompatybilny z systemem ORC (Organiczny Cykl Rankine’a), dostosowny do projektu. Jesli zagadnienie to wchodzi w zakres Panstwa kompetencji, uprzejmie prosze o kontakt."
+232,"2024-03-14 12:49:26",1,"Joanna Dobrzyńska ","Pemes Produkcja Kochanowski i Wspólnicy Sp.Jawna ",05-155,"+48 22 382 96 01",joanna.dobrzynska@pemes-produkcja.pl,"Dzień dobry,
 proszę o ofertę na pompę Tapflo T50-V2 ilość 1 szt. "
-233,2024-03-15 07:33:05,1,test test,test,85-010,789456123,test@hgmail.com,test wysłania formularz
-234,2024-03-15 07:41:20,1,test test,test,85-010,789456123,test@hgmail.com,test 
-235,2024-03-19 07:02:25,1,Tomasz Sarna ,Chemnovatic Sp. z o.o. sp.k. ,20-270,730 800 027,t.sarna@chemnovatic.com,"Dzień dobry,  
+233,"2024-03-15 07:33:05",1,"test test",test,85-010,789456123,test@hgmail.com,"test wysłania formularz"
+234,"2024-03-15 07:41:20",1,"test test",test,85-010,789456123,test@hgmail.com,"test "
+235,"2024-03-19 07:02:25",1,"Tomasz Sarna ","Chemnovatic Sp. z o.o. sp.k. ",20-270,"730 800 027",t.sarna@chemnovatic.com,"Dzień dobry,  
 poproszę o ofertę na 1 sztukę Mobilnej stacja mieszania IBC bez ATEX, ze względów formalnych prosiłbym aby w ofercie znalazły się następujące informacje: 
  a) nazwę i adres oferenta,
 b) nazwę, typ i model przedmiotu inwestycji, urządzenia,
@@ -975,7 +244,7 @@ h) warunki gwarancji,
 i) warunki serwisu – o ile z charakteru przedmiotu inwestycji wynika, że powinien być zapewniony (w przeciwnym wypadku na ofercie musi znaleźć się adnotacja „nie dotyczy”),
 j) wizualizację (jeżeli jest taka możliwość).
 "
-236,2024-03-19 09:42:16,1,Jakub Ślęzak,PROTECH Jakub Ślęzak,32-010,502915489,protech.krakow@gmail.com,"Potrzebowałbym pompę, która będzie miała za zadanie opróżnić zbiornik mieszający środek do czyszczenia samochodu ( mogą występować lekkie kwasy / zasady ). 
+236,"2024-03-19 09:42:16",1,"Jakub Ślęzak","PROTECH Jakub Ślęzak",32-010,502915489,protech.krakow@gmail.com,"Potrzebowałbym pompę, która będzie miała za zadanie opróżnić zbiornik mieszający środek do czyszczenia samochodu ( mogą występować lekkie kwasy / zasady ). 
 
 Wysokość podnoszenia max 2m
 Wydajność nie musi być jakaś rewelacyjna myślę że 100L/min wystarczy
@@ -983,12 +252,12 @@ Pompa nie może spieniać środka i musi być łatwa w płukaniu.
 
 Czy mogliby mi Państwo coś doradzić ?
 "
-237,2024-03-19 10:25:04,1,Dariusz Kożuch,ZWiK Krynica-Zdrój,"33-380 Krynica-Zdrój, Kraszewskiego 37",789222680,zwik@zwik-krynica.pl,"proszę o przesłanie oferty na dostawę pompy JP-120  dla potrzeb Gminy Krynica-Zdrój, Zakładu Wodociągów i Kanalizacji."
-238,2024-03-20 06:48:38,1,Norbert Głażewski,Rafineria Gdańska Sp. z o.o.,80-718,48505001702,norbert.glazewski@rafineriagdanska.pl,"Proszę o wycenę dwóch pomp membranowych, model TR 20. Czy w ofercie są Państwo zawrzeć dwa króćce z przyłączem po stronie przewodu CAM-LOCK (typ B) 3/4"" na każdą pompę. Czy pompy są wolno stojące czy przytwierdzane do podłoża?"
-239,2024-03-20 07:32:54,1,test test,test,85-010,789456123,test@gmail.com,test
-240,2024-03-20 11:50:19,1,test,test,85-010,789456123,test@gmail.com,Test małego formularza
-241,2024-03-20 11:53:12,1,test test,test,85-010,789456123,test@gmail.com,TEST gtm
-242,2024-03-26 12:10:45,1,Kamila Śliwa,Bilfinger,02-393,480531010882,kamila.sliwa@bilfinger.com,"
+237,"2024-03-19 10:25:04",1,"Dariusz Kożuch","ZWiK Krynica-Zdrój","33-380 Krynica-Zdrój, Kraszewskiego 37",789222680,zwik@zwik-krynica.pl,"proszę o przesłanie oferty na dostawę pompy JP-120  dla potrzeb Gminy Krynica-Zdrój, Zakładu Wodociągów i Kanalizacji."
+238,"2024-03-20 06:48:38",1,"Norbert Głażewski","Rafineria Gdańska Sp. z o.o.",80-718,+48505001702,norbert.glazewski@rafineriagdanska.pl,"Proszę o wycenę dwóch pomp membranowych, model TR 20. Czy w ofercie są Państwo zawrzeć dwa króćce z przyłączem po stronie przewodu CAM-LOCK (typ B) 3/4"" na każdą pompę. Czy pompy są wolno stojące czy przytwierdzane do podłoża?"
+239,"2024-03-20 07:32:54",1,"test test",test,85-010,789456123,test@gmail.com,test
+240,"2024-03-20 11:50:19",1,test,test,85-010,789456123,test@gmail.com,"Test małego formularza"
+241,"2024-03-20 11:53:12",1,"test test",test,85-010,789456123,test@gmail.com,"TEST gtm"
+242,"2024-03-26 12:10:45",1,"Kamila Śliwa",Bilfinger,02-393,+480531010882,kamila.sliwa@bilfinger.com,"
 1.	Popa dyspersyjna – wydajność 15m3/h 
 Zaciągany produkt : proszek 500kg/m3 ~ 50kg/5min
 Lepkość po wymieszaniu 2 cP
@@ -997,26 +266,26 @@ Atex: 22 IIIB T265
 
 Wysokość podnoszenia 3m
 "
-243,2024-03-27 07:12:12,1,Aleksander WASKO,Pphu_alwa,16-050,608890147,pphu_alwa@op.pl,Proszę podać cenę tej pompy
-245,2024-04-02 10:14:24,1,Kamil Wojtalik,Aerosol Service Sp. z o.o.,76-270,532353786,k.wojtalik@aerosol.pl,"Dzień dobry, na potrzeby mieszalni szukamy rozwiązań szybszego wykonania procesu przygotowania mieszaniny. Państwa mieszalnik przepływowy wydaję się być dobrym rozwiązaniem na nasze wyzwania. Czy moglibyśmy się umówić na rozmowę (najlepiej Teams) abyśmy mogli przedyskutować możliwości użycia Państwa produktu? Pozdrawiam i liczę na odpowiedź. Kamil Wojtalik"
-246,2024-04-02 11:56:04,1,Marcin Ciszek,Edison Next Poland,43-300,722032107,marcin.ciszek@edisonenext.pl,"Uprzejmie proszę o przesłanie oferty na dostawę pompy zasilającej do prasy osadów ściekowych FH50,
+243,"2024-03-27 07:12:12",1,"Aleksander WASKO",Pphu_alwa,16-050,608890147,pphu_alwa@op.pl,"Proszę podać cenę tej pompy"
+245,"2024-04-02 10:14:24",1,"Kamil Wojtalik","Aerosol Service Sp. z o.o.",76-270,532353786,k.wojtalik@aerosol.pl,"Dzień dobry, na potrzeby mieszalni szukamy rozwiązań szybszego wykonania procesu przygotowania mieszaniny. Państwa mieszalnik przepływowy wydaję się być dobrym rozwiązaniem na nasze wyzwania. Czy moglibyśmy się umówić na rozmowę (najlepiej Teams) abyśmy mogli przedyskutować możliwości użycia Państwa produktu? Pozdrawiam i liczę na odpowiedź. Kamil Wojtalik"
+246,"2024-04-02 11:56:04",1,"Marcin Ciszek","Edison Next Poland",43-300,722032107,marcin.ciszek@edisonenext.pl,"Uprzejmie proszę o przesłanie oferty na dostawę pompy zasilającej do prasy osadów ściekowych FH50,
 Pozdrawiam"
-247,2024-04-04 07:26:07,1,,test,85-010,789456123,test@gmail.com,xxx
-248,2024-04-04 07:28:44,1,test test,test,85-010,789456123,test@gmail.com,xxx
-249,2024-04-04 20:45:11,1,Grzegorz Wojtanowicz,OMEGAPUR SP. Z O.O.,30-727,780500330,grzegorz@omegapur.pl,"Witam, jesteśmy zainteresowani STACJĄ MIESZANIA I POMPOWANIA, co istotne to lepkość naszych materiałów to 5500-7500 cP. Proszę o przesłanie oferty wraz z opisem opcji dodatkowych. Jeśli potrzebujecie Państwo więcej informacji proszę o kontakt."
-250,2024-04-05 15:35:44,1,Kamil Wyraz,Welding Installations Projects ,32-800,504313622,kwyraz@wip-company.pl,"Dzień dobry.
+247,"2024-04-04 07:26:07",1,,test,85-010,789456123,test@gmail.com,xxx
+248,"2024-04-04 07:28:44",1,"test test",test,85-010,789456123,test@gmail.com,xxx
+249,"2024-04-04 20:45:11",1,"Grzegorz Wojtanowicz","OMEGAPUR SP. Z O.O.",30-727,780500330,grzegorz@omegapur.pl,"Witam, jesteśmy zainteresowani STACJĄ MIESZANIA I POMPOWANIA, co istotne to lepkość naszych materiałów to 5500-7500 cP. Proszę o przesłanie oferty wraz z opisem opcji dodatkowych. Jeśli potrzebujecie Państwo więcej informacji proszę o kontakt."
+250,"2024-04-05 15:35:44",1,"Kamil Wyraz","Welding Installations Projects ",32-800,504313622,kwyraz@wip-company.pl,"Dzień dobry.
 Poszukuje odpowiedniego filtra do krwi bydlece który filtrowalby do 3 kategorii
 Jeśli macie Państwo w ofercie takie, prosiłbym o kontakt to podam szczegóły
 Dziękuję "
-251,2024-04-08 07:25:45,1,Mariola Koper,Przedsiębiortwo Handlowe SEA Paweł Bronikowski,09-402 Płock ,48663733892,sea@sea.com.pl,"Dzień dobry 
+251,"2024-04-08 07:25:45",1,"Mariola Koper","Przedsiębiortwo Handlowe SEA Paweł Bronikowski","09-402 Płock ",+48663733892,sea@sea.com.pl,"Dzień dobry 
 Proszę o przesłanie oferty zakupu na 
 Pompa szlamowa zatapialna z pływakiem DN50 moc do 1kW 230V, pompa posiada króciec przyłączeniowy z gwintem wewnętrznym o średnicy 2”, gwarancja producenta min. 24 miesiące 
 "
-252,2024-04-08 07:25:54,1,Mariola Koper,Przedsiębiortwo Handlowe SEA Paweł Bronikowski,09-402 Płock ,48663733892,sea@sea.com.pl,"Dzień dobry 
+252,"2024-04-08 07:25:54",1,"Mariola Koper","Przedsiębiortwo Handlowe SEA Paweł Bronikowski","09-402 Płock ",+48663733892,sea@sea.com.pl,"Dzień dobry 
 Proszę o przesłanie oferty zakupu na 
 Pompa szlamowa zatapialna z pływakiem DN50 moc do 1kW 230V, pompa posiada króciec przyłączeniowy z gwintem wewnętrznym o średnicy 2”, gwarancja producenta min. 24 miesiące 
 "
-253,2024-04-08 10:59:50,1,Daniel Stanek,DASTEK solutions,58-400,663921123,daniel.stanek@dastek.com.pl,"Dzień dobry,
+253,"2024-04-08 10:59:50",1,"Daniel Stanek","DASTEK solutions",58-400,663921123,daniel.stanek@dastek.com.pl,"Dzień dobry,
 Poszukuję elektrycznej pompy membranowej o poniższych parametrach pracy.
 
 wydajność min. 100 l/min,
@@ -1028,13 +297,13 @@ Pompa przeznaczona do przepompowywania preparatów chemicznych, w tym do okazjon
 roztworów wodorotlenku sodu aż do stężenia 42%.
 
 Posiadają Państwo pompę, która spełnia stawiane wymagania? Jeśli tak, to proszę o przesłanie oferty."
-254,2024-04-08 21:03:21,1,Daniel Wiśniewski,CYSTERNEX Daniel Wiśniewski,05-092,609971907,biuro@cysternex.pl,"Dzień dobry jestem zainteresowany pompą Tapflo TX25 ANT, jaka jest dostępność oraz cena?"
-255,2024-04-09 09:33:29,1,Patrycja Kowalik ,Instytut Energetyki - Państwowy Instytut Badawczy,01-330,797905164,patrycja.kowalik@ien.com.pl,"Dzień dobry,
+254,"2024-04-08 21:03:21",1,"Daniel Wiśniewski","CYSTERNEX Daniel Wiśniewski",05-092,609971907,biuro@cysternex.pl,"Dzień dobry jestem zainteresowany pompą Tapflo TX25 ANT, jaka jest dostępność oraz cena?"
+255,"2024-04-09 09:33:29",1,"Patrycja Kowalik ","Instytut Energetyki - Państwowy Instytut Badawczy",01-330,797905164,patrycja.kowalik@ien.com.pl,"Dzień dobry,
 
 Poszukuję pompy perystaltycznej odpornej na wysoko stężony kwas jodowodorowy (57%) oraz w miarę możliwości odpornej na sole. Zależy mi na niskich natężeniach przepływu (ok. 0,5 ml/min). Czy znajdę w Państwa ofercie produkt spełniający takie wymagania?
 
 Pozdrawiam "
-256,2024-04-12 07:14:30,1,Artur Studnicki,BasicLab,04-175,880762832,artur.studnicki@basiclab.pl,"Dzień dobry,
+256,"2024-04-12 07:14:30",1,"Artur Studnicki",BasicLab,04-175,880762832,artur.studnicki@basiclab.pl,"Dzień dobry,
 
 Potrzebuję ofert na pompy do przemysłu kosmetycznego.
 
@@ -1043,30 +312,30 @@ Pompy jakie mnie interesują to pompy membranowe zasilane pneumatycznie (T80 lub
 Prośba o kontakt.
 
 Pozdrawiam Artur Studnicki Kierownik Projektu"
-257,2024-04-14 11:19:20,1,Waldemar Staszyk,Phu,64-214,683844434,staszyk@gmail.com,"Witam, jaką cena za pompę z wirnikiem elastycznym model G Pozdrawiam "
-258,2024-04-15 08:56:50,1,Mateusz Charchut,Termetal Piotr Glaner Sp. k.,26-026,607215256,m.charchut@termetal.pl,"Dzień dobry,
+257,"2024-04-14 11:19:20",1,"Waldemar Staszyk",Phu,64-214,683844434,staszyk@gmail.com,"Witam, jaką cena za pompę z wirnikiem elastycznym model G Pozdrawiam "
+258,"2024-04-15 08:56:50",1,"Mateusz Charchut","Termetal Piotr Glaner Sp. k.",26-026,607215256,m.charchut@termetal.pl,"Dzień dobry,
 
 Czy mógłbym prosić o ofertę cenową na pompę membranową model T100 ?
 
 Pozdrawiam,
 Mateusz Charchut"
-259,2024-04-15 09:00:00,1,Paweł Mazur,MPGK Sp.z o.o.,39-300,666874764,pawel.mazur@mpgk.mielec.pl,"Dzień dobry,
+259,"2024-04-15 09:00:00",1,"Paweł Mazur","MPGK Sp.z o.o.",39-300,666874764,pawel.mazur@mpgk.mielec.pl,"Dzień dobry,
 
 proszę o ofertę na pompę FIP z elastycznym wirnikiem, o wydajności około 5-10m3/h przy wysokości podnoszenia do 2m, wysokość ssania mniej niż 1m. Proszę o kartę z danymi technicznymi pompy (charakterystyka wydajnościowa, rodzaj zasilania itp.)"
-260,2024-04-16 05:55:30,1,Tobiasz Bomski,MAHLE Behr Ostrów Wielkopolski Sp. z o.o.,63-400,48625950572,tobiasz.bomski@mahle.com,"Kontaktuję zię z Panstwem ponieważ chaił bym zakupić pompe membarnową model T25AEE która będzie wykorzystywana do przpompowywania glikolu etylowego.
+260,"2024-04-16 05:55:30",1,"Tobiasz Bomski","MAHLE Behr Ostrów Wielkopolski Sp. z o.o.",63-400,+48625950572,tobiasz.bomski@mahle.com,"Kontaktuję zię z Panstwem ponieważ chaił bym zakupić pompe membarnową model T25AEE która będzie wykorzystywana do przpompowywania glikolu etylowego.
 
 Praca pompu okresowa, wysokośc podnosznia max 3m.
 Prosze o przedstaiwniw oferty dla dwóch wykoanań:
 - aluminium
  - stal nierdzewna"
-261,2024-04-16 20:08:30,1,Janusz Grygiel,Grygiel TECHNIC Janusz Grygiel,93-102,696498805,grygiel.janusz@gmail.com,"Dzień dobry, poproszę o ofertę na pompęTR20 PTT oraz zestaw serwisowy do tej pompy (membrany, kolektor ssący i tłoczny wraz z uszczelkami oraz zestaw serwisowy do napędu)
+261,"2024-04-16 20:08:30",1,"Janusz Grygiel","Grygiel TECHNIC Janusz Grygiel",93-102,696498805,grygiel.janusz@gmail.com,"Dzień dobry, poproszę o ofertę na pompęTR20 PTT oraz zestaw serwisowy do tej pompy (membrany, kolektor ssący i tłoczny wraz z uszczelkami oraz zestaw serwisowy do napędu)
 
 Dziękuję."
-262,2024-04-19 06:37:27,1,Łukasz Łabuś,NMC POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,41-807,48605688800,ficner@nmc.pl,"Dzień dobry,
+262,"2024-04-19 06:37:27",1,"Łukasz Łabuś","NMC POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",41-807,+48605688800,ficner@nmc.pl,"Dzień dobry,
 Proszę o informację czy posiadają Państwo Uszczelnienie pompy wody Tapflo 3.84348.11 / 3.84349.11.
 Jeśli tak to proszę o przesłanie oferty na 2 sztuki."
-263,2024-04-19 07:41:10,1,Adam Stawarski,PLASTBUD Sp. z o.o.,39-205,721003473,adam.stawarski@plastbudsp.pl,"Proszę o ofertę na dostawę pompy wirowej o wydajności ok. 100 l/min, ciśn. 6 bar, wersja kwasoodporna, Atex"
-264,2024-04-22 09:13:47,1,Adam Kacprzak,Purinova Sp. z o.o,85-862 Bydgoszcz,602 841 803,adamkacprzakadam@wp.pl,"Dzień dobry, pragnę wyrazić zainteresowanie mojej firmy Purinova zakupem stacji mieszania beczek. Zależy nam na modelu wyposażonym w dedykowaną pokrywę do beczek oraz lejek, co ułatwi proces dozowania i mieszania. Istotne jest dla nas, aby urządzenie spełniało normy przeciwwybuchowe (EX).
+263,"2024-04-19 07:41:10",1,"Adam Stawarski","PLASTBUD Sp. z o.o.",39-205,721003473,adam.stawarski@plastbudsp.pl,"Proszę o ofertę na dostawę pompy wirowej o wydajności ok. 100 l/min, ciśn. 6 bar, wersja kwasoodporna, Atex"
+264,"2024-04-22 09:13:47",1,"Adam Kacprzak","Purinova Sp. z o.o","85-862 Bydgoszcz","602 841 803",adamkacprzakadam@wp.pl,"Dzień dobry, pragnę wyrazić zainteresowanie mojej firmy Purinova zakupem stacji mieszania beczek. Zależy nam na modelu wyposażonym w dedykowaną pokrywę do beczek oraz lejek, co ułatwi proces dozowania i mieszania. Istotne jest dla nas, aby urządzenie spełniało normy przeciwwybuchowe (EX).
 
 Specyfikacja techniczna, której szukamy, to:
 •  Przeznaczenie: Mieszanie cieczy
@@ -1081,8 +350,8 @@ Wersja w pełni zautomatyzowana
 2. 
 Wersja półautomatyczna
 "
-265,2024-04-22 11:26:48,1,Anna Kanigowska ,Consbud,44-153,609525025,aljk@poczta.onet.pl,Proszę o ofertę cenową na pompę T420 ATT
-266,2024-04-23 08:09:03,1,Mateusz Czyżewski,Kompania Piwowarska S.A. - Browar Dojlidy Białystok,15-555,695791077,mateusz.czyzewski@asahibeer.pl,"Dzień dobry,
+265,"2024-04-22 11:26:48",1,"Anna Kanigowska ",Consbud,44-153,609525025,aljk@poczta.onet.pl,"Proszę o ofertę cenową na pompę T420 ATT"
+266,"2024-04-23 08:09:03",1,"Mateusz Czyżewski","Kompania Piwowarska S.A. - Browar Dojlidy Białystok",15-555,695791077,mateusz.czyzewski@asahibeer.pl,"Dzień dobry,
 
 czy byliby Państwo w stanie przygotować mi ofertę na pompy beczkowe? 
 Potrzebuję mniej więcej czegoś takiego:
@@ -1110,13 +379,13 @@ Browar Dojlidy Białystok
 +48 695791077
 mateusz.czyzewski@asahibeer.pl
 "
-267,2024-04-23 08:30:55,1,Marcin Raczyński,Excellent, 32-003,693 726 853,marcin.raczynski@excellent.com.pl,"Dzień dobry
+267,"2024-04-23 08:30:55",1,"Marcin Raczyński",Excellent," 32-003","693 726 853",marcin.raczynski@excellent.com.pl,"Dzień dobry
 Proszę o przesłanie oferty na pompę membranową T100
 
 Pozdrawiam
 Marcin Raczyński"
-268,2024-04-24 08:44:30,1,Robert Dzwonnik,Termo Organika,74 - 200,605602105,rdzwonnik@termoorganika.pl,"Poszukuję mieszalnika do zbiornika IBC z regulacją obrotów. Zasilanie 230V, gęstość surowca 1,06g/cm3 "
-269,2024-04-25 06:57:25,1,Monika Bryła,SIC Sp. z o.o.,35-103,533899146,m.bryla@sic.net.pl,"Dzień dobry,
+268,"2024-04-24 08:44:30",1,"Robert Dzwonnik","Termo Organika","74 - 200",605602105,rdzwonnik@termoorganika.pl,"Poszukuję mieszalnika do zbiornika IBC z regulacją obrotów. Zasilanie 230V, gęstość surowca 1,06g/cm3 "
+269,"2024-04-25 06:57:25",1,"Monika Bryła","SIC Sp. z o.o.",35-103,533899146,m.bryla@sic.net.pl,"Dzień dobry,
 Proszę o dobór i wycenę pompy:
 
 I. Pompa dozująca
@@ -1133,15 +402,15 @@ Pompa będzie sterowana sterownikiem, który będzie ją uruchamiał w sekwencji
 
 pozdrawiam
 Monika Bryła"
-270,2024-04-25 08:05:27,1,KATARZYNA BIANGA,GRAAL SA ,84-110,667 445 406,katarzyna.bianga@graal.pl,"Witam,
+270,"2024-04-25 08:05:27",1,"KATARZYNA BIANGA","GRAAL SA ",84-110,"667 445 406",katarzyna.bianga@graal.pl,"Witam,
 Potrzebuje homogenizatora do realizacji prób technologicznych.
 Standardowo przygotowujemy porcje sosu 1-2 kg, natomiast zadowoli nas najmniejszym dostępnym.
 "
-271,2024-04-25 08:29:24,1,test test,qwe,31-202,123123123,test1@gmail.com,da
-272,2024-04-25 09:01:55,1,test test,qwe,31-202,123123123,test1@gmail.com,asdasdasd
-273,2024-04-25 09:03:56,1,asdasd asdasd,qwe,31-202,123321123,bybigi@lyft.live,asdasdasd
-274,2024-04-25 09:09:53,1,test test,qwe,31-202,123123123,test1@gmail.com,sdcazdasddasda
-275,2024-04-25 12:56:35,1,Marek Jordan,Clyde Bergemann,43-100,48728479886,marek.jordan@pl.cbpg.com,"Szanowni Państwo,
+271,"2024-04-25 08:29:24",1,"test test",qwe,31-202,123123123,test1@gmail.com,da
+272,"2024-04-25 09:01:55",1,"test test",qwe,31-202,123123123,test1@gmail.com,asdasdasd
+273,"2024-04-25 09:03:56",1,"asdasd asdasd",qwe,31-202,123321123,bybigi@lyft.live,asdasdasd
+274,"2024-04-25 09:09:53",1,"test test",qwe,31-202,123123123,test1@gmail.com,sdcazdasddasda
+275,"2024-04-25 12:56:35",1,"Marek Jordan","Clyde Bergemann",43-100,+48728479886,marek.jordan@pl.cbpg.com,"Szanowni Państwo,
 
 Jeśli to możliwe, proszę o przesłanie oferty na następujące elementy:
 
@@ -1150,42 +419,42 @@ Zestaw uszczelek GMD4016976P3000 do siłownika SPX Copes-Vulcan -1szt.
 
 Dziękuję!
 "
-277,2024-04-30 06:10:17,1,Mirosław Żelazko,Usługi ślusarskie remontowe remonty pomp,05-340    Kołbiel,502275883,mirek.zelazko@gmail.com,"Zwracam się do Państwa z zapytaniem o możliwość zakupu uszczelnień mechanicznych do pompy krzywkowej  T LP 0300 potrzebuję komplet na jedną pompę 2 sztuki uszczelnień pojedynczych rok produkcji pompy 2012.
+277,"2024-04-30 06:10:17",1,"Mirosław Żelazko","Usługi ślusarskie remontowe remonty pomp","05-340    Kołbiel",502275883,mirek.zelazko@gmail.com,"Zwracam się do Państwa z zapytaniem o możliwość zakupu uszczelnień mechanicznych do pompy krzywkowej  T LP 0300 potrzebuję komplet na jedną pompę 2 sztuki uszczelnień pojedynczych rok produkcji pompy 2012.
 
 Pozdrawiam"
-278,2024-05-01 20:39:32,1,Paweł Rybiałek,CPF Culinar,95-080,532967156,pawel.rybialek@cpfculinar.pl,"Witam, proszę o dobranie pompy  do kwasu octowego 80%.
+278,"2024-05-01 20:39:32",1,"Paweł Rybiałek","CPF Culinar",95-080,532967156,pawel.rybialek@cpfculinar.pl,"Witam, proszę o dobranie pompy  do kwasu octowego 80%.
 Wymagania:
 Wydajność 50-70l/min, kwas będzie tłoczony do zbiornika, który znajduje się na wysokości 4m, proszę o podanie propozycji czy pompa membranowa, zwykła ? Zdamy się na Państwa sugestie."
-279,2024-05-05 06:59:49,1,Andrzej Dzioch,Gospodarstwo prywatne ,64-360,508868917,dziochandrzej@gmail.com,Czy dostępny jest łącznik do mieszadła w chłodni alva laval
-280,2024-05-05 11:02:48,1,Eugeniusz Bocko,Bocko & Bocko,30-069,124230191,eugeniusz.bocko@icloud.com,"Proszę o informacje jaka jest cena tego urządzenia do mieszania substacji.
+279,"2024-05-05 06:59:49",1,"Andrzej Dzioch","Gospodarstwo prywatne ",64-360,508868917,dziochandrzej@gmail.com,"Czy dostępny jest łącznik do mieszadła w chłodni alva laval"
+280,"2024-05-05 11:02:48",1,"Eugeniusz Bocko","Bocko & Bocko",30-069,+124230191,eugeniusz.bocko@icloud.com,"Proszę o informacje jaka jest cena tego urządzenia do mieszania substacji.
 
 Mieszanie produktów w zbiorniku IBC 
 
 
 
 inz Eugeniusz Bocko"
-281,2024-05-05 11:05:30,1,Eugeniusz Bocko,Bocko & Bocko,30-069,+124230191; 666 402 665,eugeniusz.bocko@icloud.com,"Proszę o informacje jaka jest cena tego urządzenia do mieszania substacji.
+281,"2024-05-05 11:05:30",1,"Eugeniusz Bocko","Bocko & Bocko",30-069,"+124230191; 666 402 665",eugeniusz.bocko@icloud.com,"Proszę o informacje jaka jest cena tego urządzenia do mieszania substacji.
 
 Mieszanie produktów w zbiorniku IBC 
 
 
 
 inz Eugeniusz Bocko"
-282,2024-05-06 11:01:39,1,Natalia Radomska,CTO S.A.,80-392,58 511 6227,natalia.radomska@cto.gda.pl,"Dzień dobry! Czy mogą Państwo zaproponować pompę ręczną lub z zasilaniem akumulatorowym do przepompowywania cieczy (woda czysta/ brudna, mieszanina wody i paliwa) o parametrach: min. podnoszenie +4m/- 4m; w wykonaniu przeciwwybuchowym (teren częściowo otwarty/ zamknięty, teren stanowiska do badania ogniowego akumulatorów - palenie); celem pompy jest napełnianie panwi wodą (ok. 100l), przepompowywanie mieszaniny cieczy (woda+paliwo) z panwi (max. temp. 60st.C), przepompowywanie wody brudnej ze zbiornika zrzutowego do mauzera (1000l).
+282,"2024-05-06 11:01:39",1,"Natalia Radomska","CTO S.A.",80-392,"58 511 6227",natalia.radomska@cto.gda.pl,"Dzień dobry! Czy mogą Państwo zaproponować pompę ręczną lub z zasilaniem akumulatorowym do przepompowywania cieczy (woda czysta/ brudna, mieszanina wody i paliwa) o parametrach: min. podnoszenie +4m/- 4m; w wykonaniu przeciwwybuchowym (teren częściowo otwarty/ zamknięty, teren stanowiska do badania ogniowego akumulatorów - palenie); celem pompy jest napełnianie panwi wodą (ok. 100l), przepompowywanie mieszaniny cieczy (woda+paliwo) z panwi (max. temp. 60st.C), przepompowywanie wody brudnej ze zbiornika zrzutowego do mauzera (1000l).
 Pozdrawiam,
 Natalia Radomska"
-283,2024-05-06 14:31:45,1,Piotr Heide,Kronospan OSB,47-100,885285713,strzelce.osb.mechanicy@Kronospan.pl,"Witam , proszę o ofertę na zestaw naprawczy do pompy HYDRA-CELL PUMP G15XDBGHFEHA s/n 363020 z góry dziękuje z poważaniem Piotr Heide"
-284,2024-05-10 09:44:14,1,Wojciech Długosz,SM Michowianka,21-140,501353209,jerzy.dlugosz@michowianka.pl,Czy dostanę u Państwa pompę beczkową elektryczną do ługu sodowego o wydajności ok. 20 l/min?
-285,2024-05-13 10:05:17,1,Jan Mędrzak ,P.W.Spomet sp.ja.Andrzej Nowotarski Jan Mędrzak Jacek Kaminski ,43-300 Bielsko-Biała  i,600686864,januszmedrzak@gmail.com,Proszę o ofertę na pompę krzywkową do czekolady bez silnika o wydajnośći 2 do 3m3 na godz. przyłącze 2cale  
-286,2024-05-13 10:47:33,1,Paweł guziński,Celiko,61-359,792031002,p.guzinski@gmail.com,Proszę o ofertę na pompę T220 Membranowa pneumatyczna.
-287,2024-05-14 07:25:02,1,Paweł Wiśniowski,Asstra Polska,80-316,502 254 201,pawel.wisniowski@asstra.com,"Szanowni Państwo
+283,"2024-05-06 14:31:45",1,"Piotr Heide","Kronospan OSB",47-100,885285713,strzelce.osb.mechanicy@Kronospan.pl,"Witam , proszę o ofertę na zestaw naprawczy do pompy HYDRA-CELL PUMP G15XDBGHFEHA s/n 363020 z góry dziękuje z poważaniem Piotr Heide"
+284,"2024-05-10 09:44:14",1,"Wojciech Długosz","SM Michowianka",21-140,501353209,jerzy.dlugosz@michowianka.pl,"Czy dostanę u Państwa pompę beczkową elektryczną do ługu sodowego o wydajności ok. 20 l/min?"
+285,"2024-05-13 10:05:17",1,"Jan Mędrzak ","P.W.Spomet sp.ja.Andrzej Nowotarski Jan Mędrzak Jacek Kaminski ","43-300 Bielsko-Biała  i",600686864,januszmedrzak@gmail.com,"Proszę o ofertę na pompę krzywkową do czekolady bez silnika o wydajnośći 2 do 3m3 na godz. przyłącze 2cale  "
+286,"2024-05-13 10:47:33",1,"Paweł guziński",Celiko,61-359,792031002,p.guzinski@gmail.com,"Proszę o ofertę na pompę T220 Membranowa pneumatyczna."
+287,"2024-05-14 07:25:02",1,"Paweł Wiśniowski","Asstra Polska",80-316,"502 254 201",pawel.wisniowski@asstra.com,"Szanowni Państwo
 
 W imieniu AsstrA Polska Sp. z o.o. z wielką przyjemnością przedstawiamy Państwu propozycję współpracy z naszą firmą logistyczną, specjalizującą się w świadczeniu kompleksowych usług składowania i transportu. Od ponad dwóch dekad jesteśmy profesjonalnymi przewodnikami po świecie logistyki, dostarczając naszym Klientom nie tylko transport, lecz także strategiczne podejścia, które przyczyniają się do ich sukcesu na rynku.
 
 Nasze doświadczenie pozwoliło nam zrozumieć wyzwania, z jakimi zmagają się producenci w naszym kraju. Wiedzą Państwo doskonale, że oprócz jakości produktu, kluczową rolę odgrywa również szybki, bezpieczny i ekonomiczny transport oraz składowanie towarów. Dlatego chcemy zaoferować Państwu nasze najnowsze innowacje i rozwiązania, zwłaszcza w zakresie transportu towaru z/do portów w Gdańsku/Gdyni oraz miejsc składowania i przeładunku w sąsiedztwie portów w Gdańsku oraz Gdyni, a także w razie potrzeby pod Warszawą. Jesteśmy w stanie pośredniczyć przy imporcie/eksporcie do/z każdego miejsca na świecie, mamy doskonałe kontakty z wieloma armatorami morskimi oraz doświadczenie przy współpracy z tak dużymi podmiotami jak m.in. Grupa Orlen, Hyundai Engineering, Sharp Corporation czy wiele innych. Organizujemy dostawy po Polsce oraz po Europie w zależności od potrzeb klientów dowolnym rodzajem naczepy. 
 
 Zapraszam do kontaktu mailowego gdzie będę mógł przedstawić Państwu wachlarz rozwiązań który możemy zaproponować oraz odpowiedzieć na Państwa pytania :-) "
-288,2024-05-17 05:53:16,1,Paweł Madera,Bridgestone,73-110,664904511,pawel.madera@bridgestone.eu,"Dzień dobry
+288,"2024-05-17 05:53:16",1,"Paweł Madera",Bridgestone,73-110,664904511,pawel.madera@bridgestone.eu,"Dzień dobry
 
 Proszę o propozycję  i wstępną  wycenę mieszadła  do naszej substancji.
 Mieszalnik musi mieć napęd elektryczny (EX przeciwwybuchowy) na stojaku z mozliwością unoszenia najlepiej elektrycznego , adapter pod mieszadłem musi mieć rurkę na przelew i odpowietrznik jak na zdjęciu, jeżeli nie będzie możliwości dorobienia adaptera zrobimy go we własnym zakresie .
@@ -1199,17 +468,17 @@ Nasza substancja :
                                 - ph – 7,5
                                 - lepkość – 1510 mPa s
 Pozdrawiam"
-289,2024-05-20 12:16:53,1,eko-invest tomasz józefiak,eko-invest tomasz józefiak,32-332,662093575,ekoinvest@poczta.onet.eu,"dzień dobry, poszukuję pompy do melasy o wydajności 10-15 l/min. temperatura pracy powyżej 0 oC. temperatura melasy max 70 oC"
-290,2024-05-21 09:40:49,1,Adam Labuda,Nordamar,81-079 gdynia,669 091 655,a.labuda@nordamar.pl,"Witam,
+289,"2024-05-20 12:16:53",1,"eko-invest tomasz józefiak","eko-invest tomasz józefiak",32-332,662093575,ekoinvest@poczta.onet.eu,"dzień dobry, poszukuję pompy do melasy o wydajności 10-15 l/min. temperatura pracy powyżej 0 oC. temperatura melasy max 70 oC"
+290,"2024-05-21 09:40:49",1,"Adam Labuda",Nordamar,"81-079 gdynia","669 091 655",a.labuda@nordamar.pl,"Witam,
 
 Proszę o ofertę na pompę do masła orzechowego z mausera do stacji dozujacej z przyłaczem 2 cale. W przypadku pytań lub watpliwości bardzo proszę o kontak"
-291,2024-05-22 11:39:01,1,Michał,JONIT-TECH Michał Osztynowicz,62-005,697 052 168,biuro@jonit.pl,"Dzień dobry, 
+291,"2024-05-22 11:39:01",1,Michał,"JONIT-TECH Michał Osztynowicz",62-005,"697 052 168",biuro@jonit.pl,"Dzień dobry, 
 Proszę o przesłanie oferty na pompę z wirnikiem elastycznym FIP 25 SI - Gwint 1"", z wirnikiem z neoprenu wersja przemysłowa Kod wirnika - 0,
 Jednocześnie proszę o ofertę na sam wirnik.
 Pozdrawiam
 Michał Osztynowicz"
-292,2024-05-23 07:53:26,1,Jacek Piskorski,ORLEN oddziałw PGNIG w Sanoku - KGZ Pilzno,39-220,600491425,jacek.piskorski@pgnig.pl,"Poszukuję pompy do wody złożowej (solanka 1,18g/cm3)  o wydajności do 10 m3/h  i ciśnieniu tłoczenia do 50 bar  -  mile widziana praca w układzie pionowym"
-293,2024-05-23 07:59:45,1,Marcin  Stryczek,PG Imkius Sp Z o.o.,43-417 ,504  493 353,m.stryczek@imkius.pl,"Witam. Proszę o ofertę cenową  i czas realizacji pompy wg specyfikacji wykonanej w całości nierdzewki. 
+292,"2024-05-23 07:53:26",1,"Jacek Piskorski","ORLEN oddziałw PGNIG w Sanoku - KGZ Pilzno",39-220,600491425,jacek.piskorski@pgnig.pl,"Poszukuję pompy do wody złożowej (solanka 1,18g/cm3)  o wydajności do 10 m3/h  i ciśnieniu tłoczenia do 50 bar  -  mile widziana praca w układzie pionowym"
+293,"2024-05-23 07:59:45",1,"Marcin  Stryczek","PG Imkius Sp Z o.o.","43-417 ","504  493 353",m.stryczek@imkius.pl,"Witam. Proszę o ofertę cenową  i czas realizacji pompy wg specyfikacji wykonanej w całości nierdzewki. 
 Pompy wirowe CombiBloc (odśrodkowe) przemysłowe
 Wydajność pompy: 	Qmaks. = 850 m3/h
 Wysokość podnoszenia: 	Hmaks. = 105 m
@@ -1220,11 +489,11 @@ Typ wirnika: 	zamknięty, wykonany z żeliwa, brązu lub stali nierdzewnej
 Materiały korpusu: 	żeliwo, brąz (zgodne z EN 733 - DIN 24255),
 stal nierdzewna (zgodne z EN 22858/ISO 2858 - DIN 24256)
 Materiał wału: 	stal nierdzewna"
-294,2024-05-23 11:26:14,1,Andrzej Żwawiak,Steinpol Central Services Sp. z o.o.,69-110,+48 95 7132 955,a.zwawiak@steinpol.com.pl,"Witam,
+294,"2024-05-23 11:26:14",1,"Andrzej Żwawiak","Steinpol Central Services Sp. z o.o.",69-110,"+48 95 7132 955",a.zwawiak@steinpol.com.pl,"Witam,
 proszę o przygotowanie oferty na dwie pompy o oznaczeniu T100 PTT.
 Pozdrawiam
 Andrzej Żwawiak"
-295,2024-05-23 11:36:00,1,Krzysztof Ścigała,Chemia Bomar,49-345 Chróścina ,609576446,krzysiek.scigala@gmail.com,"Dzień dobry, chciałbym uzyskać ofertę na mieszalnik SLES, który chcielibyśmy wykorzystać do produkcji mydła (do 12 składników)
+295,"2024-05-23 11:36:00",1,"Krzysztof Ścigała","Chemia Bomar","49-345 Chróścina ",609576446,krzysiek.scigala@gmail.com,"Dzień dobry, chciałbym uzyskać ofertę na mieszalnik SLES, który chcielibyśmy wykorzystać do produkcji mydła (do 12 składników)
 1. Ile modułów składników można dodać?
 2. Czy mieszalnik posiada reaktor do mieszania poszczególnych składników?
 3. W jaki sposób odbywa się dozowanie. Czy jest możliwość odważania poszczególnych składników przed ich wymieszaniem?
@@ -1232,11 +501,11 @@ Andrzej Żwawiak"
 Pozdrawiam 
 Krzysztof 
 "
-296,2024-05-25 12:00:30,1,Aleksandra Śpionek,Hitachi Astemo,51-317,734184736,Aleksandra.Spionek@hitachiastemo.com,"Dzień dobry, czy mogę prosić o ofertę na układ rozładunkowy paletopojemników. Interesuje mnie układ, który będzie w stanie rozładować stęzony kwas solny techniczny do zbiornika. Proszę o kontakt. Pozdrawiam, Aleksandra Śpionek"
-297,2024-05-28 07:22:24,1,Andrzej Pakuła,Gazownia w Ostrowie Wielkopolskim,63-400,607664054,andrzej.pakula@psgaz.pl,"Poproszę o orientacyjną cenę pompy membranowej, metalowej, zasilanej powietrzem TAPFLO T25."
-299,2024-05-29 12:01:59,1,Tomasz Sarna,Chemnovatic Sp. z o.o. sp.k.,20-270,730800027,t.sarna@chemnovatic.com,"Dzień dobry, 
+296,"2024-05-25 12:00:30",1,"Aleksandra Śpionek","Hitachi Astemo",51-317,734184736,Aleksandra.Spionek@hitachiastemo.com,"Dzień dobry, czy mogę prosić o ofertę na układ rozładunkowy paletopojemników. Interesuje mnie układ, który będzie w stanie rozładować stęzony kwas solny techniczny do zbiornika. Proszę o kontakt. Pozdrawiam, Aleksandra Śpionek"
+297,"2024-05-28 07:22:24",1,"Andrzej Pakuła","Gazownia w Ostrowie Wielkopolskim",63-400,607664054,andrzej.pakula@psgaz.pl,"Poproszę o orientacyjną cenę pompy membranowej, metalowej, zasilanej powietrzem TAPFLO T25."
+299,"2024-05-29 12:01:59",1,"Tomasz Sarna","Chemnovatic Sp. z o.o. sp.k.",20-270,730800027,t.sarna@chemnovatic.com,"Dzień dobry, 
 jestem zainteresowany zakupem pomp z wirnikiem elastycznym FIP w wersji higieniczej z FDA, silnik jednofazowy 1400 obr, montaż bezpośrednio na kołnierzu, stndard przyłączy DIN 11851 fi 25. Przeznaczanie pomp do pompowania gliceryny i glikolu monopropylenowego "
-300,2024-05-29 12:19:39,1,Andrei Zayats,RIGEL STAR Sp. Z o.o.,02-963 Warszawa,+48 505 652 242,info@rigelstar.pl,"Szanowny Panie!
+300,"2024-05-29 12:19:39",1,"Andrei Zayats","RIGEL STAR Sp. Z o.o.","02-963 Warszawa","+48 505 652 242",info@rigelstar.pl,"Szanowny Panie!
 Prosimy o przesłanie oferty cenowej z wyceną dostawy poniższego towaru na warunkach DAP Warszawa.
 
 D35XESJHFEHH Hydra-Cell - 1szt
@@ -1249,20 +518,20 @@ Będziemy bardzo wdzięczni, jeśli prześlą nam Państwo swoją ofertę tak sz
 
 Z poważaniem, Prezes Zarządu   
 Zayats Andrei"
-301,2024-06-03 13:03:58,1,Kinga Białowarczuk-Deluga,Wschodni Front,15-399,881410470,kinga.bialowarczuk-deluga@kuchniavikinga.pl,"Dzień dobry,
+301,"2024-06-03 13:03:58",1,"Kinga Białowarczuk-Deluga","Wschodni Front",15-399,881410470,kinga.bialowarczuk-deluga@kuchniavikinga.pl,"Dzień dobry,
 chciałabym się dopytać o propozycję homogenizatora do próbek żywności,
 jak wygląda serwis urządzenia, gwarancja, autoklawowanie części,
 proces mycia i czyszczenia?
 Proszę również o wycenę danego urządzenia"
-302,2024-06-04 10:04:19,1,Sylwester Perłowski,RCEkoenergia Sp. z o.o.,43-502,502234762,sylwester.perlowski@rcekoenergia.pl,"Szanowni Państwo, 
+302,"2024-06-04 10:04:19",1,"Sylwester Perłowski","RCEkoenergia Sp. z o.o.",43-502,502234762,sylwester.perlowski@rcekoenergia.pl,"Szanowni Państwo, 
 Proszę o przesłanie oferty cenowej na dostawę zestawu 3 pomp dozujących Grundfos DDC 6-10 wraz z osprzętem:
 Pompa DDC 6-10 AR-PVC/T/CF-31U2U2FG kod producenta 97721374 – 3 sztuki
 Zawór wielofunkcyjny MFVG5/8-10 PVC/TU2 kod producenta 95730809 – 3 sztuki  
 Wąż PE-6/9-10m 4/U2 kod producenta 96727412 – 3 sztuki
 Zawór stopowy PE/E-V/C U2 kod producenta 98070951 – 3 sztuki
 "
-303,2024-06-07 06:49:28,1,Jacek Dudziński,Emporium,41-200,606477728,biuro@emporiumchemicals.pl,Proszę o ofertę na pompę beczkową
-304,2024-06-07 09:21:07,1,Maciej Wawrzyniak,SANTE,08-441,+48 691 802 199,mwawrzyniak@sante.pl,"Dzień dobry, 
+303,"2024-06-07 06:49:28",1,"Jacek Dudziński",Emporium,41-200,606477728,biuro@emporiumchemicals.pl,"Proszę o ofertę na pompę beczkową"
+304,"2024-06-07 09:21:07",1,"Maciej Wawrzyniak",SANTE,08-441,"+48 691 802 199",mwawrzyniak@sante.pl,"Dzień dobry, 
 
 Proszę o wycenę pomp do linia masła orzechowego. 3 szt. 
 •	Pompa dwuśrubowa higieniczna / lub krzywkowa wersja (TLP lub TW)
@@ -1279,33 +548,33 @@ Proszę o wycenę pomp do linia masła orzechowego. 3 szt.
 
 W razie pytań proszę o kontakt. 
 "
-305,2024-06-07 12:48:44,1,Kamil Sawicki,NVH POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,43-300,733222457,k.sawicki@nvhkorea.com,"Dzień dobry czy jest możliwość zrobienia oferty na stacje mieszania IBC z tej strony 
+305,"2024-06-07 12:48:44",1,"Kamil Sawicki","NVH POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",43-300,733222457,k.sawicki@nvhkorea.com,"Dzień dobry czy jest możliwość zrobienia oferty na stacje mieszania IBC z tej strony 
  (https://www.tapflo.com.pl/mieszadla-przemyslowe/stacja-mieszania-ibc#zapytanie-ofertowe )
 która posiadałaby dodatkowo pneumatyczną pompe membranową ?"
-306,2024-06-07 14:59:20,1,Tomasz Gula,Guletti ,95-100,572893115,gulwtti2000@gmail.com,Proszę o cenę i dosępność pompy TXP420.  Rozmawialiśmy o zasysaniu popiołów o granulacji w mikronach. Pozdrawiam 
-307,2024-06-10 13:21:06,1,Kamil Paga,H+A,87-100,792-939-478,serwis@hplusa.pl,"Proszę o przedstawienie oferty na mieszadło elektryczne z przekładnią, przeznaczone do kontenerów IBC. Urządzenie będzie wykorzystywane do mieszania farb wodnych, w związku z czym nie jest wymagane posiadanie certyfikatu EX.
+306,"2024-06-07 14:59:20",1,"Tomasz Gula","Guletti ",95-100,572893115,gulwtti2000@gmail.com,"Proszę o cenę i dosępność pompy TXP420.  Rozmawialiśmy o zasysaniu popiołów o granulacji w mikronach. Pozdrawiam "
+307,"2024-06-10 13:21:06",1,"Kamil Paga",H+A,87-100,792-939-478,serwis@hplusa.pl,"Proszę o przedstawienie oferty na mieszadło elektryczne z przekładnią, przeznaczone do kontenerów IBC. Urządzenie będzie wykorzystywane do mieszania farb wodnych, w związku z czym nie jest wymagane posiadanie certyfikatu EX.
 
 Proszę o wycenę dostępnych urządzeń oraz uwzględnienie rabatu dla dalszej odsprzedaży.
 
 Będę wdzięczny za szybkie udzielenie odpowiedzi."
-308,2024-06-11 12:09:49,1,Izabela Kuchcińska,Metal Team Sp. z o.o. Sp. K.,42-260,343261162,i.kuchcinska@metalteam.pl,Dzień dobry. Proszę o ofertę na pompę TX25 ATT.
-309,2024-06-12 07:29:09,1,Sebastian Tomczak ,Indigo Nails ,93-192,603783614,sebastian.tomczak@indigo-nails.com,"Dzień dobry, jestem zainteresowany pompą do proszków. Chciałbym dowiedzieć się więcej na temat zasad jej działania. 
+308,"2024-06-11 12:09:49",1,"Izabela Kuchcińska","Metal Team Sp. z o.o. Sp. K.",42-260,343261162,i.kuchcinska@metalteam.pl,"Dzień dobry. Proszę o ofertę na pompę TX25 ATT."
+309,"2024-06-12 07:29:09",1,"Sebastian Tomczak ","Indigo Nails ",93-192,603783614,sebastian.tomczak@indigo-nails.com,"Dzień dobry, jestem zainteresowany pompą do proszków. Chciałbym dowiedzieć się więcej na temat zasad jej działania. 
 Dodatkowo poszukuje taniego rozwiązania do przepompowania kremów "
-310,2024-06-12 11:28:48,1,Patrycja Pisarczyk,Top-serwis,37-112,604867733,top.serwis.tobiasz.bar@gmail.com,"Dzień dobry,
+310,"2024-06-12 11:28:48",1,"Patrycja Pisarczyk",Top-serwis,37-112,604867733,top.serwis.tobiasz.bar@gmail.com,"Dzień dobry,
 
 proszę o ofertę na pompę membranową o przyłączu 1 1/2"". Proszę również o informację czy pompa jest odporna na Bonderite (ciecz zasadowa).
 
 Pozdrawiam,
 Patrycja Pisarczyk"
-311,2024-06-13 06:14:43,1,Mariusz Waliś,PAULA Ingredients Sp. z o.o.,62-800,693610602,Mariusz.Walis@PAULAingredients.com,Proszę o ofertę cenową mieszadła do beczek 200-220l dla gęstego medium.
-312,2024-06-14 01:23:11,1,Krzysztof Łuszczyk,ŁUKOMET,05-480,603068988,krzysztof@lukomet.pl,Proszę o ofertę na pompę do przepompowywania roślinnego oleju spożywczego z cystern kolejowych do cystern samochodowych w dodatnich temperaturach otoczenia. Spust z cysterny kolejowej ma fi 200mm a więc planujemy pompę o wydajności 150 - 200 m3/h  i wysokości podnoszenia 10 - 15 m. Rozważamy napęd elektryczny lub spalinowy i podłączenia półelastycznymi ruro-wężami. 
-313,2024-06-14 08:20:19,1,Zenon Cieślak,Marcegaglia,46-320,694492001,zenon.cieslak@marcegaglia.com,"Witam
+311,"2024-06-13 06:14:43",1,"Mariusz Waliś","PAULA Ingredients Sp. z o.o.",62-800,693610602,Mariusz.Walis@PAULAingredients.com,"Proszę o ofertę cenową mieszadła do beczek 200-220l dla gęstego medium."
+312,"2024-06-14 01:23:11",1,"Krzysztof Łuszczyk",ŁUKOMET,05-480,603068988,krzysztof@lukomet.pl,"Proszę o ofertę na pompę do przepompowywania roślinnego oleju spożywczego z cystern kolejowych do cystern samochodowych w dodatnich temperaturach otoczenia. Spust z cysterny kolejowej ma fi 200mm a więc planujemy pompę o wydajności 150 - 200 m3/h  i wysokości podnoszenia 10 - 15 m. Rozważamy napęd elektryczny lub spalinowy i podłączenia półelastycznymi ruro-wężami. "
+313,"2024-06-14 08:20:19",1,"Zenon Cieślak",Marcegaglia,46-320,694492001,zenon.cieslak@marcegaglia.com,"Witam
 Proszę o ofertę na pompe  T50 PTT.
 Pozdrawiam
 Zenon Cieślak"
-314,2024-06-14 16:40:44,1,Bogumił Śpiołek,Zielona pracownia Michalina Śpiołek,66-530,605636305,bspiolek@autograf.pl,Proszę o kontakt w sprawie pompy śrubowej cf. Mam kilka pytań. Pozdrawiam
-315,2024-06-17 10:10:15,1,Marcel L,Tapflo,80-000,321-321-123,marcel.lemanski@tapflo.pl,test
-316,2024-06-18 05:03:02,1,Andrzej Zagórski,MPT Components,41-807,606795138,andrzej.zagorski@mpt-group.eu,"Dzień dobry
+314,"2024-06-14 16:40:44",1,"Bogumił Śpiołek","Zielona pracownia Michalina Śpiołek",66-530,605636305,bspiolek@autograf.pl,"Proszę o kontakt w sprawie pompy śrubowej cf. Mam kilka pytań. Pozdrawiam"
+315,"2024-06-17 10:10:15",1,"Marcel L",Tapflo,80-000,321-321-123,marcel.lemanski@tapflo.pl,test
+316,"2024-06-18 05:03:02",1,"Andrzej Zagórski","MPT Components",41-807,606795138,andrzej.zagorski@mpt-group.eu,"Dzień dobry
 Proszę o ofertę cenowo terminową na zakup filtra z pakietem worków 10um i wyposażeniem : stojak i czujnik stanu zabrudzenia.
 Filtr będzie użytkowany do filtracji wody z środkiem myjącym z myjki ultradźwiękowej, temp.60 st.C.
 
@@ -1317,9 +586,9 @@ MPT Components Sp.ZO.O.
 NIP: 199 000 32 44
 Adres: ul.Hencela Donnersmarcka Guido 15, 41-807 Zabrze
 "
-317,2024-06-18 08:27:25,1,Daniel Domański,P.P.H.U. LIS Marcin Lis,95-073,660631114,domanskid86@wp.pl,"Witam.
+317,"2024-06-18 08:27:25",1,"Daniel Domański","P.P.H.U. LIS Marcin Lis",95-073,660631114,domanskid86@wp.pl,"Witam.
 Proszę ofertę na pompę membranową  TR09. oraz informację o dostępność części zamiennych. Pozdrawiam Daniel"
-318,2024-06-21 05:38:12,1,Zofia Sokołowska,BIOGENED,91-342,600086683,zofia.sokolowska@biogened.pl,"Szanowni Państwo,
+318,"2024-06-21 05:38:12",1,"Zofia Sokołowska",BIOGENED,91-342,600086683,zofia.sokolowska@biogened.pl,"Szanowni Państwo,
 
 Jestem zainteresowana zakupem pomp dla przemysłu kosmetycznego, które pozwolą nam zlewać mas detergentowych o różnych lepkościach, od 2 000 do 18 000cP, bez powstawania zapowietrzenia. Czy posiadają Państwo pompy, które umożliwią zaciąganie z paletopojemnika oraz beczki do mieszalnika surowców o bardzo lepkiej konsystencji, podobnej do miodu, lub premixów o różnej lepkości? W naszej firmie stosujemy pompy wirnikowe Lymson, jednak szybko się zużywają, dlatego poszukujemy bardziej trwałego rozwiązania. Mogę przekazać więcej informacji o surowcach chemicznych, które zaciągamy, oraz o sposobie czyszczenia pomp.
 
@@ -1328,9 +597,547 @@ Zauważyłam również na Państwa stronie internetowej mieszadła do paletopoje
 Dziękuję za uwagę i czekam na  Państwa odpowiedź.
 
 "
-319,2024-06-21 10:29:56,1,Mieczysław Idczak,KGHM PM S.A. Oddział HMG,67-200,767576341,Mieczyslaw.Idczak@kghm.com,"Witam
+319,"2024-06-21 10:29:56",1,"Mieczysław Idczak","KGHM PM S.A. Oddział HMG",67-200,767576341,Mieczyslaw.Idczak@kghm.com,"Witam
 serdecznie. 
 Bardzo proszę o przesłanie oferty cenowej na: uszczelnienie i ewentualnie nurnik i statyw dla pompy śrubowej serii M lub całą część hydrauliczną. 
 Model - M 1M 40 M62; rok produkcji 2015; nr seryjny 289452. 
 Z góry dziękuję 
 Z poważaniem M. Idczak"
+320,"2024-06-24 05:17:53",1,"Andrzej Kidziński","ANDREAS, Andrzej Kidziński",08-300,692301340,a.kidzinski@andreas.biz.pl,"Dzień Dobry,
+Do projektu, który realizuję potrzebuję tłumik drgań do pompy membranowej 2"" , medium podchloryn sodu do 10 %
+BARDZO PLINE
+Andrzej Kidziński"
+322,"2024-06-24 11:03:36",1,"Grzegorz Dudek","Pikam Sp. z o.o.",26-613,696637855,grzegorz.dudek@browaryradomskie.pl,"Dzień dobry.
+Nadzoruję produkcję w nowo otwartym browarze w Radomiu. Potrzebuję pompę do przelewania soków, miodu i podobnych surowców.
+Proszę o ofertę na pompę z elestycznym wirnikiem
+FIP25SH-DIN 7 2 M01 P80, silnik 3 fazowy 1400 obr/min
+
+Z poważaniem
+Grzegorz Dudek
+Dyrektor produkcji
+696637855
+"
+323,"2024-06-25 07:17:47",1,"Leszek Kwiatkowski","KRAJOWA GRUPA SPOŻYWCZA SPÓŁKA AKCYJNA Oddział Cukrownia Dobrzelin",99-319,661667116,leszek.kwiatkowski@kgssa.pl,"Dzień dobry, 
+Proszę o przesłanie ceny i możliwego terminu realizacji dla dostawy pompy membranowej T100 PTT seria z tworzywa. 
+Z góry dziękuję."
+324,"2024-06-25 10:59:18",1,"Rafał Kmita",Pestila,97-320,573031514,rafal.kmita@pestila.pl,"Dzień dobry,
+Poszukuję mieszadła na zbiornik IBC. 
+Objętość zbiornika: 1000L
+Wymiary zbiornika: wysokość:1170, szerokość:1200mm głębokość:1000mm, średnica otworu 150mm
+Zawiesiny i roztwory o podwyższonej lekkości od 100 do 300cp, ciężar właściwy od 1 do 1,3 g/cm3
+Wielkość cząstek do 10um, zawartość 0-40%
+Napęd elektryczny
+Nakładane na paletopojemnik wózkiem widłowym
+czy mogę prosić o ofertę?
+Pozdrawiam 
+Rafał Kmita"
+325,"2024-06-27 11:07:40",1,"Przemysław Oleszczak","KOMPANIA PIWOWARSKA SPÓŁKA AKCYJNA","43-100 Tychy",695450309,przemyslaw.oleszczak@asahibeer.pl,"Serwis pompy 1M1.
+Pompa piwa przed pasteryzacją - piwo zimne z filtracji na pasteryzator nr seryjny 820100030816
+Wymiana uszczelnień
+"
+326,"2024-06-28 04:53:55",1,"Tomasz Graj",Eurowafel,32-640,571207139,tomasz.graj@eurowafel.pl,"Witam
+Proszę o ofertę na pompę TR20"
+327,"2024-06-28 11:46:10",1,"Zbigniew Lenarcik","MW Lublin",20-209,785123447,z.lenarcik@pl.mw.gruppocln.com,"Dzień dobry
+Proszę o ofertę cenową na pompę beczkową z silnikiem JP-280 i rurą pompującą PP 1200 mm
+Pozdrawiam"
+328,"2024-06-28 11:56:52",1,"andrzej radkowski ","pmb yard",70-812,601711177,a.radkowski@alabaster-yard.eu,"pompa do zywic  akrylowo - sterynowych"
+329,"2024-06-28 13:02:26",1,"Krzysztof Węgrzyn","WESSPER Sp. z o.o.",32-765,510677923,krzysztof.wegrzyn@wessper.com,"Dzień Dobry
+
+Jaka jest cena pompy perystaltycznej z serii PMA.
+
+Pozdrawiam
+Krzysztof Węgrzyn"
+330,"2024-07-01 09:39:50",1,"Aleksandra Komendarczyk","""KARPOL"" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",64-920,603653335,akomendarczyk@karpol.com.pl,"Proszę o ofertę cenową na pompę model T 50. "
+331,"2024-07-02 10:15:08",1,"Paulina Borowiec","WELDING INSTALLATIONS PROEJCTS  Dołęga Wyraz Buniowski Spółka Jawna",32-800,510,pborowiec@wip-compan.pl,"Dzień dobry,
+
+Bardzo proszę o przedstawienie Państwa oferty dotyczącej: pompy wirowej elektrycznej, gdzie: wydajność =/>150 [lmp], wysokość podnoszenia H=20[m], medium: ciecze oleiste,  średnica podłączenia 1.1/2"", materiał wykonania - stal nierdzewna.
+
+Pozdrawiam serdecznie
+Paulina Borowiec
+Inżynier projektu
+"
+332,"2024-07-02 11:56:21",1,"Paulina Borowiec","WELDING INSTALLATIONS PROEJCTS  Dołęga Wyraz Buniowski Spółka Jawna",32-800,510209896,pborowiec@wip-company.pl,"Dzień dobry, 
+
+Bardzo proszę o przedstawienie Państwa oferty dotyczącej:
+1. Pompa wirowa przemysłowa dla medium: ciecze oleiste ( woda z olejem ok 2%, temp.25stC), wydajność =/>150 [lmp], wysokość podnoszenia H=20[m], średnica podłączenia 1.1/2"".
+Materiał wykonania - stal nierdzewna.
+
+Pozdrawiam
+Paulina Borowiec
+Inżynier Projektu"
+333,"2024-07-03 05:44:17",1,"Dariusz Czyżewski ","Grupa Azoty Zakłady Chemiczne Police ",72-010,519501594,dariusz.czyzewski@grupaazoty.com,"Dzień dobry .
+Proszę o ofertę na zakup pompy model T50 PTT+A  .Wskazałem takie oznaczenie ponieważ taki model obecnie użytkujemy zakupiony u Państwa w 2017 roku ."
+334,"2024-07-04 06:19:19",1,"KRZYSZTOF SZEMBERG","PUMPS SERVICE LTD SP. Z O.O.",93-138,426845934,krzysztofsz@pumps-service.pl,"uprzejmie proszę o podanie ceny  i warunków dostawy pompy
+typ RDL 32-16E2B11 C181 3 ,1,1kw ,3x400V z podwójnym uszczellnieniem."
+335,"2024-07-10 11:11:32",1,"Michał Przybylski","Saraya Poland",05-080,605628312,m.przybylski@sraya.pl,"Dzień dobry,
+Proszę o ofertę na pompę membranową higieniczną T80."
+336,"2024-07-11 12:06:35",1,"Kamil Gołębiewski","Oceanic Sp. z o.o.",81-736,585508800,kamil.golebiewski@oceanic.com.pl,"Dzień Dobry,
+Szukam przepływowego homogenizatora ciśnieniowego. Ma być regulowane ciśnienie a nie rotor-stator. Czy mają Państwo w ofercie urządzenie laboratoryjne i jego procesowy odpowiednik?"
+337,"2024-07-12 11:23:09",1,"Krystian Brzózka","Pomerania Frucht Spółka z.o.o",78-320,603586677,krystian.brzozka@pomerania.pl,"Witam potrzebuję pompy beczkowej do przepompowania koncentratu owocowego. Na napęd pneumatyczny. wydajność około 25-50l na minutę.
+Proszę o również o ofertę na wersje z regulacją obrotów z silnikiem elektrycznym."
+338,"2024-07-15 07:48:30",1,,"Cuiavia OSM","88-100 Inowrocław","723 061 950",m.wielogorski@osmcuiavia.pl,"Dzień dobry,
+jesteśmy zainteresowani zakupem wirnika do pompy wirowej higienicznej. Wirnik jest typu zamkniętego, średnica wałka 18,9 mm, średnica wirnika prawie 20 cm , szczelina tłoczna wirnika 9 mm, grubość wirnika prawie 15 mm. Materiał z którego jest wykonany to stal kwasoodporna. Proszę wycenę o ile macie w ofercie taki wirnik.
+Pozdrawiam 
+Mateusz Wielogórski
+Cuiavia OSM Inowrocław
+"
+339,"2024-07-15 10:50:43",1,"Henryk Nieużyła","Promont Sp. z o.o. ",41-800,603550949,h.nieuzyla@promont.net.pl,"Witam,
+Poszukuję pomp samozasysających do pompowania cieczy - kondensatu z gazu koksowniczego. Ciecz może zawierać śladowe ilości benzolu, smoły itp. Pompy nie muszą posiadać dużej wydajności, wysokość podnoszenia ok. 20m"
+340,"2024-07-15 11:00:11",1,"Sara Chmielowiec","PGE EC O.Wybrzeże",80-555,514332754,Sara.Chmielowiec@gkpge.pl,"Proszę o ofertę na zakup pompy firmy Bran+Luebbe model ProCam Smart DS 15."
+341,"2024-07-16 06:32:35",1,"Ryszard Widor","P-W WIRD",43-346,510893553,i.kox@wp.pl,"Zakup- Pompa membranowa T50 PTT, 1/2"" podłączenie =1 szt. cena i termin."
+342,"2024-07-16 06:50:18",1,"Adam Spisak","Dankan Sp. z o.o.",80-868,604074787,adam.spisak@ecol-unicon.com,"Poproszę o ofertę na pompę beczkowa, zasilaną elektrycznie, montowaną na paletpopojemnik 1000l, do przetłaczania koagulantu PAX XL 19F (chlorek poliglinu) o stężeniu 30-40%. Temat pilny. Proszę o ofertę na pompę ""z półki"""
+343,"2024-07-23 08:49:48",1,"Jarosław Szmigiel","ICB Pharma",43-603,665664295,jaroslaw.szmigiel@icbpharma.com,"Zainteresowany jestem poznaniem ceny urządzenia Tapflo TX94 oraz możliwych wariantów akcesoriów (jeżeli dotyczy)."
+344,"2024-07-23 11:52:12",1,"Paweł Krzywicki","P.U.T. i H. M.P. TECH-SERWIS",98-300,607160334,P.KRZYWICKI@ONET.EU,"Proszę o ofertę na pompę CTV25-10P-2V3V-07"
+345,"2024-07-24 08:51:54",1,"Magdalena Pietrzak","TECH-GAZ SP Z O.O.",93-130,603979256,magda@techgaz.com.pl,"Dzień dobry.
+Proszę o przesłanie oferty zakupu oraz dostępności pompy na powietrze , tłoczkowej o wydajności 19m3/h , ciśnienie robocze 10 BAR + reduktor na pracę pompy. – 1 kpl.
+Dziękuję
+
+"
+346,"2024-07-25 09:05:15",1,"test test",Test,12-321,12351246,test@gmail.com,Test
+347,"2024-07-25 09:10:53",1,"test test",Test,12-321,12351246,test@gmail.com,Test
+348,"2024-07-26 05:24:29",1,"Marcin Bolaczek","DB Port Szczecin",70-603,609799852,marcin.bolaczek@dbport.eu,"Dzień dobry, 
+poprosił bym wstępną wycenę na pompę samozasysającą do:
+Rodzaj towaru: RSM32 (roztwór saletrzano-mocznikowy) / ang. UAN32 (nitrogen-amonium solution)
+Gęstość 1,32 kg/dm3 (1 litr = 1,32 kg)
+Wydajność: przy podnoszeniu 2-3 m / 200 ton / godz 
+Przyłącza: 4""
+Ciśnienie tłoczenia do 1 bar.
+
+Proszę o podanie ceny orientacyjnej.  
+
+"
+349,"2024-07-26 09:17:18",1,"Marek Nowaczyk","Ekopil Sp. z o.o.",64-920,505558522,marek.nowaczyk@ekopil.pl,"Szanowni Państwo,
+
+Proszę o przygotowanie oferty cenowej wraz z warunkami dostawy oraz płatności na:
+1. Pompa membranowa sterowana pneumatycznie ( zamiennik do WILDEN 04-5020-01) szt. 1
+2. Pompa membranowa sterowana pneumatycznie z przyłączami 2"", ATEX II 2 GD, wydajność 400L/min czy ciśnieniu zasilania 6 bar.
+
+Wymagane żeby pompy były o ile to możliwe jednego typu i od jednego dostawcy/producenta.
+
+W razie pytań jestem do dyspozycji
+
+Z poważaniem
+
+Marek Nowaczyk"
+350,"2024-07-29 07:05:14",1,"Dariusz Kokoczka","""GRENEVIA S.A.""  FAMUR oddział Glinik w Gorlicach","38-320 Gorlice","667952576                        ",dkokoczka@famur.com,"Dzień dobry, proszę o przedstawienie oferty na dostawę 2szt. pompy -CTM25-10k-05 T7893534100502"
+351,"2024-07-29 11:30:31",1,"Piotr Moruś","FF Marka własna Sp. z o.o. Torowa 13 Chechło Pierwsze",95-082,512462326,Piotr.Morus@ffmw.pl,"Dzień dobry.
+Proszę o przesłąnie oferty na zestaw serwisowy do pompy TAPFLO model Czy posiadacie w ofercie części do pomp Tapflo Interesuje mnie zestaw serwisowy części produktowej.
+
+Model CTX H 40-165/120-1SGV2D-15M
+Nr ser 2212 1231
+
+Potrzebuje 4 takie zestawy"
+352,"2024-07-29 13:14:32",1,"Agnieszka Turulska","Luba Sp. z o.o.",05-300,661750018,agnieszka.turulska@lshpl.com,"Proszę o ofertę na mieszadło beczkowe. "
+353,"2024-07-29 13:15:22",1,"Agnieszka Turulska","Luba Sp. z o.o.",05-300,661750018,agnieszka.turulska@lshpl.com,"Proszę o ofertę na mieszadło do mauzera "
+354,"2024-07-29 14:00:32",1,"Agnieszka Turulska","Luba Sp. z o.o.",05-300,661750018,agnieszka.turulska@lshpl.com,"Proszę o ofertę."
+355,"2024-07-30 08:52:42",1,"test test",Test,12-321,12351246,test@test.test,Test
+356,"2024-07-30 08:55:45",1,"test test",Test,12-321,12351246,test@gmail.com,Test
+357,"2024-07-30 10:45:51",1,"Sebastian Witkowski","FABRYKI MEBLI FORTE S.A.",07-300,693291997,sebastian.witkowski@forte.com.pl,"Dzień dobry, 
+
+Poproszę ofertę na pompę membranową TR20 PET-14NF"
+359,"2024-07-31 08:20:22",1,"Michalina Alicka","Food4Future Technologies sp. z o.o.",51-351,508639997,michalina.alicka@f4ftech.com,"Dzień dobry,
+Chciałabym prosić o wycenę następujących mieszadeł:
+- https://www.tapflo.com.pl/mieszadla-przemyslowe/mieszadla-ibc
+- https://www.tapflo.com.pl/mieszadla-przemyslowe/stacja-mieszania-ibc
+
+Pozdrawiam"
+360,"2024-08-05 12:05:45",1,"Szymon Smater","White Flower Sp z o.o.",84-110,604219677,szysma@gmail.com,"Dzień dobry, poszukuję pompy do przetłaczania peelingu solnego - konsystencja gęstej pasty z cząstkami stałymi ( sól) z poziomu powiedzmy podłogi na wysokość 2 metry i odległość do 4 metrów.
+Wydajność to około 2000 litrów na dzień. Poproszę o propozycję. Szymon Smater"
+361,"2024-08-07 04:52:23",1,"Mariusz Król","RZEŹNICTWO - WĘDLINIARSTWO KRÓL SPÓŁKA JAWNA",56-513,515153585,krolsj@wp.pl,"Witam,prosze o wycene i dostepnosc pompy FIP 25 z elastycznym wirnikiem tel 515153585 
+                                                                Pozdrawiam Król Mariusz"
+362,"2024-08-07 06:21:13",1,"test test",test,85-010,123456789,test@gmail.com,"test konwersji"
+363,"2024-08-07 06:29:23",1,"test test",test,85-010,123456789,test@gmail.com,"test konwersji GTM"
+364,"2024-08-07 12:08:04",1,"Marcin Jakubiak","I4tech Sp. z o.o.",41-506,785901171,mjakubiak@i4t.pl,"Dzień dobry, 
+
+proszę o ofertę na pompę wirową o wydajności 8 m3/h 
+ciśnienie do 8 barów z możliwością dławienia 
+medium woda 
+wykonanie: tworzywo sztuczne lub 316 "
+365,"2024-08-07 13:56:59",1,"jozef  koczy","Energoplan Silesia",44-280,503749179,energoplan@onet.pl,"Proszę o dobór pompy do gorącej wody parametry: p =20 bar .t= 100st.C , Q= 100 l/h   Podane parametry to minimum mogą być przybliżone. Podać moc silnika i napięcie.
+Pozdrawiam  J.K"
+366,"2024-08-12 06:06:09",1,"test test",test,85-010,123456789,test@gmail.com,"test konwersji google ads"
+367,"2024-08-12 06:07:48",1,"test test",test,85-010,123456789,test@gmail.com,"test konwersji "
+368,"2024-08-12 18:41:06",1,"Damian ",Atr,42-575,793045581,damianek7710@interia.pl,"Jaka jest cena tej pompy."
+369,"2024-08-14 09:25:29",1,"MICHAŁ FLORCZAK","SMP AGRO SP. Z O.O.",63-004,510442201,m.florczak@smp.agro.pl,"Proszę o wycenę pompy CTI AA-05"
+370,"2024-08-16 07:28:39",1,"prof. Miroslaw Kasprzak","Uniwersytet Rolniczy w Krakowie",30-814,693499662,miroslaw.m.kasprzak@gmail.com,"Dzień dobry
+rozważamy zakup homogenizatora ciśnieniowego, czy mogliby Państwo polecić odpowiednie urządzenie?
+Chcielibyśmy otrzymywać emulsje typu olej-woda, w skali laboratoryjnej. Aktualnie prowadzimy badania tworzenia emulsji za pomocą homogenizatora szybkoobrotowego w warunkach 25tyś obr/min. 
+Z poważaniem
+Mirosław Kasprzak
+"
+371,"2024-08-19 10:32:19",1,"Bartłomiej Bloch",Baschem,00-367,572182260,baschembartek@gmail.com,"Dzień dobry, potrzebuje cześći zamiennych do pompy type: DNR nr. 28045/66, a dokładnie oringów uszczleniajacych."
+372,"2024-08-20 10:47:04",1,"Waldemar Hołobut","GA Prorem",47-220,604499340,waldemar.holobut@grupaazoty.com,"Posiadamy Państwa pompę CTS I DF-60 nr ser. 1811-0447 2018r. Proszę o pilną ofertę na następujące części zamienne do tej pompy: wirnik, uszczelnienie mechaniczne, o-ring, tuleja (wał)."
+374,"2024-08-23 09:05:41",1,"Adrian Łuczejko","Vibracoustic Środa Śląska",55-300,539541438,adrian.luczejko@vibracoustic.com,"Witam 
+Chciałbym zapytać o ofertę na mieszadło do zbiornika IBC, do mieszania środka oddzielającego z wodą w proporcji 1:10, lepkość dynamiczna środka oddzielającego przed dodaniem wody jest w granicach 1.000 mPa s przy 25 °C. Intensywność mieszania umiarkowana poniżej 200 rpm.
+Pozdrawiam 
+Łuczejko Adrian"
+375,"2024-08-26 06:43:40",1,"Leszek Jaszczak","RAUCH Polska Sp zo.o",09-100,506170215,leszek.jaszczak@rauch.cc,"Dzień dobry
+poszukuje pompę do wypompowywania kwasu nadoctowego z pojemnika IBC. Bardzo prosze o przesłanie oferty.
+Z poważaniem
+Leszek Jaszczak"
+376,"2024-08-28 08:09:51",1,"Karol Gierek","AppKG Karol Gierek",32-700,531688224,karol.gierek@appkg.pl,"Witam, 
+proszę o dobór pompy do aplikacji którą chcę zaoferować klientowi. 
+Potrzebuję pompy która będzie będzie dozować wodę. 
+- rozmiar rurociągu DN25, 
+- medium - woda z sieci 
+- wymagane aby pompa była zmienoobrotowa - miała zmienny przepływ - do max 70 l/min
+
+"
+377,"2024-09-02 10:17:52",1,"Tomas Jaklund","PREBAKE Sp. z o.o.",70-892,+46739844220,tomas@easybake.se,"I'm interested in buying a couple of vertical pumps.
+email for potential meeting."
+378,"2024-09-03 06:25:31",1,"Mateusz Warański","EUROSERVICE  Zakłady Przemysłu Tłuszczowego w Surochowie Sp. z o.o.",37-500,880-754-482,m.waranski@euroservice.home.pl,"Dzień dobry
+Zwracam się z prośbą o przedstawienie oferty na zakup 2 szt. płytowych wymienników ciepła (skręcane). Parametry pracy:
+- 2 strumienie oleju rzepakowego (gęstość przy 20˚C - 0,92Mg/m3, lepkość przy 40˚C - 40mm2/s)
+
+- strumień A - 25Mg/h, P=4bar, Tin=30˚C, Tout, min=50˚C, (300ppm fosforu w formie fosfolipidów)
+
+- strumień B - 25Mg/h, P=4bar, Tin=80˚C, Tout, max=60˚C, (30ppm fosforu)
+
+Zakładamy współprądowy układ strumieni. Możliwy wzrost ciśnienia do 10bar. Zanieczyszczenia w oleju – proszę o przyjęcie 20% większej powierzchni. Materiał uszczelek VITON.
+
+Pozdrawiam
+Mateusz Warański
+"
+379,"2024-09-04 08:08:29",1,"Aleksandra Sobczyk","Weldon Sp. z o.o.",39-200,"697 770 689",aleksandra.sobczyk@weldon.pl,"Witam,
+Piszę z zapytaniem o części do pompy UCN-BL 40-25-160. Zalezy nam na uszczelnieniu "
+380,"2024-09-04 14:57:58",1,"Robert Sobczyński","Z P-U Robert Sobczyński","05-870 BŁONIE",602355302,robertsobczynski@interia.pl,"Dzień dobry . Proszę o ofertę na mieszadło pneumatyczne do pompy membranowej przyłącza G=3/4"" do zbiornika 1000 L"
+381,"2024-09-05 10:41:58",1,"Ryszard Widor","P-W WIRD",43-346,510893553,i.kox@wp.pl,"Pompa beczkowa, śrubowa, do substancji o wysokiej lepkości:
+
+1. Silnik (QCC, 1-phase), 1.5 kW, 900rpm, 230V, 5,2A  cena i termin.  NIP 5530008118"
+382,"2024-09-05 11:04:04",1,"Sławomir ","PWiK Sp. z o.o. W Bolesławcu",59-700,601705480,s.dominik@pwik.boleslawiec.pl,"Witam, jestem zainteresowany zakupem pompy perystaltycznej do przepompowywania PIX 113. "
+383,"2024-09-06 09:55:23",1,"Jakub Kępski","DOPPELT PIĄTEK I NOGACZ SP. K.",61-312,696047517,dzial.techniczny@sushi-tokyo.eu,"Dzień dobry, Proszę o dobór urządzenia i przygotowanie dla nas oferty na pompę beczkową. 
+Wymagania: 
+-pobór z beczki 200l 
+-kontakt ze spożywką (mleczko kokosowe) 
+-wymagany dodatkowo przepływomierz 
+Dziękuję"
+384,"2024-09-09 13:32:11",1,"Rafał Wąsik",Chem-Lean,71-454,505943227,rafal.wasik.pl@gmail.com,"Dzień dobry,
+Szanowni Państwo, poszukuje pompy do transferu na produkcję surowców chemicznych; detergenty anionowe, kationowe, niejonowe, kwasy ( siarkowy), zasady (wodorotlenki sodu i potasu). Lepkość niektórych surowców może sięgać do 1000cP. Przeznaczenie: produkcja małotonażowa 1batch=m3. Proszę o propozycję modelu, który się sprawdzi w w.w. warunkach.
+Pozdrawiam,
+Rafał Wasik"
+385,"2024-09-10 05:00:45",1,,"TCZ Tomaszów Maz",97-200,"44 7257242 ",magazyn@tcz.com.pl,"proszę o ofertę cenową na pompę beczkową"
+386,"2024-09-11 08:20:10",1,"Piotr Maćczak","Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o. w Kutnie",99-300,668095333,piotr.macczak@pwik.kutno.pl,"Proszę o przesłanie oferty na elektryczną pompkę beczkową do przepompowywania podchlorynu sodowego."
+387,"2024-09-11 11:23:03",1,"Sebastian Jakubiec","Mundivie S.A.",43-385,538633932,sebastian.jakubiec@mundivie.com,"Dzień dobry,
+
+Poszukuję pompy w wykonaniu Atex, przeznaczonej do przemysłu spożywczego,  do pompowania płynu zawierajacego stałe frakcje (części owocow, pestki). Wydajność pompy jaka mnie interesuje to ok 1,5-2m3/h. Przylacza sms 38. Proszę o ofertę."
+388,"2024-09-11 12:43:58",1,"Marcin Jarzębowski","ZAKŁAD PRZETWÓRSTWA MIĘSNEGO ""GROT"" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",95-030,693600087,mjarzebowski@zpmgrot.pl,"Prosze o podanie ceny i terminu realizacji na pompę Tapflo T30 STT-3X (Aktualnie posiadamy pompe o nr ser. 2002-4358) - 1 sztuka"
+389,"2024-09-11 13:51:00",1,"Kamil Łączny",InnoTechnology,40-858,664443499,biuro@innotec-industry.pl,"Dzień dobry,
+chciałbym zapytać o dostępność produktu. Jesteśmy dystrybutorem chemii przemysłowej i w naszej ofercie znajdują się woski do konserwacji : https://www.innotec.eu/oth/en/products/hi-temp-wax-dry/p2109 . Woski występują w wariantach beczkowych. Chcielibyśmy mieć kompatybilość oferty stąd moje pytanie, czy mają Państwo w ofercie pompy, które można zastosować do bezpośredniej aplikacji z beczek?
+W razie wątpliwości proszę o telefon."
+390,"2024-09-12 06:46:39",1,"Zbigniew ",Mesko,26-670,608899285,z.prochniak@mesko.com.pl,"
+Dzień dobry. Jesteśmy firmą z branży zbrojeniowej potrzebujemy urządzenia do otrzymania mieszaniny kauczuku butadienowego  i adypinianu dioktylu ( homogenizatora lub mieszalnika). Czy dysponujecie urządzeniem w który moglibyśmy przeprowadzić proces homogenizacji kauczuku i adypinianu.  
+"
+391,"2024-09-16 19:40:01",1,"Jacek Ordowski",Bio-Sense,21-010,605907227,jacek@ordowski.pl,"Dzień dobry 
+
+Poszukuje pompy 
+-do kwasu azotowego
+-wydajność ok 40 litrów /h. +/- 10l
+-bez zbędnej elektroniki
+
+Po zapoznaniu się z Waszą ofertą na stronie sądzę że odpowiednią będzie pompa Sr (Fm) 
+
+-Jakie są jej możliwości zasysania cieczy ?
+Tzn jakiej długości oraz jakiej średnicy powinien być przewód aby pompa mogła utrzymać wydajność na poziomie 30-35 l/h. pompa będzie zamontowana na wysokości 1,5m, powyżej poziomu zasysanej cieczy. Ciśnienie na wylocie można pominąć ponieważ będzie to wolny wypływ. 
+-Czy pompa może pracować w trybie ciągłym? 
+
+Z góry dziękuję za odpowiedź. 
+
+Pozdrawiam 
+Ordowski Jacek 
+"
+392,"2024-09-18 17:01:10",1,"Janusz Bujak","PPM PROMONT Bujak Sp. z o.o. Sp.K.",85-097,501541185,janusz.bujak2@gmail.com,"Poszukuję pompy dozującej kwas o wydajności 60-100 l/h i ciśnieniu 10 bar"
+393,"2024-09-18 17:47:41",1,"Bartlomiej Bonawenturczyk ","Borecki zaklad wodociągów i kanalizacji Sp. z o.o.",63-810,669902591,bony27@wp.pl,"Witam proszę o przedstawienie  oferty na pompę jednośrubową z silnikiem  wydajność 8,7m3/h ciśnienie na króćcu tłocznym 0,6MPa pompa pracuje między zbiornikami otwartymi, rurociąg ssawny 2,5m długości a tłoczny 3m podnoszenia i 10m poziomu rurociągu zbiornik zalewany króćce przyłączeniowe fi65 "
+394,"2024-09-19 06:08:40",1,"Kamil Sawicki","NVH POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",43-300,733222457,k.sawicki@nvhkorea.com,"Dzień dobry prosibym o oferte na mieszadło do zbiornika IBC "
+395,"2024-09-19 08:02:53",1,"Bartosz Puchała",Health&Beauty,83-031,517748840,engineering@hbcare.pl,"Witam potrzebował bym pompy beczkowej zbiorniki 220l do glikolu/gliceryny  zasilanej elektrycznie lub pneumatycznie czy mógłbym prosić o doradzenie jaką pompę wybrać i wycenę"
+396,"2024-09-19 10:21:51",1,"Krzysztof Jaworski","P.P.H.U GRET-POL ",09-402,500071236,nnitek@gmail.com,"Witam, 
+Jaka cena za pompę?
+Pozdrawiam,
+Krzysztof Jaworski "
+397,"2024-09-23 06:14:50",1,"Piotr Różkowski","ESFS SP. Z O.O.",03-061,604870282,p.r@esfs.pl,"Dzień dobry, poproszę o ofertę cenową pompy CTM 40-12.5 "
+398,"2024-09-23 07:26:15",1,"Mirosław Rosa","Okręgowa Spółdzielnia Mleczarska",89-310,509944554,technika@osmlobzenica.pl,"proszę o ofertę na zakup pompy krzywkowej z napędem , wydajność około 1500l/h.
+Produkt to jogurty , śmietana .
+"
+399,"2024-09-23 07:50:23",1,"Grzegorz Foc","Tarnobrzeskie Wodociągi Sp. z o.o.",39-400,797917306,grzegorz.foc@wodociagitarnobrzeg.pl,"Dzień dobry poszukujemy lekkiej pompy beczkowej elektrycznej do pompowania podchlorynu sodu. Długość rury pompującej 122 cm. Pompa jest dość mocno eksploatowana. "
+400,"2024-09-23 07:52:55",1,"Miłosz Burzyński","PZW sp. z o.o.",05-600,509779700,mburzynski@grupapzw.com,"Dzień dobry, 
+
+W nawiązaniu do budowy biogazowni o mocy 0,5MW w miejscowości Wielopole (33-210 Wielopole), zwracamy się z uprzejmą prośbą o złożenie oferty wraz z uruchomieniem następujących pomp:
+
+-  pompa o parametrach identycznych lub zbliżonych do pompy -> Bauer Group Polska HELIX DRIVE 1103 – 2 szt.   wydajność około 60m3/h przy ciśnieniu 3bar, 
+
+-  pompa o parametrach identycznych lub zbliżonych do pompy -> Bauer Group Polska  HELIX DRIVE 1106 – 2 szt.  wydajność około 30m3/h przy ciśnieniu 6bar,
+
+Dodatkowo proszę o informację na temat cen części zamiennych/serwisowych + informację na temat gwarancji cen części zamiennych/serwisowych na kolejne lata/miesiące.
+
+Pozdrawiam
+Miłosz Burzyński
+GrupaPZW.com"
+403,"2024-09-24 06:16:32",1,"Piotr Olejniczak","Flint Group",95-050,609201221,petrol@interia.pl,"Dzień dobry,
+poproszę o ofertę pompy beczkowej JP-400 oraz przyłącza z tworzywa i aluminium.
+
+pozdrawiam"
+404,"2024-09-26 08:32:11",1,"Damian Wojtal","COLEP Consumer Products",97-410,727609912,Damian.Wojtal@colep-cp.com,"Dzień dobry,
+
+Chciałbym się zwrócić do Państwa z zapytaniem o ofertę na nakładane mieszadło dla zbiornika IBC 1000L.
+
+Przeznaczeniem mieszadła będzie praca z produktem kosmetycznym o lepkości 500-15000. Potrzebujemy urządzenia wykonanego w standardzie ATEX z napędem pneumatycznym. Materiał 316L dla części mających kontakt z materiałem oraz 304 dla pozostałych.
+
+Rama z dołączonym modułem wózka widłowego. Wirnik składany. Wymagamy instrukcji oraz certyfikatów (zwłaszcza CE) w języku polskim.
+
+Czy posiadają Państwo egzemplarz urządzenia na wypożyczenie celem testów przed ewentualnym zakupem?
+
+Pozdrawiam,
+Damian Wojtal"
+405,"2024-09-27 09:17:52",1,"Piotr Dziewicki","NOYEN SP. Z O.O.",20-270,"694 514 963",piotr.dziewicki@noyen.com,"Dzień dobry,
+proszę o ofertę cenową na mieszadło elektryczne do IBC 1000l;Lepkość max surowców to o. 5000 mPas [20 stC]; najlepiej jakby mieszadło miało otwory na widły od wózka widłowego
+"
+406,"2024-10-01 06:58:16",1,"Mariusz Borowski",Mamut,54-424,601642916,m.borowski@mamutsa.pl,"Dzień dobry
+Proszę o ofertę na pompę do oleju spożywczego. Potrzebuję przepływu ok. 10l/min - praca cykliczna.
+Do tego proszę o ofertę na 5m wężą z atestem do spożywki."
+407,"2024-10-01 08:01:13",1,"Adam Eysymont","PPH Chantal Roman Godek",05-462,222553445,a.eysymont@chantal.com.pl,"Dzień dobry,
+Bylibyśmy zainteresowani zakupem pompy - zestawu  do dolnego rozładunku do cieczy lepkich - bezpośrednio z pojemnika IBC do mieszalnika.
+Pompa miałaby pracować z cieczami o wysokiej lepkości używanymi jako surowce do produkcji kosmetyków. Wymagana wysokość podnoszenia to 5m. Ze względu na mobilność i wygodę użytkowania najdogodniejsze dla nas byłoby zamontowanie takiego zestawu na wózku (ręcznym).
+Czy mają Państwo taką pompę w swojej ofercie? Jeśli tak, to proszę o podanie ceny.
+Dziękuję i pozdrawiam,
+Adam Eysymont"
+408,"2024-10-01 09:35:25",1,"Dariusz Lenarad","Kingspan Enviromental",62-090,+48605552455,dariusz.lenard@kingspan.com,"poszukujemy pompy do solanki 32%. wydajność 150-200l/min. wysokość podnoszenia 3m, zabezpieczenie przed suchobiegiem, praca cykliczna. Najlepiej zatapialna, 230V. 1 szt "
+409,"2024-10-01 10:36:00",1,"Hubert Górka","Pipelife Polska S.A.","26-625 Wolanów",728427353,hubert.gorka@pipelife.com,"Proszę o ofertę na zestaw naprawczy pompy TR20 PTT, głównie potrzebuję membrany i oryngi."
+410,"2024-10-01 11:21:23",1,"Krystian Chwistek",Wolarek,32-060,601223167,chwistekkrystian@gmail.com,"Bardzo proszę o wycenę pompy T50 PTS-14NF"
+411,"2024-10-01 13:39:26",1,"Mariusz Tarnowski","Meyn Polska Sp. z o.o.",84-300,604770984,mtarnowski@meyn.com,"
+Poproszę ofertę cenową na:
+Pompy membranowe seria tworzywowa - Tapflo 
+Pompa z teflonu PTFE model T50
+"
+412,"2024-10-01 19:10:05",1,"Marcin Kotwikowski","PERN S.A",09-410,503675646,marcin.kotwikowski@pern.pl,"Czy posiadają Państwo w swojej ofercie pompy RB 200 45b 132 kw/1400 obr. w wykonaniu Ex? I jakiego producenta są te pompy? Pompy mają służyć do rozładunku paliw ON i BB 95. "
+413,"2024-10-03 12:38:11",1,"Maciej Świderski","AJW WARDEX",05-250,888596586,MACIEK.WARDEX@GMAIL.COM,"Witam proszę o ofertę pompy johnson F4B-19 24V"
+414,"2024-10-07 05:57:00",1,"Maciej Nowak",Ekoproinstal,72-004,791245054,mnowak@ekoproinstal.pl,"Dzień dobry, potrzebuję dobrać pompę wraz z przepływomierzem do opróżniania kontenera (mausera) 1 m3, do przepompowania są ścieki przemysłowe z lakierni (hp 6,4 - 6,9,  gęstość  0,9950 g/cm3). Ścieki miały by być przepompowane poprzez stały rurociąg tłoczny (średnic wg. krućca na pompie) o długości ok 35m. różnica wysokości 2,5 m. Wydajność nie ma większego znaczenia."
+415,"2024-10-07 06:43:16",1,"Małgorzata Dłużak-Szemro","FoxBuy.COM. S.A.",75-129,690830910,m.dluzak@foxbuy.com,"poprosze o ofertę na pomę "
+416,"2024-10-07 11:05:58",1,"Ireneusz Dylich","HARTOWNIA T.S.Zbąszynek Sp.z.o.o.",41-103,691537305,tsz.idylich@hartowniats.pl,"Dzień dobry
+Proszę o ofertę na 6 szt. pompy membranowej T100 w wykonaniu PTFE 
+Pompy będą pracować z silnymi zasadami "" wodorotlenek sodu"" w temperaturze do 80 stopni.
+Pozdrawiam"
+417,"2024-10-08 10:12:38",1,"Jakub Skrobisz","3A Mobility Composites S.A. ",39-300,669970091,jakub.skrobisz@3acomposites.com,"Prosze o ofertę częsci zamiennych dla pompy membranowej TX70 ATT /ATU ( nie wiem jaka jest róznica miedzy atu a att ?)
+poz. 15 - memebrana - 8 szt. 
+poz. 18 komplet oring na króciec - 16 szt. 
+poz. 30 o-ring 16 szt. 
+poz. 47 o-ring - 16 szt. "
+418,"2024-10-08 13:30:47",1,"TOMISŁAW CYSARCZYK","Haniz 2",82-100,602509435,t.cysarczyk@gdd.pl,"dzień dobry, prosze o ofertę na pompe beczkową do 10 000mps"
+419,"2024-10-09 05:03:21",1,"Adam Faliński","Vetrotech ","46-100 Namysłów",572571955,Adam.falinski@saint-gobain.pl,"Witam . Proszę o przedstawienie ofert na pompę membranową T220 ANN "
+420,"2024-10-10 05:29:04",1,,"Lanwar Cosmetics S.J.",60-176,667999000,jw@lanwar.com.pl,"Jaka jest cena mieszalnika IBC ?"
+421,"2024-10-10 05:34:42",1,"Dariusz Kalus",Instanta,44-240,881455556,dariuszkalus@md.instanta.pl,"Jesteśmy firmą zajmującą się produkcją i konfekcjonowaniem kawy. Szukam rozwiązania do transportu aromatu kawowego (gęsty olej) Wcześniej odbywało się to przez wypieranie pneumatyczne ze zbiornika, aktualnie pracuje na pneumatycznej pompie pulsacyjnej, jednak potrzebujemy zwiększyć wydajność do ok 100g\min, na co obecne rozwiązanie nie pozwala. 
+Proszę o zaproponowanie pompy (mam na myśli perystaltyczną lub może inną pańswo proponują) 
+Pompa powinna mieć możliwość sterowania wydajnością od 5g\min do 100g\m.
+"
+422,"2024-10-10 15:04:28",1,"Jakub Szałatkiewicz","Phoenix Surowce Sp. zo.o.","05-816 Michałowice Wieś",504742060,jakub.szalatkiewicz@phoenixsurowce.pl,"Dzień dobry,
+szukam pompy np. membranowej ale z napędem elektrycznym do tłoczenia lepkich i gorących cieczy, będą to woda z rozpuszczoną i pływającą w niej smołą, woda jest kwaśna. 
+temperatura do 95 stC, ale jak by pompa była na ponad 100 stC to by było to korzystne. 
+widzę coś w rodzaju TE120S
+wykonanie ""nierdzewne"",
+przyłącza 1"" wystarczą w zupełności, 
+ciśnienie pracy to tłoczenie ze zbiornika na wysokość do 10m. 
+wydajność 100 dm3/h. ale większa średnica przyłącza by ze względu na większą lepkość cieczy nie dławić przepływu. 
+
+proszę o kontakt i wycenę takiego rozwiązania. 
+Pozdrawiam
+Jakub Szałatkiewicz 
+"
+423,"2024-10-11 08:26:20",1,"Agnieszka Bobińska","Centrum Onkologii im. F. Łukaszczyka","85-796 Bydgoszcz",607383321,bobinskaa@co.bydgoszcz.pl,"Witam, jestem zainteresowana kupnem pompy JP 360, JP 380 lub JP 400. Proszę podać informację, czy pompy mogą pracować w chlorze, jakie są ich ceny, jaki jest czas realizacji zamówienia oraz warunki płatności i transportu.
+Z poważaniem 
+Agnieszka Bobińska"
+424,"2024-10-14 05:19:58",1,"Sławomir Hrycyk",Eko-laser,84-214,721860434,s.hrycyk@ekolaser.pl,"Dzień dobry, proszę o informację cenową odnośnie pompy T100 PTT."
+425,"2024-10-14 07:05:29",1,"Przemysław Nowak","Arcon Aromaty",62001,693807101,p.nowak@arcon.pl,"Dzień dobry,
+Poproszę o przykładową ofertę na  homogenizator laboratoryjny. Potrzebuję wycenę do projektu unijnego. Z góry dziękuję za pomoc."
+426,"2024-10-14 10:28:39",1,"Sławomir Kliszewski","Wolfmann Polska Sp zoo ","87-100 ",608394700,slawomir.kliszewski@wolfmann.eu,"1. Pneumatyczna popia do substancji agresywnych - zestaw 
+2.Pneumatyczna pompa do olejów 
+3. Pneumatyczna pompa do cieczy agresywnych 
+4. Pistolet z przepływomierzem do olejów 
+ Proszę o ofertę do dalszej odsprzedaży Pozdrawiam Sławomir Kliszewski "
+427,"2024-10-16 09:59:17",1,"Jacek Martyna","OBREUS sp. z o.o.","86-031 Osielsko",789356690,jacek.m@obreus.com,"Proszę o dobór i ofertę na pompę do ""szkła wodnego"" na podstawie poniższych danych:
+- wydajność - 3 m3/h
+- temperatura medium - 45-50 st.C
+- lepkość medium - 59,6 cP (w temp. 44 st.C); 48,8 cP (w temp. 50 st.)
+- średnica rurociągu za pompą - fi42,4x3,5
+- wysokość podnoszenia - około 6 mb"
+428,"2024-10-17 10:59:35",1,"Dariusz Madejski","Daras Dariusz Madejski",80-414,514233590,daras@pasywacja.co,"Dzień dobry
+
+Proszę o ofertę cenową na pompę membranową T50.
+
+Pozdrawiam
+Dariusz Madejski"
+429,"2024-10-21 11:29:55",1,"Mariusz Brzyżek","P.D.P Naftochem Spółka Z.O.O",31-429,508689615,mariusz.brzyzek@naftochem.pl,"Dzień dobry, 
+Proszę o ofertę na stację oraz chciałbym się zapoznać z ofertą na pompy olejowe ( jestem w trakcie poszukiwania do mieszalnika ). Dziękuję z góry za odp. "
+443,"2024-10-25 08:39:23",1,"Dariusz Eckert ","FALCON SECURITY ",69-100,507640819,dariusz.eckert1974@gmail.com,"Witam Serdecznie reprezentuję Agencję Ochrony Falcon SECURITY.
+Świadczymy usługi w zakresie Ochrony Fizycznej Osób i mienia 
+Działamy na terenie Powiatu Tczewskiego.
+Proszę o kontakt email do osoby do której możemy wysłać Ofertę współpracy 
+Pozdrawiam Dariusz Eckert "
+444,"2024-10-26 08:39:14",1,"Adam Siadak ","Specjały spod Strzechy ",87-162,501638497,jozef.siadak@gmail.com,"Dzień dobry,
+
+Potrzebujemy pompę do przelewania octu z beczek 220 L do zbiorników typu ""Mauser"" 1000 L.
+Poproszę o ofertę pomp, które by znalazły tu zastosowanie.
+
+Z poważaniem 
+Adam Siadak "
+445,"2024-10-28 10:24:38",1,"Kamil Domaradzki","SIMPLE H2 PSA",43-100,733099048,kamil@simpleh2.com,"Witam, poszukujemy dla Naszej firmy pompy wody (demineralizowanej) dla celów laboratoryjnych, która będzie krążyła w układzie zamkniętym. pętla po której bezie poruszała się woda to mniej niż 10 m. Dodatkowo zależy nam na możliwości sterowania przepływem. Zakres przepływów jaki rozważamy to 2-15 l/min (120-900 l/h) i chcielibyśmy, żeby pompa mieściła się w tych zakresach jeśli to możliwe. Jeśli posiadają Państwo w swojej ofercie produkt o parametrach spełniających nasze oczekiwania prosimy o jego ofertę. Dodatkowo chciałbym zapytać czy oferują również Państwo możliwość instalacji urządzenia w miejscu instalacji? "
+447,"2024-11-03 13:17:11",1,"Dominik Krusz","BioStar PPHU Witold Krusz",90-261,510-139-834,dkrusz@biostarplus.pl,"Witam,
+Proszę o przygotowanie oferty na pompę membranową T50 (Seria tworzywowa pomp membranowych) o wydajności max 60l/min.
+Pompa przeznaczona będzie do dozowania drożdży płynnych oraz cieczy CIP bazującej na roztworze zasadowym MIP SP. Poniżej przesyłam opis detergentu:
+https://chemea.pl/mip-sp-1200kg.html
+
+Pozdrawiam
+Dominik Krusz"
+448,"2024-11-04 08:04:55",1,"Daniel Welzandt","Stara Mleczarnia S.A.",77-235,505171326,daniel.w@staramleczarnia.pl,"proszę o ofertę na pompę krzywkową SPXFLOW"
+449,"2024-11-04 10:25:38",1,"Maciej Adamczyk","MPWiK Sp. z o.o. w Lubinie ",59-300,661990308,m.adamczyk@mpwik.lubin.pl,"Witam!
+Proszę o ofertę cenową na pompę beczkową do przetaczania NaClO. Pompa z PP, długość rury tłocznej 700 mm, wydajność do 40 l/min."
+450,"2024-11-05 08:40:38",1,"Leszek Mieszczanowicz","Ecol ",44-207,666044950,leszek.mieszczanowicz@ecol.eu,"Dzień dobry
+Poszukujemy pompy o parametrach ciśnienie 7 bar, wydajność 300-350m3 na godzinę odporną na kwasy do stężenia 30% ,temperatura do 50 stopni celcjusza. 
+"
+451,"2024-11-05 11:00:02",1,"Marek Pac",AdexBeauty&Care,"14-200 Iława",664401362,m.pac@adexbeauty.com.pl,"Dzień dobry. Poproszę o ofertę zakupu na pompy.. 
+model: TX120 STT 1szt.
+model: T70 STT 1szt."
+452,"2024-11-05 13:08:49",1,"Marek Ciesielski","Przedsiębiorstwo Produkcyjne ""Młynpol"" Marek Ciesielski","80-209 Chwaszczyno","58 5528163",mlynpol@mlynpol.pl,"Dzień dobry,
+Bardzo proszę o ofertę na sprzedaż pompy dozującej TAPFLO typu HD-MA 30-04.
+Sprawę prosimy potraktować jako bardzo pilną dla nas.
+
+-- 
+Z poważaniem,
+
+Marek Ciesielski
+P.P. Młynpol
+www.mlynpol.pl"
+453,"2024-11-06 12:06:33",1,"jan Pomarański","Interchemol Sp. z o.o.",55-120,691848339,j.pomaranski@interchemol.com.pl,"Proszę dobranie pompy wirowej z wirnikiem półotwartym do przepompowywania zawiesiny mączki dolomitowej i kwarcowej w poliolu (środowisko niekorozyjne)
+Parametry:
+gęstość zawiesiny  1,2 kg/dm
+maX, temp.             80 C
+lepkość zawiesiny   5200 mP.s
+zawartość mączki w zawiesinie  40%
+wydajność pompy   50 m3/godz.
+wysokość podnoszenia 10m
+króćce do podłączenia  65 mm
+uszczelnienie mechaniczne"
+454,"2024-11-06 13:10:52",1,"Piotr Haraf","Eka Medica",43=340,"730 867 300",piotr.haraf@ekamedica.pl,"zapytanie o pompę CTH  CE=22M"
+456,"2024-11-12 06:14:51",1,,"Agri Plus Sp.z.o.o   ul.Marcelińska 92 ",60-324,+48602683715,przemyslaw.forman@agriplus.pl,"Dzień dobry,
+Uprzejmie proszę o przedstawienie oferty na pompę T 200 PTFE.
+W ofercie proszę uwzględnić:
+-formę płatności
+-termin dostawy
+-koszt dostawy
+
+Z poważaniem,
+Przemysław Fórman"
+457,"2024-11-13 07:26:33",1,"Marek Gziel","SMP Agro Sp z o.o.",63-004,514552512,m.gziel@smp.agro.pl,"Stacja mieszania IBC 
+Proszę o przedstawienie oferty sprzedaży stacji mieszania stacjonarnej oraz z układem jezdnym . "
+458,"2024-11-14 05:50:41",1,"Marcin Guza",ARKEMA,"88-100 Inowrocław",608393048,marcin.guza@arkema.com,"proszę o ofertę na Art No.: 6-050-61"
+459,"2024-11-14 10:32:38",1,"Paweł Wojciechowski","Stovit ","85-790 Bydgoszcz",883392818,pwojciechowski@stovit.com.pl,"Proszę o pilną ofertę cenową na pompę: TOPFLO T225 STT , lub model pokrewny o podobnych wydajnościach. Podany model mamy na stanie, użytkujemy i nie mamy zastrzeżeń. Pompa podaje produkt spożywczy dżem / powidła w zakresie temperatur do 90stopni. Zamówienie chcemy zrealizować do końca miesiąca "
+460,"2024-11-14 14:03:24",1,"Mateusz Owsiany","LabMatic Sp. z o.o. Sienkiewicza 4 / 56-120 Brzeg Dolny / PL","56-120 Brzeg Dolny",+48885965063,mateusz.owsiany@pcc.eu,"Dzień dobry,
+Proszę o przesłanie ofert:
+- zestaw naprawczy pompy 
+- tłumik pompy
+i drugą ofertę na nową pompę.
+Pompa membranowa Tapflo TR20 PTT
+Dziękuję."
+461,"2024-11-18 10:58:05",1,"Andrzej Grzesiak","MAN Trucks Sp. z o.o.",32-005,"881 977 959",andrzej.grzesiak@man.eu,"Dzień dobry,
+Chciałbym prosić o ofertę na pompę membranową zasilaną sprężonym powietrzem z seri TX25 firmy Tapflo AB o oznaczeniu TX25ANN-SAT.
+Pozdrawiam Andrzej Grzesiak."
+463,"2024-11-20 11:37:15",1,"Michał Marcinkowski",BtrSystems,32-700,573002010,m.marcinkowski@btrsystems.eu,"Witam poszukuję membrana pompy  - kpl.- nr 6-100-15 kule zaworowe - nr 6-100-23 do pompy Tapflo Typ: T100 czy mógł bym prosić o wycenę?
+"
+464,"2024-11-21 07:12:00",1,"Karol Bieńkowski",Sabert,92-517,730887474,kbienkowski@sabert.com,"Dzień dobry,
+
+Chciałbym spytać o cenę pomp membranowych z tworzywa, model: TR20 i T50.
+Jeszcze jedno pytanie o termin realizacji zamówienia ?"
+465,"2024-11-21 07:33:56",1,"Katarzyna Cyplik","Przedsiębiorstwo Produkcyjno-Usługowe Zbigniew Burdziąg","63-720 Stara Obra","62 7218146 wewn 15",k.cyplik@burdziag.com.pl,"Dzień dobry,
+Szanowni Państwo poszukuję pompy nadającej się do wypompowywania żywicy poliestrowej z beczek 220 l. Czy macie Państwo w ofercie pompę, która nadaje się do tego celu? Jeśli tak to poproszę o ofertę."
+466,"2024-11-21 12:21:26",1,"Tomasz Markuzel","Teknomatik Europe",43-385,668328031,t.markuzel@teknomatik.pl,"Proszę o ofertę na 2 szt. pompy T80.
+
+Pozdrawiam
+Tomasz Markuzel"
+467,"2024-11-22 06:41:58",1,"Gertruda Pudło","Wytwórnia Sprzętu Komunikacyjnego ""PZL-Krosno""S.A.",38-400,693904778,gpudlo@wsk-krosno.pl,"Witam,
+
+Proszę o pilną ofertę na pompę  FIP40SH-DIN42M06F90 1, 1/900/-1  
+
+POZDRAWIAM
+Gertruda Pudło
+Kierownik HZ
+WSK""PZL-Krosno""SA
+str.Żwirki i Wigury 6
+38-400 Krosno
+tel 13 43 74 426
+fax 13 43 68 861
+tel. 693 904 778
+gpudlo@wsk-krosno.pl
+www.wsk-krosno.pl"
+468,"2024-11-22 06:47:39",1,"Piotr Gryglas","P.H.U. ""ELMAR"" LESIUK SP.J",21-500,517799715,biuro@elmarryby.pl,"Dzień dobry,
+
+proszę o informację, czy posiadacie w swojej ofercie pompę do oleju roślinnego spożywczego służącą do transportowania cieczy z paleto-pojemników typu mauzer? Jeśli tak to jaki system występuje: podłączana do zaworu spustowego czy wkładana od góry do wnętrza zbiornika. 
+Z góry dziękuję za odpowiedź.
+
+Z poważaniem
+Piotr Gryglas "
+469,"2024-11-25 10:25:11",1,"Dariusz Pasieczny","Politechnika Gdańska",80-233,"601 66 94 64",dpas@pg.edu.pl,"Czy mają Państwo w ofercie pompy SP 622 EC-BL-DU-DV"
+471,"2024-11-27 16:56:27",1,"Paweł Garwoliński","Khedar Zakład Usług Specjalistycznych",05-123,602172271,ultar2@gmail.com,"Dzień dobry, interesuje mnie cena pompy membranowej, model: T70, używałem już takiej i chętnie zakupię. Z poważaniem Paweł Garwoliński. "
+472,"2024-11-28 07:36:12",1,"Piotr Wiśniewski","SES Hydrogen Energy Sp. z o.o.",80-172,725553952,piotr.wisniewski@seshydrogen.com,"Szanowni Państwo,
+
+Natrafiłem na ofertę Państwa firmy poszukując dostawcy urządzeń chłodniczych, które potencjalnie mogą stanowić komponenty do urządzenia wodorowego projektowanego przez naszą firmę. 
+Poszukujemy procesowego systemu chłodniczego - wymiennika ciepła do chłodzenia medium procesowego oraz kompatybilnej jednostki chłodzącej (np. dry cooler) z zamkniętym obiegiem chłodziwa. Istotnym dla nas jest, aby jednostka chłodząca była kompletnym rozwiązaniem (z pompą, zbiornikiem chłodziwa, sterowaniem umożliwiającym zmianę mocy chłodzenia). Wymiennik ciepła będzie zlokalizowany wewnątrz pomieszczenia w strefie Ex, natomiast jednostka chłodząca będzie zlokalizowana na zewnątrz w miejscu bez strefy Ex. 
+Ponadto do tego urządzenia poszukujemy również trzech pomp.
+Szczegółowe informacje techniczne znajdują się w kartach PDS, które udostępnię po nawiązaniu kontaktu mailowego. 
+
+Jeżeli posiadają państwo odpowiednie urządzenia w swojej ofercie, proszę o kontakt w celu doszczegółowienia przedmiotu ofertowania.
+
+Z poważaniem
+Piotr Wiśniewski
+"
+473,"2024-12-02 08:47:54",1,"Mateusz Zaborniak",Corlido,31-323,668263288,ops.pl@corlidogroup.com,"pompka beczkowa ręczna model JP-08 - 3 szt
+https://www.tapflo.com.pl/pompy-beczkowe-2
+"
+474,"2024-12-02 10:42:38",1,"Dmytro Tymoshchuk","A4group Sp z o o",32-700,+48539495759,dtymoshchuk@a4group.eu,"Dzień dobry
+proszę o podanie ceny numeru pompy?
+
+czy jest dostępny?
+
+będziemy musieli posiadać dokumenty potwierdzające działanie tej pompy z produktami spożywczymi. (woda)
+"
+475,"2024-12-02 12:47:43",1,"JERZY PIOTROWICZ","OMC Envag  JERZY PIOTROWICZ",51-684,530479414,jpiotrowicz@envag.com.pl,"PROSZE O DOBÓR I OFERTĘ NA DOSTAWE POMP BECZKOWYCHDLA:
+KMnO4, NaOH, NaOCl Z OPCJĄ MIERNIK PRZEPŁYWU."
+476,"2024-12-02 15:10:59",1,"Konrad Niezgódka","Tłocznia Soków BIOAR",64-965,661186602,grbioar@gmail.com,"Dzień dobry, 
+Proszę o ofertę na pompę membranową T50 zasilaną sprężonym powietrzem. Czy poradzi sobie ta pompa z pulpą owocową? Pozdrawiam"
+477,"2024-12-03 08:55:49",1,"Kamil Rozmarynowski","NAFTOSERWIS SP. Z O.O. Zespół Serwisowy Zachód w Rejowcu",62085,517889997,kamil.rozmarynowski@naftoserwis.pl,"Dzień dobry,
+Posiadamy turecką pompę membranową:
+- RAN PUMP model RAN 1 1/2 M,
+- PARTI NO: GSN-O7
+- SERI NO: EA-1
+- MAX 1-7 Bar.
+Byłaby możliwość przedstawienia oferty na zestaw naprawczy suchy i mokry do tej pompy? (mokry może być z materiału NBR, nie musi być PTFE).
+
+Z wyrazami szacunku."
+478,"2024-12-04 12:50:21",1,"Aleksandra ",Politan,34-300,784511624,aleksandra.jurczak-lach@politan.pl,"Interesuje mnie zakup pomy pneumatyczmo membraniwej "
+479,"2024-12-04 19:00:31",1,"grzegorz jabłoński","pasieka jabłońscy",13-334,796362301,jablonscy@miodek.info,"szukam pompy do pompowania gorącego wosku pszczelego chodzi o rodzaj pompy beczkowej która wytrzyma 125C wysokość podoszenia max 2m niekoniecznie musi mieć duża wydajność"
+480,"2024-12-05 20:55:44",1,"Bohdan Sharabura","MBF Spółka Akcyjna",05-530,508698085,bohdan.sharabura@mbf.agro.pl,"Witam. Prosce o oferte pompa CTI CC-15,CTI CC-22,CTI CE-22, przylacza - DIN 11851 DN32 z gwintem zewnętrznym."
+481,"2024-12-06 14:40:55",1,"Czesław Hańdziuk","Mix S.a",82-500,600077782,czeslaw@mi.com.pl,"Prosimy o oferte na:
+1.Pompa wirowa do wina, wyd.30m3/h,H-40 mb,3f 400V,  -1 szt."
+482,"2024-12-08 12:26:00",1,"Bogusław WOŁOSZYN","SPAW-MET BOGUSŁAW WOŁOSZYN",22-100,886146044,boguslawwoloszyn@gmail.com,"potrzebuję pompę do tłoczenia oleju jafalnego /przeładunek cystern min.wydajność 100m3/h -wymagany certyfikat spożywczy"
+483,"2024-12-11 07:01:44",1,"Joanna Zyrczuk-Żar ","JL-PARTS Joanna Zyrczuk-Żar ","17-100 ",790823814,jlparts.zyrczuk@gmail.com,"Witam. 
+Poproszę o wycenę pompy membranowej T50 w wersji ptfe.
+
+Dziękuję i pozdrawiam "
+484,"2024-12-11 09:16:19",1,"Elżbieta Świątek","Universal Fibers Europe Sp. z o.o.",66-400,669-222-026,elzbieta.swiatek@universalfibers.com,"dzień dobry,
+
+proszę o przesłanie oferty na zakup mieszalnika do pojemnika IBC z substancją antystatyczną Lurol.
+
+dziękuję
+Elżbieta"
+485,"2024-12-13 05:12:45",1,"adam zawadzki ","pamso ",95-200,504178748,adam.zawadzki@pamso.com.pl,"witam serdecznie  potrzebujemy oferte na pompkę dozujacą PIX wydajność do 30 l /h"
+486,"2024-12-16 10:19:00",1,"Robert Jędrzejewski","Apis Fijałkowski Bloch Sp. Komandytowa","87-860 Chodecz",608617208,robert.jedrzejewski@pwapis.pl,"Witam.
+Poproszę ofertę na zestaw naprawczy do pompy tapflo T70 ATT.
+Pozdrawiam, Robert Jędrzejewski
+Apis Chodecz
+tel. 608617208"
+487,"2024-12-18 09:35:45",1,"Sylwia Krasucka","Rewital-Serwis Sp. z o.o.","40-389 Katowice","+48 795 149 862",skrasucka@rewital-serwis.pl,"Dzień dobry,
+W związku z realizacją od marca 2025 do października.2025 tematu Ogród Botaniczny w Zabrzu zwracam się z uprzejmą prośbą o przygotowanie oferty na zbiornik nawożeniowy o pojemności 800l z wbudowanym  mieszadłem  oraz  hydroforem.  Do  zbiornika  doprowadzić  należy  wodę  surową.  Dozowanie nawozów  odbywać  się  będzie  ręcznie  w  zależności  od  potrzeb  użytkownika.  Woda  nawozowa  będzie rozprowadzona po pomieszczeniach szklarni poprzez wewnętrzną instalację z rur PE100 SDR17 prowadzoną 
+pod chodnikami do kranów w murkach w obrębie budynku szklarni. Proszę również o podanie kosztów przedłużonej gwarancji do 60-mcy oraz kosztów przegladów w tym okresie bez kosztów materiałów eksploatacyjnych. "
+488,"2024-12-18 10:52:07",1,"JERZY PIOTROWICZ","OMC Envag  JERZY PIOTROWICZ",51-684,530479414,jpiotrowicz@envag.com.pl,"proszę o ofertę na 2 mieszadła jednofazowe  do zbiorników  IBC 1000 l  dla medium : 1)- rozpuszczanie KMnO4 2)- mieszanie 20%  NaOH"
+489,"2024-12-18 21:57:08",1,"Tomasz Kasendra","ELS POLAND Sp. ZO.o. ",30-499,502582441,t.kasendra@flexizone.pl,"Proszę o ofertę na pompę PROCAM w wersji tłokowej. 
+Czy jest ona w stanie dozować klej poliuretanowy (konsystencja mniej więcej gęstego oleju)?
+
+pozdrawiam 
+Tomasz Kasendra 
+"
